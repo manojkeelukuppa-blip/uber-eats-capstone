@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,cuisine,average_rating,average_prep_time_min,is_active
+1,Restaurant_001,Mumbai,Fast Food,3.83,28,True
+2,Restaurant_002,Chennai,Italian,3.73,10,True
+3,Restaurant_003,Hyderabad,Chinese,4.64,30,True
+4,Restaurant_004,Pune,Fast Food,4.29,23,True
+5,Restaurant_005,Hyderabad,Indian,3.15,15,True
+6,Restaurant_006,Hyderabad,Fast Food,3.28,14,True
+7,Restaurant_007,Bengaluru,Chinese,4.8,11,True
+8,Restaurant_008,Pune,Chinese,4.77,29,True
+9,Restaurant_009,Mumbai,Italian,4.9,31,False
+10,Restaurant_010,Chennai,Fast Food,3.86,29,True
+11,Restaurant_011,Hyderabad,Chinese,4.57,13,True
+12,Restaurant_012,Hyderabad,Fast Food,4.66,11,True
+13,Restaurant_013,Bengaluru,Chinese,3.63,13,True
+14,Restaurant_014,Pune,Chinese,3.29,33,True
+15,Restaurant_015,Pune,Mexican,4.99,32,True
+16,Restaurant_016,Pune,Mexican,3.06,19,True
+17,Restaurant_017,Chennai,Chinese,4.19,11,True
+18,Restaurant_018,Chennai,Indian,4.3,19,True
+19,Restaurant_019,Bengaluru,Chinese,4.36,35,True
+20,Restaurant_020,Mumbai,Italian,3.51,14,True
+21,Restaurant_021,Chennai,Indian,4.44,34,True
+22,Restaurant_022,Pune,Indian,3.43,24,False
+23,Restaurant_023,Pune,Fast Food,4.66,14,True
+24,Restaurant_024,Bengaluru,Indian,3.44,38,True
+25,Restaurant_025,Pune,Italian,4.39,26,True
+26,Restaurant_026,Bengaluru,Mexican,4.57,30,True
+27,Restaurant_027,Hyderabad,Chinese,3.38,12,True
+28,Restaurant_028,Hyderabad,Italian,3.48,21,True
+29,Restaurant_029,Pune,Indian,4.56,29,True
+30,Restaurant_030,Mumbai,Mexican,3.17,30,True
+31,Restaurant_031,Pune,Mexican,3.38,11,True
+32,Restaurant_032,Hyderabad,Fast Food,3.91,28,True
+33,Restaurant_033,Pune,Fast Food,4.86,39,True
+34,Restaurant_034,Pune,Chinese,4.12,34,False
+35,Restaurant_035,Pune,Indian,3.78,16,True
+36,Restaurant_036,Hyderabad,Chinese,4.96,38,True
+37,Restaurant_037,Chennai,Indian,3.93,31,True
+38,Restaurant_038,Pune,Italian,3.87,11,True
+39,Restaurant_039,Mumbai,Indian,3.82,13,True
+40,Restaurant_040,Pune,Fast Food,3.62,38,False
+41,Restaurant_041,Hyderabad,Mexican,3.65,16,True
+42,Restaurant_042,Pune,Chinese,4.38,12,True
+43,Restaurant_043,Mumbai,Fast Food,3.08,23,True
+44,Restaurant_044,Mumbai,Mexican,4.36,26,True
+45,Restaurant_045,Bengaluru,Italian,3.4,27,True
+46,Restaurant_046,Hyderabad,Indian,3.77,30,True
+47,Restaurant_047,Mumbai,Chinese,3.29,40,True
+48,Restaurant_048,Mumbai,Italian,4.11,33,True
+49,Restaurant_049,Pune,Mexican,4.46,10,True
+50,Restaurant_050,Chennai,Chinese,3.71,12,True
+51,Restaurant_051,Chennai,Mexican,3.33,10,True
+52,Restaurant_052,Pune,Chinese,3.45,22,True
+53,Restaurant_053,Pune,Chinese,4.64,20,True
+54,Restaurant_054,Bengaluru,Italian,3.54,38,True
+55,Restaurant_055,Chennai,Indian,4.55,21,True
+56,Restaurant_056,Pune,Italian,3.66,10,True
+57,Restaurant_057,Bengaluru,Chinese,3.38,37,True
+58,Restaurant_058,Mumbai,Chinese,4.45,18,True
+59,Restaurant_059,Bengaluru,Mexican,3.94,38,True
+60,Restaurant_060,Bengaluru,Chinese,3.06,34,True
+61,Restaurant_061,Mumbai,Mexican,4.92,37,True
+62,Restaurant_062,Mumbai,Mexican,3.3,35,True
+63,Restaurant_063,Hyderabad,Mexican,3.71,14,True
+64,Restaurant_064,Pune,Chinese,3.77,29,True
+65,Restaurant_065,Chennai,Fast Food,3.98,22,True
+66,Restaurant_066,Hyderabad,Chinese,4.57,29,True
+67,Restaurant_067,Mumbai,Chinese,3.01,33,True
+68,Restaurant_068,Mumbai,Fast Food,4.86,25,True
+69,Restaurant_069,Chennai,Chinese,4.29,19,True
+70,Restaurant_070,Mumbai,Mexican,4.9,38,False
+71,Restaurant_071,Hyderabad,Indian,4.63,30,True
+72,Restaurant_072,Hyderabad,Mexican,4.86,37,True
+73,Restaurant_073,Pune,Fast Food,4.2,17,True
+74,Restaurant_074,Chennai,Mexican,3.71,35,True
+75,Restaurant_075,Mumbai,Italian,3.89,20,True
+76,Restaurant_076,Pune,Fast Food,4.32,24,True
+77,Restaurant_077,Mumbai,Chinese,3.85,36,True
+78,Restaurant_078,Pune,Chinese,4.46,20,True
+79,Restaurant_079,Hyderabad,Indian,3.18,17,False
+80,Restaurant_080,Chennai,Mexican,4.66,38,True
+81,Restaurant_081,Pune,Mexican,3.41,39,True
+82,Restaurant_082,Mumbai,Mexican,4.89,19,True
+83,Restaurant_083,Chennai,Mexican,3.31,19,True
+84,Restaurant_084,Chennai,Indian,3.26,17,True
+85,Restaurant_085,Chennai,Mexican,4.62,10,True
+86,Restaurant_086,Pune,Mexican,4.64,27,True
+87,Restaurant_087,Bengaluru,Chinese,4.48,17,True
+88,Restaurant_088,Mumbai,Italian,4.92,36,True
+89,Restaurant_089,Hyderabad,Fast Food,3.54,15,True
+90,Restaurant_090,Bengaluru,Italian,4.65,29,True
+91,Restaurant_091,Mumbai,Mexican,3.7,25,True
+92,Restaurant_092,Mumbai,Italian,4.07,28,True
+93,Restaurant_093,Mumbai,Mexican,3.89,13,True
+94,Restaurant_094,Hyderabad,Mexican,3.01,24,True
+95,Restaurant_095,Chennai,Mexican,4.15,29,True
+96,Restaurant_096,Bengaluru,Mexican,4.5,20,True
+97,Restaurant_097,Bengaluru,Fast Food,3.35,37,True
+98,Restaurant_098,Chennai,Chinese,4.86,26,True
+99,Restaurant_099,Mumbai,Fast Food,4.06,21,True
+100,Restaurant_100,Bengaluru,Mexican,3.36,10,True

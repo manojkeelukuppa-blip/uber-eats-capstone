@@ -1,0 +1,2950 @@
+review_id,order_id,customer_id,restaurant_id,rating,review_text,review_date
+1,1462,876,94,5,"Amazing experience, arrived on time",2025-04-26
+2,2214,910,32,5,Great taste and excellent service,2025-01-13
+3,4622,204,13,4,"Fresh food, highly recommended",2025-04-06
+4,3370,700,73,5,Great taste and excellent service,2025-03-16
+5,2619,308,30,5,Great taste and excellent service,2025-05-08
+6,2675,948,82,5,"Amazing experience, arrived on time",2025-05-18
+7,2393,85,84,5,Delicious food and quick delivery,2025-05-26
+8,3128,1103,6,4,"Fresh food, highly recommended",2025-06-19
+9,3949,1026,73,3,Food was okay,2025-04-15
+10,4641,1184,44,2,Food arrived cold and late,2025-01-05
+11,4926,930,40,2,Order was delayed and food was soggy,2025-03-21
+12,1101,1299,42,4,Delicious food and quick delivery,2025-05-23
+13,1288,292,77,1,Poor service and disappointing taste,2025-01-04
+14,597,352,19,5,Great taste and excellent service,2025-02-05
+15,2384,86,61,5,"Amazing experience, arrived on time",2025-03-24
+16,4218,6,66,5,Delicious food and quick delivery,2025-01-23
+17,2272,1476,53,2,Food arrived cold and late,2025-03-26
+18,581,1353,58,3,Food was okay,2025-05-24
+19,4327,225,62,5,Great taste and excellent service,2025-06-26
+20,2324,548,16,5,Delicious food and quick delivery,2025-06-05
+21,3799,825,46,5,"Fresh food, highly recommended",2025-06-02
+22,2287,906,6,5,Delicious food and quick delivery,2025-02-22
+23,4011,454,55,2,Order was delayed and food was soggy,2025-01-23
+24,2206,1018,41,5,Delicious food and quick delivery,2025-05-23
+25,25,1020,8,3,Food was okay,2025-06-06
+26,2470,1476,95,3,Average experience,2025-01-10
+27,9,951,50,4,Delicious food and quick delivery,2025-01-16
+28,995,1217,10,5,"Fresh food, highly recommended",2025-01-29
+29,587,1422,62,4,Delicious food and quick delivery,2025-05-28
+30,4588,330,5,3,"Nothing special, but fine",2025-06-26
+31,4520,1350,88,5,"Amazing experience, arrived on time",2025-03-02
+32,217,60,77,3,Average experience,2025-02-14
+33,4571,449,14,5,"Amazing experience, arrived on time",2025-04-10
+34,1782,873,90,5,"Amazing experience, arrived on time",2025-06-10
+35,73,372,5,2,Not worth the price,2025-01-18
+36,624,111,93,4,Great taste and excellent service,2025-01-22
+37,3662,4,23,2,Food arrived cold and late,2025-06-26
+38,265,1087,65,5,"Fresh food, highly recommended",2025-06-01
+39,4393,440,18,5,"Fresh food, highly recommended",2025-01-22
+40,1217,244,99,3,Average experience,2025-03-11
+41,512,1260,19,5,"Fresh food, highly recommended",2025-06-16
+42,2480,617,84,4,Great taste and excellent service,2025-02-17
+43,4655,566,33,4,"Amazing experience, arrived on time",2025-06-19
+44,3800,623,96,5,"Amazing experience, arrived on time",2025-01-27
+45,2436,1033,74,5,Delicious food and quick delivery,2025-06-25
+46,457,1042,22,4,"Amazing experience, arrived on time",2025-05-16
+47,3053,1023,79,5,Delicious food and quick delivery,2025-05-09
+48,1575,1177,39,3,Taste and delivery were acceptable,2025-02-10
+49,541,1407,20,4,Delicious food and quick delivery,2025-02-23
+50,277,819,53,2,Food arrived cold and late,2025-01-31
+51,3820,939,75,4,"Fresh food, highly recommended",2025-04-15
+52,1133,744,95,4,Great taste and excellent service,2025-03-29
+53,4720,379,83,5,"Amazing experience, arrived on time",2025-02-11
+54,843,598,6,3,Taste and delivery were acceptable,2025-01-05
+55,4907,333,67,5,Delicious food and quick delivery,2025-03-17
+56,2707,24,85,3,Average experience,2025-05-15
+57,2444,1432,16,4,"Fresh food, highly recommended",2025-02-08
+58,4143,1222,17,4,Delicious food and quick delivery,2025-02-16
+59,1365,124,18,5,Delicious food and quick delivery,2025-02-13
+60,1732,1334,99,4,Delicious food and quick delivery,2025-06-02
+61,1264,1144,41,3,Food was okay,2025-05-24
+62,456,860,100,3,"Nothing special, but fine",2025-06-02
+63,987,1096,20,5,"Fresh food, highly recommended",2025-03-13
+64,2496,252,31,5,Great taste and excellent service,2025-05-09
+65,509,710,93,5,Great taste and excellent service,2025-03-05
+66,3570,294,45,4,"Fresh food, highly recommended",2025-06-14
+67,31,454,36,5,"Fresh food, highly recommended",2025-03-07
+68,1587,1065,28,4,Great taste and excellent service,2025-03-16
+69,1504,848,90,3,Average experience,2025-02-08
+70,2429,70,19,3,Average experience,2025-06-25
+71,2844,1355,6,5,Delicious food and quick delivery,2025-01-21
+72,3656,1422,83,5,Delicious food and quick delivery,2025-05-20
+73,4180,1174,15,5,"Fresh food, highly recommended",2025-06-20
+74,4691,1422,14,2,Not worth the price,2025-06-22
+75,4146,1434,11,4,"Fresh food, highly recommended",2025-06-11
+76,2074,356,90,2,Not worth the price,2025-05-12
+77,4770,849,30,5,"Amazing experience, arrived on time",2025-01-03
+78,1082,1035,95,2,Order was delayed and food was soggy,2025-01-05
+79,834,1394,92,5,"Fresh food, highly recommended",2025-06-13
+80,3836,1040,89,4,Great taste and excellent service,2025-06-12
+81,3291,1333,24,4,Delicious food and quick delivery,2025-06-16
+82,2179,98,86,5,Great taste and excellent service,2025-02-16
+83,3591,1174,77,5,"Amazing experience, arrived on time",2025-06-22
+84,992,795,7,5,"Fresh food, highly recommended",2025-06-30
+85,4837,1406,60,4,"Fresh food, highly recommended",2025-02-17
+86,2752,763,67,3,Taste and delivery were acceptable,2025-02-23
+87,1992,233,4,3,Food was okay,2025-06-04
+88,887,1255,71,5,Delicious food and quick delivery,2025-02-20
+89,3915,488,6,4,"Amazing experience, arrived on time",2025-01-24
+90,195,54,82,5,"Amazing experience, arrived on time",2025-02-03
+91,4528,354,66,5,"Amazing experience, arrived on time",2025-04-26
+92,2938,567,99,3,Food was okay,2025-01-06
+93,328,100,90,1,Not worth the price,2025-05-28
+94,925,1016,91,4,Great taste and excellent service,2025-04-22
+95,2840,467,58,4,Great taste and excellent service,2025-03-11
+96,714,1083,20,2,Poor service and disappointing taste,2025-05-08
+97,2306,1404,39,4,"Amazing experience, arrived on time",2025-05-30
+98,1357,120,19,4,"Fresh food, highly recommended",2025-01-16
+99,4458,379,87,3,Taste and delivery were acceptable,2025-03-14
+100,1279,363,86,4,Delicious food and quick delivery,2025-03-08
+101,1703,411,76,1,Poor service and disappointing taste,2025-03-08
+102,3534,1419,55,5,Delicious food and quick delivery,2025-01-23
+103,1185,529,51,5,Delicious food and quick delivery,2025-04-14
+104,2546,532,32,3,Taste and delivery were acceptable,2025-03-10
+105,4475,1199,62,4,Great taste and excellent service,2025-05-15
+106,2757,503,22,5,"Amazing experience, arrived on time",2025-06-02
+107,262,1002,59,4,Delicious food and quick delivery,2025-05-30
+108,1770,1169,56,4,"Amazing experience, arrived on time",2025-05-19
+109,4330,1162,61,5,Great taste and excellent service,2025-06-12
+110,4589,100,49,5,"Fresh food, highly recommended",2025-05-30
+111,894,289,28,1,Not worth the price,2025-06-17
+112,591,611,68,4,Delicious food and quick delivery,2025-02-07
+113,644,798,16,4,Great taste and excellent service,2025-01-24
+114,1961,147,24,1,Poor service and disappointing taste,2025-02-19
+115,3193,309,16,5,"Amazing experience, arrived on time",2025-05-20
+116,3912,1084,74,5,"Amazing experience, arrived on time",2025-03-09
+117,3016,664,52,5,Delicious food and quick delivery,2025-02-23
+118,3910,1259,1,3,"Nothing special, but fine",2025-03-21
+119,1151,1120,20,2,Poor service and disappointing taste,2025-03-31
+120,2235,911,88,3,Taste and delivery were acceptable,2025-05-13
+121,1247,174,84,4,"Fresh food, highly recommended",2025-05-01
+122,2685,730,71,3,Taste and delivery were acceptable,2025-04-26
+123,330,760,79,5,"Amazing experience, arrived on time",2025-01-13
+124,35,617,9,5,Delicious food and quick delivery,2025-03-03
+125,3174,1495,90,3,Food was okay,2025-04-16
+126,3928,833,71,5,"Fresh food, highly recommended",2025-03-09
+127,2650,198,95,4,"Amazing experience, arrived on time",2025-01-25
+128,1807,264,40,4,Delicious food and quick delivery,2025-01-14
+129,1166,1059,19,3,"Nothing special, but fine",2025-03-28
+130,4132,2,94,2,Food arrived cold and late,2025-06-25
+131,1630,822,80,5,Delicious food and quick delivery,2025-05-24
+132,163,18,67,5,"Amazing experience, arrived on time",2025-02-17
+133,2193,1387,33,5,Delicious food and quick delivery,2025-06-30
+134,4769,1242,44,3,"Nothing special, but fine",2025-04-06
+135,4532,1151,100,5,Delicious food and quick delivery,2025-05-11
+136,1068,1480,21,5,Delicious food and quick delivery,2025-01-05
+137,2441,337,64,4,Delicious food and quick delivery,2025-04-25
+138,4997,543,30,3,"Nothing special, but fine",2025-01-30
+139,3356,793,4,5,Delicious food and quick delivery,2025-05-06
+140,1964,443,27,5,"Fresh food, highly recommended",2025-06-27
+141,4573,1142,40,5,"Fresh food, highly recommended",2025-05-17
+142,848,139,27,5,"Fresh food, highly recommended",2025-02-22
+143,3769,1304,38,3,Average experience,2025-06-06
+144,2706,930,64,5,"Amazing experience, arrived on time",2025-04-14
+145,4145,1273,19,4,"Fresh food, highly recommended",2025-05-17
+146,2684,1243,42,4,"Fresh food, highly recommended",2025-02-13
+147,4424,879,63,4,"Fresh food, highly recommended",2025-04-09
+148,702,409,88,5,Great taste and excellent service,2025-01-18
+149,1547,718,32,5,Great taste and excellent service,2025-06-25
+150,3425,871,65,4,"Amazing experience, arrived on time",2025-04-23
+151,585,517,18,5,"Amazing experience, arrived on time",2025-04-11
+152,2666,601,12,4,Delicious food and quick delivery,2025-05-29
+153,936,1398,56,4,"Fresh food, highly recommended",2025-03-06
+154,796,985,61,3,Taste and delivery were acceptable,2025-06-16
+155,754,107,48,1,Poor service and disappointing taste,2025-05-24
+156,1127,1354,1,4,Delicious food and quick delivery,2025-01-03
+157,1218,206,5,5,Delicious food and quick delivery,2025-06-01
+158,902,739,12,5,Delicious food and quick delivery,2025-05-07
+159,2509,636,90,5,"Fresh food, highly recommended",2025-03-07
+160,3564,626,2,4,Great taste and excellent service,2025-03-25
+161,303,405,55,5,"Fresh food, highly recommended",2025-01-21
+162,2027,1178,100,5,"Amazing experience, arrived on time",2025-04-27
+163,169,735,62,2,Order was delayed and food was soggy,2025-06-02
+164,1598,996,33,4,Great taste and excellent service,2025-05-28
+165,3497,1065,57,4,"Amazing experience, arrived on time",2025-02-22
+166,4816,1274,97,5,"Amazing experience, arrived on time",2025-01-05
+167,3154,518,14,4,"Amazing experience, arrived on time",2025-06-01
+168,2943,199,61,5,"Fresh food, highly recommended",2025-01-26
+169,1636,550,8,1,Order was delayed and food was soggy,2025-03-02
+170,4009,568,84,3,Average experience,2025-05-12
+171,1741,537,24,4,Great taste and excellent service,2025-02-05
+172,3280,172,18,3,"Nothing special, but fine",2025-02-22
+173,2254,505,95,5,"Amazing experience, arrived on time",2025-05-22
+174,323,1019,96,5,"Amazing experience, arrived on time",2025-05-25
+175,2601,952,79,4,Great taste and excellent service,2025-04-05
+176,3308,1187,56,2,Not worth the price,2025-02-16
+177,507,102,63,5,Delicious food and quick delivery,2025-03-27
+178,2632,1049,23,5,"Amazing experience, arrived on time",2025-05-16
+179,3114,1324,21,5,"Amazing experience, arrived on time",2025-03-23
+180,4047,955,12,4,"Fresh food, highly recommended",2025-05-25
+181,4829,1074,11,5,Delicious food and quick delivery,2025-05-31
+182,115,896,73,4,"Amazing experience, arrived on time",2025-04-14
+183,2822,1230,51,1,Food arrived cold and late,2025-01-04
+184,2530,226,19,5,Delicious food and quick delivery,2025-05-29
+185,1619,83,75,3,Food was okay,2025-06-17
+186,530,1467,13,3,Average experience,2025-02-20
+187,4834,529,13,5,Delicious food and quick delivery,2025-06-22
+188,2553,1161,59,5,"Fresh food, highly recommended",2025-02-11
+189,1702,166,3,4,Great taste and excellent service,2025-01-26
+190,1648,289,39,3,"Nothing special, but fine",2025-03-16
+191,1552,505,81,5,"Fresh food, highly recommended",2025-03-13
+192,53,589,91,4,"Fresh food, highly recommended",2025-05-12
+193,4849,1367,46,4,Delicious food and quick delivery,2025-02-11
+194,1450,631,89,3,Taste and delivery were acceptable,2025-04-22
+195,4323,635,90,4,"Amazing experience, arrived on time",2025-03-30
+196,1302,1096,47,4,"Fresh food, highly recommended",2025-06-10
+197,4342,897,45,3,Average experience,2025-04-05
+198,4884,568,31,4,"Fresh food, highly recommended",2025-04-14
+199,3740,394,13,5,Great taste and excellent service,2025-03-12
+200,28,1231,50,3,Food was okay,2025-02-11
+201,4332,153,82,3,Taste and delivery were acceptable,2025-04-30
+202,471,1215,74,5,Great taste and excellent service,2025-06-13
+203,3220,387,22,5,Delicious food and quick delivery,2025-05-20
+204,2620,965,42,4,"Amazing experience, arrived on time",2025-03-25
+205,3060,574,58,5,Great taste and excellent service,2025-04-14
+206,1757,1358,67,2,Not worth the price,2025-04-24
+207,2897,1458,26,5,"Fresh food, highly recommended",2025-04-10
+208,1197,1118,66,5,"Fresh food, highly recommended",2025-06-11
+209,2448,621,27,4,Great taste and excellent service,2025-03-07
+210,4591,1017,18,5,"Amazing experience, arrived on time",2025-02-04
+211,760,1372,69,4,Delicious food and quick delivery,2025-06-14
+212,4151,1242,19,1,Food arrived cold and late,2025-03-14
+213,693,976,6,1,Poor service and disappointing taste,2025-03-30
+214,1954,1338,12,2,Food arrived cold and late,2025-06-19
+215,4665,682,84,5,Delicious food and quick delivery,2025-03-16
+216,1805,1212,7,5,Delicious food and quick delivery,2025-04-06
+217,142,928,49,1,Not worth the price,2025-04-18
+218,4066,834,85,4,Delicious food and quick delivery,2025-03-04
+219,3480,563,18,5,Delicious food and quick delivery,2025-02-08
+220,2772,1095,38,4,"Amazing experience, arrived on time",2025-06-12
+221,4741,409,17,5,Delicious food and quick delivery,2025-02-01
+222,1542,1456,44,3,Average experience,2025-03-01
+223,129,1094,51,2,Order was delayed and food was soggy,2025-06-27
+224,2913,1441,36,4,Delicious food and quick delivery,2025-06-27
+225,1990,663,8,5,Delicious food and quick delivery,2025-05-31
+226,4480,363,89,5,"Amazing experience, arrived on time",2025-01-10
+227,3610,1494,1,5,"Amazing experience, arrived on time",2025-06-16
+228,2268,58,36,4,"Fresh food, highly recommended",2025-05-08
+229,3533,383,18,4,Delicious food and quick delivery,2025-06-22
+230,2713,931,12,5,"Amazing experience, arrived on time",2025-03-05
+231,3202,1299,88,4,Great taste and excellent service,2025-05-01
+232,659,208,33,4,Great taste and excellent service,2025-03-12
+233,1808,790,46,3,"Nothing special, but fine",2025-06-16
+234,2806,525,49,5,"Fresh food, highly recommended",2025-04-09
+235,1649,834,65,3,Food was okay,2025-05-11
+236,144,463,24,4,"Fresh food, highly recommended",2025-06-25
+237,1572,1311,71,5,"Amazing experience, arrived on time",2025-01-12
+238,770,182,99,5,"Fresh food, highly recommended",2025-04-29
+239,923,996,33,2,Not worth the price,2025-04-01
+240,874,678,40,4,"Fresh food, highly recommended",2025-05-10
+241,3676,1377,44,4,Great taste and excellent service,2025-01-03
+242,1700,518,40,3,Food was okay,2025-06-25
+243,3418,1351,35,3,Average experience,2025-04-30
+244,3100,4,59,4,Great taste and excellent service,2025-01-26
+245,3843,517,12,4,Delicious food and quick delivery,2025-04-17
+246,19,1405,91,4,"Fresh food, highly recommended",2025-05-19
+247,2445,1067,31,5,Great taste and excellent service,2025-01-15
+248,1115,244,46,5,"Fresh food, highly recommended",2025-06-19
+249,3932,591,73,4,Great taste and excellent service,2025-01-18
+250,1473,1251,52,5,Delicious food and quick delivery,2025-01-26
+251,486,586,5,5,Great taste and excellent service,2025-05-14
+252,723,1242,4,4,Delicious food and quick delivery,2025-05-14
+253,2299,1324,42,3,"Nothing special, but fine",2025-06-12
+254,1981,293,43,3,Taste and delivery were acceptable,2025-03-02
+255,1918,995,92,5,"Amazing experience, arrived on time",2025-06-09
+256,1934,683,19,4,"Fresh food, highly recommended",2025-02-15
+257,131,1167,43,2,Poor service and disappointing taste,2025-03-18
+258,1441,71,22,2,Not worth the price,2025-04-27
+259,4363,785,66,4,Delicious food and quick delivery,2025-05-15
+260,1275,937,31,2,Order was delayed and food was soggy,2025-06-23
+261,4181,612,1,5,Delicious food and quick delivery,2025-02-06
+262,4437,651,51,1,Order was delayed and food was soggy,2025-04-29
+263,3209,844,26,3,"Nothing special, but fine",2025-02-17
+264,2551,1123,19,5,"Fresh food, highly recommended",2025-04-06
+265,4127,1424,13,5,Delicious food and quick delivery,2025-04-18
+266,329,270,36,5,Delicious food and quick delivery,2025-03-25
+267,4286,1262,94,5,"Fresh food, highly recommended",2025-05-26
+268,3286,624,50,4,Great taste and excellent service,2025-02-18
+269,1233,1163,70,2,Food arrived cold and late,2025-01-13
+270,3992,1432,49,5,"Fresh food, highly recommended",2025-04-01
+271,3545,1226,87,4,"Amazing experience, arrived on time",2025-03-24
+272,1713,932,30,2,Order was delayed and food was soggy,2025-03-13
+273,4294,1002,18,5,Great taste and excellent service,2025-04-08
+274,4923,1308,96,1,Not worth the price,2025-05-26
+275,4461,953,10,3,Average experience,2025-03-28
+276,1774,1152,40,5,"Amazing experience, arrived on time",2025-05-21
+277,347,1090,87,3,Food was okay,2025-01-11
+278,97,639,27,2,Food arrived cold and late,2025-03-18
+279,4877,381,28,5,"Amazing experience, arrived on time",2025-04-30
+280,3815,892,39,3,Food was okay,2025-05-19
+281,3439,582,38,5,Great taste and excellent service,2025-03-14
+282,4704,462,70,2,Order was delayed and food was soggy,2025-03-06
+283,2731,1065,66,4,Delicious food and quick delivery,2025-03-10
+284,1165,388,27,5,Delicious food and quick delivery,2025-03-24
+285,4776,244,89,2,Food arrived cold and late,2025-03-07
+286,2927,254,61,5,"Fresh food, highly recommended",2025-04-20
+287,1106,586,17,5,"Fresh food, highly recommended",2025-03-18
+288,4681,1408,64,2,Order was delayed and food was soggy,2025-01-17
+289,1300,654,93,4,Delicious food and quick delivery,2025-05-25
+290,4390,36,1,2,Not worth the price,2025-05-18
+291,1383,368,71,5,Great taste and excellent service,2025-01-21
+292,4339,698,32,5,Great taste and excellent service,2025-06-17
+293,1852,444,30,4,Delicious food and quick delivery,2025-03-24
+294,3484,1292,22,5,Great taste and excellent service,2025-04-10
+295,3500,799,90,3,Average experience,2025-06-02
+296,2698,363,10,4,"Amazing experience, arrived on time",2025-05-27
+297,481,225,42,3,"Nothing special, but fine",2025-06-22
+298,1651,420,90,1,Order was delayed and food was soggy,2025-04-14
+299,768,1235,85,4,Delicious food and quick delivery,2025-03-07
+300,2535,263,78,4,Great taste and excellent service,2025-01-12
+301,3887,1154,29,3,Food was okay,2025-06-14
+302,4021,662,55,4,"Fresh food, highly recommended",2025-05-12
+303,4687,1385,21,5,"Amazing experience, arrived on time",2025-02-05
+304,192,848,98,5,"Amazing experience, arrived on time",2025-02-26
+305,2216,131,82,4,"Fresh food, highly recommended",2025-05-06
+306,4749,333,88,4,Delicious food and quick delivery,2025-06-01
+307,155,48,23,5,"Amazing experience, arrived on time",2025-04-30
+308,3722,19,9,4,"Fresh food, highly recommended",2025-03-11
+309,190,874,1,4,Delicious food and quick delivery,2025-03-18
+310,783,734,48,3,Food was okay,2025-03-27
+311,316,936,40,5,"Amazing experience, arrived on time",2025-05-11
+312,2637,763,45,4,Delicious food and quick delivery,2025-04-08
+313,47,162,79,4,"Amazing experience, arrived on time",2025-01-22
+314,2524,387,45,5,Delicious food and quick delivery,2025-02-23
+315,1885,155,44,5,Delicious food and quick delivery,2025-02-22
+316,1818,1278,99,5,Delicious food and quick delivery,2025-04-03
+317,515,606,64,3,Average experience,2025-01-24
+318,663,104,27,5,"Amazing experience, arrived on time",2025-02-26
+319,3683,1186,24,5,Great taste and excellent service,2025-04-29
+320,4089,403,82,5,Great taste and excellent service,2025-06-10
+321,1722,236,65,5,"Amazing experience, arrived on time",2025-04-05
+322,979,472,85,4,"Fresh food, highly recommended",2025-03-05
+323,4929,473,83,4,"Fresh food, highly recommended",2025-04-05
+324,1635,1034,72,4,"Fresh food, highly recommended",2025-04-10
+325,4969,1225,47,5,"Fresh food, highly recommended",2025-05-20
+326,1985,589,61,5,Delicious food and quick delivery,2025-01-02
+327,2952,1342,42,5,"Amazing experience, arrived on time",2025-04-11
+328,3754,425,19,4,"Fresh food, highly recommended",2025-05-28
+329,2866,160,33,4,Great taste and excellent service,2025-03-11
+330,160,856,59,4,"Fresh food, highly recommended",2025-01-04
+331,4512,141,32,5,Delicious food and quick delivery,2025-06-06
+332,2433,745,15,5,"Amazing experience, arrived on time",2025-04-09
+333,386,591,17,5,Great taste and excellent service,2025-03-20
+334,891,955,21,5,Delicious food and quick delivery,2025-02-13
+335,2012,1040,33,4,"Amazing experience, arrived on time",2025-04-07
+336,1682,910,35,1,Poor service and disappointing taste,2025-06-26
+337,2138,814,23,4,"Fresh food, highly recommended",2025-06-26
+338,3550,162,5,5,"Amazing experience, arrived on time",2025-01-16
+339,2603,1336,92,2,Food arrived cold and late,2025-05-27
+340,2434,1262,51,3,Average experience,2025-03-05
+341,1916,16,96,5,"Amazing experience, arrived on time",2025-01-23
+342,3076,1086,100,4,"Fresh food, highly recommended",2025-01-12
+343,4861,493,98,5,"Fresh food, highly recommended",2025-01-02
+344,4241,53,56,4,"Amazing experience, arrived on time",2025-04-29
+345,951,400,78,5,Great taste and excellent service,2025-04-19
+346,1104,1487,87,5,Great taste and excellent service,2025-05-23
+347,4894,985,61,5,Great taste and excellent service,2025-03-27
+348,969,900,28,4,"Amazing experience, arrived on time",2025-02-16
+349,354,639,92,4,"Fresh food, highly recommended",2025-03-25
+350,657,1401,85,5,"Fresh food, highly recommended",2025-04-19
+351,340,602,26,3,"Nothing special, but fine",2025-05-01
+352,3556,1402,58,4,Delicious food and quick delivery,2025-03-07
+353,1738,1419,68,5,Great taste and excellent service,2025-05-08
+354,2814,727,50,5,"Fresh food, highly recommended",2025-04-03
+355,4401,878,69,5,"Fresh food, highly recommended",2025-05-30
+356,4219,261,56,5,Delicious food and quick delivery,2025-03-17
+357,21,902,56,5,Delicious food and quick delivery,2025-03-11
+358,1699,1316,49,5,Great taste and excellent service,2025-02-22
+359,1007,651,86,5,Great taste and excellent service,2025-01-02
+360,522,427,82,2,Poor service and disappointing taste,2025-02-12
+361,1895,783,39,4,"Amazing experience, arrived on time",2025-01-23
+362,3877,800,8,1,Food arrived cold and late,2025-06-27
+363,2708,848,62,3,"Nothing special, but fine",2025-01-07
+364,1064,79,20,5,"Amazing experience, arrived on time",2025-05-24
+365,875,1489,28,5,"Amazing experience, arrived on time",2025-04-04
+366,3733,651,50,1,Not worth the price,2025-06-12
+367,4952,753,22,5,Delicious food and quick delivery,2025-02-12
+368,3579,1392,25,4,"Fresh food, highly recommended",2025-06-23
+369,2532,1011,56,5,Great taste and excellent service,2025-04-10
+370,321,1453,32,5,"Amazing experience, arrived on time",2025-01-14
+371,2734,98,76,4,"Fresh food, highly recommended",2025-04-05
+372,2973,1456,43,4,Delicious food and quick delivery,2025-06-21
+373,2025,1115,95,4,Delicious food and quick delivery,2025-05-19
+374,74,624,24,4,"Fresh food, highly recommended",2025-03-26
+375,3109,1431,45,5,"Fresh food, highly recommended",2025-05-06
+376,4768,60,64,4,Great taste and excellent service,2025-04-24
+377,1663,1059,24,4,Great taste and excellent service,2025-01-13
+378,3255,540,35,4,"Amazing experience, arrived on time",2025-04-11
+379,4930,1295,83,1,Food arrived cold and late,2025-05-04
+380,458,28,48,3,Food was okay,2025-06-07
+381,3113,1240,70,3,Food was okay,2025-04-20
+382,1039,141,68,5,"Fresh food, highly recommended",2025-06-29
+383,4209,444,19,5,Great taste and excellent service,2025-04-20
+384,2519,66,90,3,"Nothing special, but fine",2025-03-21
+385,2312,1441,71,5,Delicious food and quick delivery,2025-04-12
+386,4914,432,27,4,Great taste and excellent service,2025-05-30
+387,4944,957,23,4,Great taste and excellent service,2025-02-24
+388,65,480,3,4,"Amazing experience, arrived on time",2025-02-03
+389,1125,241,78,4,"Amazing experience, arrived on time",2025-06-10
+390,3860,373,51,5,Delicious food and quick delivery,2025-02-08
+391,3746,1217,100,3,Average experience,2025-03-23
+392,688,1085,36,1,Order was delayed and food was soggy,2025-01-21
+393,350,353,36,4,"Fresh food, highly recommended",2025-05-07
+394,1714,1392,88,2,Food arrived cold and late,2025-05-01
+395,746,748,71,5,Great taste and excellent service,2025-03-18
+396,3091,732,20,4,"Fresh food, highly recommended",2025-03-28
+397,3041,160,73,1,Food arrived cold and late,2025-03-10
+398,1810,1238,32,4,"Fresh food, highly recommended",2025-04-17
+399,3067,778,42,4,"Amazing experience, arrived on time",2025-01-10
+400,3757,955,22,5,"Amazing experience, arrived on time",2025-06-21
+401,2838,802,88,5,"Fresh food, highly recommended",2025-05-20
+402,235,189,68,5,Great taste and excellent service,2025-01-27
+403,3919,854,67,4,Great taste and excellent service,2025-01-23
+404,816,1309,56,5,"Amazing experience, arrived on time",2025-02-07
+405,4385,93,90,1,Food arrived cold and late,2025-03-13
+406,4651,1178,34,4,"Fresh food, highly recommended",2025-03-18
+407,4139,749,47,5,"Fresh food, highly recommended",2025-04-08
+408,3853,1164,63,4,Delicious food and quick delivery,2025-06-06
+409,1993,793,11,5,Great taste and excellent service,2025-05-25
+410,2014,212,72,5,Great taste and excellent service,2025-05-26
+411,4087,504,91,4,Great taste and excellent service,2025-04-14
+412,214,137,47,5,"Fresh food, highly recommended",2025-04-25
+413,1893,960,91,5,Great taste and excellent service,2025-03-19
+414,1466,1073,41,5,Delicious food and quick delivery,2025-06-12
+415,1316,454,62,3,Average experience,2025-02-27
+416,3338,958,53,5,"Amazing experience, arrived on time",2025-06-08
+417,1500,232,99,3,"Nothing special, but fine",2025-02-12
+418,4903,346,80,2,Poor service and disappointing taste,2025-06-06
+419,1986,1243,20,4,Great taste and excellent service,2025-06-01
+420,550,1062,33,4,Great taste and excellent service,2025-01-25
+421,2107,115,8,3,Average experience,2025-02-01
+422,4192,1143,57,5,Great taste and excellent service,2025-06-29
+423,1604,917,20,4,"Fresh food, highly recommended",2025-06-28
+424,1231,1496,46,2,Order was delayed and food was soggy,2025-03-12
+425,3925,602,25,4,Great taste and excellent service,2025-04-07
+426,4604,1430,92,5,"Fresh food, highly recommended",2025-04-26
+427,100,570,19,3,"Nothing special, but fine",2025-04-10
+428,3517,1482,18,5,"Fresh food, highly recommended",2025-06-14
+429,4659,990,78,2,Food arrived cold and late,2025-05-19
+430,149,192,40,4,Great taste and excellent service,2025-01-07
+431,2381,912,46,5,Delicious food and quick delivery,2025-03-14
+432,3311,710,11,5,Great taste and excellent service,2025-03-28
+433,2581,304,80,5,"Fresh food, highly recommended",2025-02-05
+434,1419,1111,79,1,Not worth the price,2025-05-20
+435,4082,333,45,2,Order was delayed and food was soggy,2025-04-19
+436,5000,1106,23,4,Delicious food and quick delivery,2025-02-03
+437,2486,709,39,5,Great taste and excellent service,2025-01-29
+438,921,483,100,2,Order was delayed and food was soggy,2025-04-15
+439,2221,1483,52,5,Delicious food and quick delivery,2025-02-03
+440,3816,680,40,5,Delicious food and quick delivery,2025-02-02
+441,2320,849,50,5,Delicious food and quick delivery,2025-06-15
+442,1387,21,68,3,"Nothing special, but fine",2025-03-30
+443,2162,630,58,2,Food arrived cold and late,2025-04-30
+444,1350,908,2,4,Great taste and excellent service,2025-03-11
+445,2776,536,58,4,Great taste and excellent service,2025-03-02
+446,1394,840,72,5,"Fresh food, highly recommended",2025-03-10
+447,1766,1001,17,5,"Fresh food, highly recommended",2025-06-18
+448,1392,844,11,4,Great taste and excellent service,2025-03-31
+449,3617,1088,64,5,"Fresh food, highly recommended",2025-01-10
+450,2966,174,87,5,"Amazing experience, arrived on time",2025-06-13
+451,1946,1485,86,4,"Fresh food, highly recommended",2025-05-18
+452,609,396,75,4,Great taste and excellent service,2025-01-04
+453,3514,39,43,5,Delicious food and quick delivery,2025-03-26
+454,2634,320,30,5,"Fresh food, highly recommended",2025-02-03
+455,162,289,78,5,"Fresh food, highly recommended",2025-01-24
+456,829,787,80,4,Delicious food and quick delivery,2025-06-25
+457,2061,220,65,4,Delicious food and quick delivery,2025-05-09
+458,2460,1219,87,5,Delicious food and quick delivery,2025-01-24
+459,4106,639,8,2,Order was delayed and food was soggy,2025-02-05
+460,3562,899,20,5,Great taste and excellent service,2025-01-15
+461,501,582,47,3,Average experience,2025-03-01
+462,617,1122,95,4,"Amazing experience, arrived on time",2025-04-07
+463,2877,1059,40,5,"Fresh food, highly recommended",2025-02-19
+464,4423,275,78,1,Food arrived cold and late,2025-01-06
+465,223,1092,8,4,Great taste and excellent service,2025-05-06
+466,1140,937,95,3,Average experience,2025-03-20
+467,1911,369,17,2,Not worth the price,2025-02-19
+468,1241,1190,38,3,Taste and delivery were acceptable,2025-02-15
+469,264,1097,36,3,Food was okay,2025-01-16
+470,2526,1072,65,5,Great taste and excellent service,2025-06-02
+471,1011,233,34,4,"Fresh food, highly recommended",2025-02-16
+472,2410,300,17,1,Poor service and disappointing taste,2025-04-22
+473,3163,458,94,3,Average experience,2025-01-09
+474,4313,645,44,5,"Amazing experience, arrived on time",2025-06-24
+475,4883,1308,7,3,Food was okay,2025-05-25
+476,2094,1062,53,4,Great taste and excellent service,2025-05-15
+477,4773,1146,43,5,"Fresh food, highly recommended",2025-06-15
+478,4230,30,99,5,"Amazing experience, arrived on time",2025-02-06
+479,412,824,1,2,Not worth the price,2025-01-08
+480,4278,65,25,3,Food was okay,2025-04-01
+481,2967,1304,64,3,Taste and delivery were acceptable,2025-06-16
+482,4979,1289,62,5,"Fresh food, highly recommended",2025-04-08
+483,1685,1002,100,4,Delicious food and quick delivery,2025-06-11
+484,872,134,65,5,"Fresh food, highly recommended",2025-01-29
+485,424,1130,51,4,"Fresh food, highly recommended",2025-06-09
+486,1291,809,96,4,Delicious food and quick delivery,2025-01-06
+487,4338,1275,30,5,"Fresh food, highly recommended",2025-05-20
+488,2904,682,18,3,Average experience,2025-06-15
+489,1749,379,31,4,Delicious food and quick delivery,2025-06-24
+490,1701,38,18,5,Great taste and excellent service,2025-04-10
+491,3828,490,69,3,Average experience,2025-01-19
+492,2069,747,6,2,Order was delayed and food was soggy,2025-05-19
+493,3288,263,9,3,Average experience,2025-06-13
+494,4767,1271,62,5,"Amazing experience, arrived on time",2025-04-20
+495,407,1424,11,5,"Fresh food, highly recommended",2025-05-09
+496,1919,181,71,5,"Fresh food, highly recommended",2025-05-11
+497,889,1393,44,5,Great taste and excellent service,2025-06-06
+498,1384,1266,93,3,Food was okay,2025-04-11
+499,3372,1288,1,5,Delicious food and quick delivery,2025-04-25
+500,4961,356,66,4,Great taste and excellent service,2025-01-08
+501,2446,38,11,2,Order was delayed and food was soggy,2025-06-10
+502,1533,263,4,4,"Amazing experience, arrived on time",2025-01-23
+503,3808,699,76,4,"Amazing experience, arrived on time",2025-01-19
+504,1632,364,46,5,"Amazing experience, arrived on time",2025-03-18
+505,1299,1478,43,5,Great taste and excellent service,2025-03-07
+506,3105,809,71,3,Food was okay,2025-01-31
+507,3802,331,89,2,Not worth the price,2025-02-26
+508,4943,291,66,5,"Amazing experience, arrived on time",2025-04-07
+509,1205,164,36,5,"Fresh food, highly recommended",2025-03-19
+510,208,1042,94,4,Great taste and excellent service,2025-04-05
+511,1843,1444,78,4,Delicious food and quick delivery,2025-04-21
+512,930,526,69,5,"Amazing experience, arrived on time",2025-01-06
+513,1801,655,6,3,"Nothing special, but fine",2025-01-10
+514,3568,889,86,1,Poor service and disappointing taste,2025-05-07
+515,1178,704,100,4,"Fresh food, highly recommended",2025-02-20
+516,4548,1330,27,2,Food arrived cold and late,2025-02-01
+517,1831,764,91,5,Delicious food and quick delivery,2025-03-03
+518,4815,205,42,3,Taste and delivery were acceptable,2025-04-10
+519,3312,349,64,5,Great taste and excellent service,2025-04-25
+520,3440,87,74,5,Delicious food and quick delivery,2025-05-26
+521,4845,797,91,3,Average experience,2025-06-18
+522,2630,1096,90,1,Order was delayed and food was soggy,2025-03-31
+523,1590,1135,23,3,Food was okay,2025-04-06
+524,4245,1477,66,4,Great taste and excellent service,2025-02-07
+525,2565,1347,6,2,Not worth the price,2025-02-06
+526,4291,1260,47,5,Delicious food and quick delivery,2025-05-05
+527,179,415,74,5,Delicious food and quick delivery,2025-03-17
+528,1707,1464,26,3,"Nothing special, but fine",2025-03-06
+529,2166,1355,41,2,Food arrived cold and late,2025-02-19
+530,1224,8,25,2,Order was delayed and food was soggy,2025-04-24
+531,1135,1161,51,5,"Fresh food, highly recommended",2025-04-27
+532,1917,949,65,5,"Fresh food, highly recommended",2025-05-27
+533,99,409,19,4,"Amazing experience, arrived on time",2025-01-18
+534,958,1388,79,4,"Fresh food, highly recommended",2025-05-15
+535,3068,311,72,4,"Amazing experience, arrived on time",2025-03-01
+536,2950,820,42,5,"Fresh food, highly recommended",2025-05-24
+537,1855,1062,73,5,Delicious food and quick delivery,2025-01-31
+538,84,621,75,3,Taste and delivery were acceptable,2025-05-13
+539,2872,493,22,5,Delicious food and quick delivery,2025-04-10
+540,2344,1088,57,3,Average experience,2025-05-11
+541,164,1008,31,3,Taste and delivery were acceptable,2025-05-09
+542,4214,5,37,5,"Amazing experience, arrived on time",2025-05-12
+543,3446,711,88,4,Great taste and excellent service,2025-05-05
+544,2223,724,71,1,Food arrived cold and late,2025-02-15
+545,744,1415,94,2,Food arrived cold and late,2025-03-29
+546,4081,667,78,3,Average experience,2025-01-17
+547,2609,459,97,3,Food was okay,2025-01-30
+548,2522,540,73,5,Great taste and excellent service,2025-06-17
+549,3326,660,27,5,"Amazing experience, arrived on time",2025-01-17
+550,2457,1448,63,4,Great taste and excellent service,2025-06-25
+551,3073,85,33,5,"Fresh food, highly recommended",2025-01-16
+552,2464,1494,62,3,Food was okay,2025-04-09
+553,1186,41,5,1,Poor service and disappointing taste,2025-04-11
+554,341,236,61,4,Great taste and excellent service,2025-02-08
+555,1860,1310,69,4,"Fresh food, highly recommended",2025-05-26
+556,1244,1151,57,2,Order was delayed and food was soggy,2025-05-17
+557,3382,604,54,5,"Amazing experience, arrived on time",2025-02-19
+558,954,41,99,4,"Amazing experience, arrived on time",2025-02-13
+559,2506,1063,61,3,"Nothing special, but fine",2025-05-20
+560,3516,87,49,4,"Amazing experience, arrived on time",2025-01-04
+561,1834,798,57,5,"Fresh food, highly recommended",2025-04-18
+562,4154,1053,62,5,"Fresh food, highly recommended",2025-06-25
+563,2262,190,10,5,"Amazing experience, arrived on time",2025-06-03
+564,200,704,83,1,Order was delayed and food was soggy,2025-03-12
+565,226,1014,15,3,"Nothing special, but fine",2025-04-08
+566,452,422,53,4,"Fresh food, highly recommended",2025-02-18
+567,729,118,3,4,"Fresh food, highly recommended",2025-03-14
+568,4203,747,50,5,Great taste and excellent service,2025-03-19
+569,1229,1239,6,5,Great taste and excellent service,2025-01-04
+570,337,357,31,4,Great taste and excellent service,2025-01-07
+571,1331,1285,1,5,"Amazing experience, arrived on time",2025-06-11
+572,181,825,13,4,Delicious food and quick delivery,2025-05-23
+573,4684,781,27,5,Delicious food and quick delivery,2025-02-18
+574,1396,1385,79,5,Great taste and excellent service,2025-06-10
+575,2152,1089,50,4,"Fresh food, highly recommended",2025-01-13
+576,3269,1179,8,3,Food was okay,2025-04-29
+577,1943,337,33,3,Food was okay,2025-01-21
+578,3941,623,43,3,Average experience,2025-06-29
+579,232,1014,84,4,Delicious food and quick delivery,2025-02-19
+580,3713,300,21,5,"Amazing experience, arrived on time",2025-05-28
+581,88,451,2,3,Food was okay,2025-05-19
+582,2010,211,12,5,"Amazing experience, arrived on time",2025-05-03
+583,3871,881,63,4,Great taste and excellent service,2025-06-18
+584,3236,156,94,4,"Fresh food, highly recommended",2025-01-22
+585,2317,128,15,4,"Amazing experience, arrived on time",2025-03-01
+586,3893,110,57,2,Poor service and disappointing taste,2025-04-17
+587,2985,1210,16,4,Delicious food and quick delivery,2025-01-19
+588,3999,307,42,4,"Amazing experience, arrived on time",2025-04-19
+589,2043,348,33,5,"Amazing experience, arrived on time",2025-03-20
+590,4426,1119,22,5,"Fresh food, highly recommended",2025-01-12
+591,3984,557,1,2,Not worth the price,2025-05-14
+592,196,263,98,4,"Fresh food, highly recommended",2025-02-22
+593,4453,1068,87,5,"Fresh food, highly recommended",2025-02-24
+594,475,1196,43,5,"Amazing experience, arrived on time",2025-03-23
+595,319,155,32,5,"Amazing experience, arrived on time",2025-06-01
+596,4000,1224,35,5,"Fresh food, highly recommended",2025-03-07
+597,3886,241,61,3,Taste and delivery were acceptable,2025-06-22
+598,2385,1098,45,5,"Amazing experience, arrived on time",2025-05-16
+599,4984,1342,21,5,Great taste and excellent service,2025-03-07
+600,205,1074,8,5,"Fresh food, highly recommended",2025-01-06
+601,2305,438,21,5,Great taste and excellent service,2025-03-30
+602,2864,541,51,4,Great taste and excellent service,2025-06-21
+603,308,1115,36,4,"Fresh food, highly recommended",2025-01-18
+604,402,519,96,4,"Amazing experience, arrived on time",2025-03-22
+605,4017,1167,63,5,Delicious food and quick delivery,2025-03-02
+606,298,1369,72,4,"Amazing experience, arrived on time",2025-04-16
+607,3716,1033,70,2,Poor service and disappointing taste,2025-04-15
+608,2993,1421,91,4,"Fresh food, highly recommended",2025-01-04
+609,1583,788,46,5,Delicious food and quick delivery,2025-06-06
+610,4233,918,55,5,"Amazing experience, arrived on time",2025-01-25
+611,2498,161,22,4,"Fresh food, highly recommended",2025-01-26
+612,1408,327,94,5,"Fresh food, highly recommended",2025-01-31
+613,403,880,57,3,Food was okay,2025-06-03
+614,2426,272,86,4,"Fresh food, highly recommended",2025-01-07
+615,241,797,100,3,"Nothing special, but fine",2025-03-29
+616,694,850,7,5,Great taste and excellent service,2025-03-21
+617,1729,1463,25,5,Great taste and excellent service,2025-03-07
+618,4459,1164,12,5,"Fresh food, highly recommended",2025-03-15
+619,1548,1123,89,4,"Fresh food, highly recommended",2025-01-12
+620,505,894,31,4,"Fresh food, highly recommended",2025-04-02
+621,2154,745,15,5,Great taste and excellent service,2025-03-14
+622,604,1122,19,5,Great taste and excellent service,2025-03-24
+623,1896,726,49,5,"Amazing experience, arrived on time",2025-01-14
+624,4010,338,60,5,Delicious food and quick delivery,2025-06-18
+625,1719,1006,78,5,"Amazing experience, arrived on time",2025-04-08
+626,3238,697,32,4,Great taste and excellent service,2025-02-18
+627,4971,78,33,4,Great taste and excellent service,2025-04-30
+628,442,823,64,5,Delicious food and quick delivery,2025-05-16
+629,2784,705,41,4,Great taste and excellent service,2025-04-01
+630,4422,265,8,4,Great taste and excellent service,2025-01-07
+631,4771,525,27,2,Order was delayed and food was soggy,2025-01-29
+632,2266,1119,28,4,"Amazing experience, arrived on time",2025-02-22
+633,813,588,44,4,"Amazing experience, arrived on time",2025-02-02
+634,3786,1272,96,3,"Nothing special, but fine",2025-06-22
+635,2044,1091,9,5,Delicious food and quick delivery,2025-02-25
+636,1132,69,17,5,Great taste and excellent service,2025-04-03
+637,209,41,10,5,"Fresh food, highly recommended",2025-01-06
+638,3473,847,80,4,"Fresh food, highly recommended",2025-01-01
+639,1449,1243,87,5,Delicious food and quick delivery,2025-04-16
+640,346,718,70,3,"Nothing special, but fine",2025-03-18
+641,3547,1146,92,4,"Amazing experience, arrived on time",2025-01-19
+642,4780,862,62,3,"Nothing special, but fine",2025-06-04
+643,2057,444,77,4,"Amazing experience, arrived on time",2025-01-25
+644,4535,504,80,3,Taste and delivery were acceptable,2025-03-18
+645,4070,1358,45,3,"Nothing special, but fine",2025-05-17
+646,120,57,34,4,Delicious food and quick delivery,2025-04-26
+647,4004,172,100,1,Food arrived cold and late,2025-04-28
+648,4670,976,5,5,"Fresh food, highly recommended",2025-01-24
+649,4472,583,30,3,Food was okay,2025-04-03
+650,1293,1351,35,5,Great taste and excellent service,2025-04-19
+651,3522,824,74,2,Poor service and disappointing taste,2025-05-06
+652,4617,2,54,4,"Amazing experience, arrived on time",2025-01-17
+653,1617,1464,45,1,Food arrived cold and late,2025-05-27
+654,3030,437,46,5,"Amazing experience, arrived on time",2025-01-25
+655,4118,1196,79,5,Delicious food and quick delivery,2025-06-12
+656,1415,1165,5,5,"Amazing experience, arrived on time",2025-05-12
+657,1052,1216,39,3,Food was okay,2025-06-09
+658,4867,917,10,4,"Amazing experience, arrived on time",2025-03-03
+659,3897,1265,56,5,Delicious food and quick delivery,2025-02-25
+660,3558,790,77,4,"Amazing experience, arrived on time",2025-02-18
+661,1555,360,80,1,Food arrived cold and late,2025-05-12
+662,801,1027,100,4,Great taste and excellent service,2025-06-20
+663,3624,865,20,5,Great taste and excellent service,2025-05-03
+664,4580,808,19,2,Poor service and disappointing taste,2025-04-22
+665,4594,1186,48,2,Order was delayed and food was soggy,2025-06-06
+666,4885,629,97,4,"Amazing experience, arrived on time",2025-05-09
+667,2548,900,51,3,Food was okay,2025-06-21
+668,4633,1379,49,4,Delicious food and quick delivery,2025-02-12
+669,3240,1351,59,4,"Fresh food, highly recommended",2025-04-19
+670,1920,34,72,5,Delicious food and quick delivery,2025-04-05
+671,2871,955,85,1,Order was delayed and food was soggy,2025-03-28
+672,493,1436,93,5,Delicious food and quick delivery,2025-05-19
+673,3034,1002,83,4,Great taste and excellent service,2025-01-10
+674,4699,328,6,4,"Fresh food, highly recommended",2025-06-16
+675,2912,409,79,5,Great taste and excellent service,2025-02-23
+676,667,1179,29,5,"Fresh food, highly recommended",2025-04-15
+677,1576,1434,82,5,"Amazing experience, arrived on time",2025-01-28
+678,3825,721,12,3,Average experience,2025-02-17
+679,1594,580,3,5,Great taste and excellent service,2025-02-27
+680,2541,184,43,4,Delicious food and quick delivery,2025-03-15
+681,2766,580,78,4,"Amazing experience, arrived on time",2025-06-30
+682,279,1085,47,4,"Amazing experience, arrived on time",2025-01-17
+683,1147,1131,85,3,Food was okay,2025-04-17
+684,556,799,46,5,Delicious food and quick delivery,2025-04-21
+685,4864,111,16,3,Food was okay,2025-06-25
+686,2238,1055,15,4,"Fresh food, highly recommended",2025-02-27
+687,77,968,70,5,"Amazing experience, arrived on time",2025-04-21
+688,2093,73,72,4,Delicious food and quick delivery,2025-01-26
+689,1142,920,2,1,Order was delayed and food was soggy,2025-06-11
+690,4974,792,44,5,"Fresh food, highly recommended",2025-04-30
+691,2745,898,82,4,"Amazing experience, arrived on time",2025-02-17
+692,3397,199,30,3,Taste and delivery were acceptable,2025-05-06
+693,664,397,74,4,"Fresh food, highly recommended",2025-06-07
+694,861,209,5,4,Great taste and excellent service,2025-01-23
+695,3469,1257,54,4,"Amazing experience, arrived on time",2025-03-24
+696,3896,216,7,4,Great taste and excellent service,2025-03-13
+697,4079,1088,74,5,Delicious food and quick delivery,2025-05-30
+698,468,28,83,3,"Nothing special, but fine",2025-04-06
+699,3677,413,85,5,Delicious food and quick delivery,2025-03-16
+700,538,220,33,5,"Amazing experience, arrived on time",2025-04-27
+701,387,1173,78,5,Delicious food and quick delivery,2025-06-24
+702,2854,1057,21,3,"Nothing special, but fine",2025-06-24
+703,1825,767,3,3,Taste and delivery were acceptable,2025-04-11
+704,896,660,94,5,"Amazing experience, arrived on time",2025-05-26
+705,1137,55,37,5,Great taste and excellent service,2025-01-08
+706,3321,1278,27,5,Great taste and excellent service,2025-06-20
+707,1761,1421,26,4,"Amazing experience, arrived on time",2025-01-10
+708,4115,270,47,5,"Amazing experience, arrived on time",2025-05-05
+709,1359,608,72,4,Delicious food and quick delivery,2025-01-18
+710,685,1455,9,3,Average experience,2025-05-04
+711,1308,259,52,5,Delicious food and quick delivery,2025-01-08
+712,3292,372,90,4,Great taste and excellent service,2025-03-18
+713,2052,1006,42,1,Food arrived cold and late,2025-01-05
+714,901,1376,55,5,"Fresh food, highly recommended",2025-06-04
+715,4417,533,5,5,"Amazing experience, arrived on time",2025-05-15
+716,1161,439,75,5,"Amazing experience, arrived on time",2025-05-26
+717,1305,1276,15,3,Taste and delivery were acceptable,2025-06-12
+718,1644,972,48,4,Delicious food and quick delivery,2025-01-09
+719,3233,112,67,5,Delicious food and quick delivery,2025-06-22
+720,1234,1182,48,5,"Fresh food, highly recommended",2025-01-24
+721,1047,39,49,5,"Fresh food, highly recommended",2025-04-30
+722,2451,256,10,4,Delicious food and quick delivery,2025-04-12
+723,392,39,99,3,Average experience,2025-06-02
+724,3172,643,34,4,"Amazing experience, arrived on time",2025-02-14
+725,1451,632,53,3,"Nothing special, but fine",2025-01-22
+726,4565,696,11,5,"Fresh food, highly recommended",2025-05-07
+727,899,1286,85,4,Delicious food and quick delivery,2025-03-10
+728,975,835,72,4,Delicious food and quick delivery,2025-05-26
+729,1236,398,12,5,Delicious food and quick delivery,2025-03-18
+730,4566,302,10,3,Food was okay,2025-03-17
+731,2861,750,56,5,Delicious food and quick delivery,2025-02-06
+732,3239,792,94,1,Not worth the price,2025-06-17
+733,2396,490,64,3,"Nothing special, but fine",2025-01-14
+734,757,580,74,2,Not worth the price,2025-06-26
+735,1508,53,73,4,"Amazing experience, arrived on time",2025-02-09
+736,3732,672,82,5,"Fresh food, highly recommended",2025-05-04
+737,1170,593,99,5,Delicious food and quick delivery,2025-01-11
+738,3693,262,41,4,"Amazing experience, arrived on time",2025-05-03
+739,3024,75,33,4,"Fresh food, highly recommended",2025-02-27
+740,367,840,49,1,Food arrived cold and late,2025-06-11
+741,3092,119,12,4,"Fresh food, highly recommended",2025-02-08
+742,800,1274,31,3,Average experience,2025-06-12
+743,2971,55,96,1,Food arrived cold and late,2025-02-09
+744,1280,17,3,5,Delicious food and quick delivery,2025-04-21
+745,3084,230,36,5,Delicious food and quick delivery,2025-05-29
+746,3343,658,59,5,Great taste and excellent service,2025-01-14
+747,4766,622,26,4,Delicious food and quick delivery,2025-06-12
+748,3366,1226,88,4,"Fresh food, highly recommended",2025-04-01
+749,1521,127,61,4,"Fresh food, highly recommended",2025-05-07
+750,4303,322,23,5,"Fresh food, highly recommended",2025-03-08
+751,1046,52,4,3,"Nothing special, but fine",2025-05-07
+752,3753,105,4,2,Not worth the price,2025-02-06
+753,1420,215,5,5,Delicious food and quick delivery,2025-04-25
+754,2207,3,50,4,Great taste and excellent service,2025-06-20
+755,2981,1157,92,4,Delicious food and quick delivery,2025-03-14
+756,650,1412,48,5,Great taste and excellent service,2025-04-18
+757,1073,678,35,5,Great taste and excellent service,2025-05-16
+758,488,907,74,4,"Amazing experience, arrived on time",2025-06-15
+759,1929,833,100,5,Great taste and excellent service,2025-02-09
+760,3367,92,20,4,Delicious food and quick delivery,2025-06-04
+761,1153,913,27,4,Delicious food and quick delivery,2025-01-08
+762,1150,722,97,5,"Amazing experience, arrived on time",2025-06-10
+763,495,380,21,3,Food was okay,2025-03-20
+764,4568,1172,65,2,Order was delayed and food was soggy,2025-01-01
+765,3652,354,36,5,Delicious food and quick delivery,2025-01-10
+766,4257,568,12,3,"Nothing special, but fine",2025-04-05
+767,1628,1428,100,3,Average experience,2025-05-16
+768,966,126,63,2,Not worth the price,2025-03-01
+769,16,1308,97,5,"Amazing experience, arrived on time",2025-04-12
+770,3801,1175,61,5,"Fresh food, highly recommended",2025-04-17
+771,2789,236,5,5,Great taste and excellent service,2025-03-08
+772,1611,603,80,4,Great taste and excellent service,2025-04-14
+773,2468,854,54,1,Not worth the price,2025-06-08
+774,1694,1160,20,5,"Amazing experience, arrived on time",2025-03-19
+775,4544,1073,71,3,"Nothing special, but fine",2025-01-20
+776,396,1392,19,5,"Amazing experience, arrived on time",2025-03-03
+777,1650,1355,18,4,"Fresh food, highly recommended",2025-06-23
+778,4663,712,40,3,Taste and delivery were acceptable,2025-02-28
+779,2976,589,86,4,"Amazing experience, arrived on time",2025-02-24
+780,2397,1152,36,4,"Fresh food, highly recommended",2025-05-27
+781,2659,1355,85,5,Delicious food and quick delivery,2025-01-18
+782,1328,29,57,5,Delicious food and quick delivery,2025-03-05
+783,2123,1392,29,1,Order was delayed and food was soggy,2025-02-02
+784,3195,388,35,5,"Amazing experience, arrived on time",2025-02-05
+785,625,517,13,5,"Amazing experience, arrived on time",2025-06-08
+786,3197,538,26,5,Great taste and excellent service,2025-05-01
+787,2201,607,6,4,"Fresh food, highly recommended",2025-03-06
+788,4179,1147,83,5,"Fresh food, highly recommended",2025-03-23
+789,1015,928,29,4,Great taste and excellent service,2025-01-21
+790,4890,239,41,4,"Fresh food, highly recommended",2025-03-05
+791,4674,735,20,3,Taste and delivery were acceptable,2025-02-23
+792,3603,195,29,4,Delicious food and quick delivery,2025-06-28
+793,534,905,14,5,Delicious food and quick delivery,2025-02-28
+794,2056,1188,69,4,Delicious food and quick delivery,2025-04-13
+795,4503,451,31,5,Great taste and excellent service,2025-06-13
+796,2431,1365,59,5,"Fresh food, highly recommended",2025-05-28
+797,937,504,56,5,Great taste and excellent service,2025-03-20
+798,977,1456,9,2,Order was delayed and food was soggy,2025-06-30
+799,3462,1151,52,4,Delicious food and quick delivery,2025-03-01
+800,1292,305,31,5,"Fresh food, highly recommended",2025-05-21
+801,3413,764,85,3,Taste and delivery were acceptable,2025-04-09
+802,4964,1441,90,1,Not worth the price,2025-03-06
+803,551,72,15,4,"Fresh food, highly recommended",2025-06-07
+804,432,784,50,3,"Nothing special, but fine",2025-05-14
+805,1887,220,93,5,"Amazing experience, arrived on time",2025-06-27
+806,1557,20,2,5,"Fresh food, highly recommended",2025-05-13
+807,1522,148,55,4,"Fresh food, highly recommended",2025-01-08
+808,1523,1046,69,5,Delicious food and quick delivery,2025-03-28
+809,1963,1370,30,5,"Amazing experience, arrived on time",2025-02-02
+810,3674,343,22,5,Delicious food and quick delivery,2025-05-14
+811,2964,812,81,1,Food arrived cold and late,2025-03-09
+812,2292,81,85,5,Delicious food and quick delivery,2025-04-08
+813,1913,1217,97,5,Delicious food and quick delivery,2025-01-12
+814,3879,1388,15,2,Not worth the price,2025-04-10
+815,3120,1438,52,5,Great taste and excellent service,2025-04-25
+816,4492,161,29,4,Delicious food and quick delivery,2025-01-21
+817,2510,864,36,5,Delicious food and quick delivery,2025-05-30
+818,1681,376,45,5,"Fresh food, highly recommended",2025-05-10
+819,4891,324,53,5,"Amazing experience, arrived on time",2025-05-03
+820,476,264,32,1,Food arrived cold and late,2025-03-16
+821,4104,326,14,5,Great taste and excellent service,2025-04-14
+822,1752,124,51,3,Average experience,2025-03-12
+823,2910,140,5,4,"Amazing experience, arrived on time",2025-03-21
+824,1671,815,15,2,Food arrived cold and late,2025-04-10
+825,3273,584,35,4,Delicious food and quick delivery,2025-05-07
+826,1472,457,35,5,Delicious food and quick delivery,2025-05-11
+827,1683,1202,9,3,"Nothing special, but fine",2025-05-10
+828,4310,853,87,3,Food was okay,2025-06-17
+829,1276,256,63,5,"Fresh food, highly recommended",2025-01-18
+830,1353,841,33,3,Average experience,2025-02-23
+831,1859,1480,7,4,"Amazing experience, arrived on time",2025-01-19
+832,3449,1397,13,5,Delicious food and quick delivery,2025-03-16
+833,4731,677,46,4,Great taste and excellent service,2025-05-24
+834,3640,1235,40,4,Great taste and excellent service,2025-02-09
+835,1905,939,80,2,Poor service and disappointing taste,2025-03-15
+836,168,875,16,5,Great taste and excellent service,2025-01-09
+837,4637,540,97,5,"Fresh food, highly recommended",2025-04-18
+838,1767,124,15,3,Food was okay,2025-01-24
+839,4465,1208,6,4,"Amazing experience, arrived on time",2025-03-02
+840,715,1370,82,1,Not worth the price,2025-02-18
+841,1344,76,2,3,Food was okay,2025-03-06
+842,1610,1207,56,5,"Amazing experience, arrived on time",2025-04-20
+843,3262,372,17,5,"Fresh food, highly recommended",2025-03-21
+844,1479,1166,13,5,"Amazing experience, arrived on time",2025-04-19
+845,3858,782,38,5,Delicious food and quick delivery,2025-06-20
+846,2176,472,64,5,"Amazing experience, arrived on time",2025-01-24
+847,3971,342,6,2,Poor service and disappointing taste,2025-01-09
+848,4757,1345,100,4,Great taste and excellent service,2025-05-09
+849,365,1117,56,5,"Fresh food, highly recommended",2025-03-02
+850,4018,1365,74,5,"Amazing experience, arrived on time",2025-02-13
+851,3118,604,80,5,Delicious food and quick delivery,2025-03-08
+852,3797,1174,40,4,Delicious food and quick delivery,2025-05-28
+853,4050,1009,5,4,Delicious food and quick delivery,2025-05-27
+854,248,113,19,5,"Amazing experience, arrived on time",2025-03-25
+855,2741,18,65,4,Delicious food and quick delivery,2025-03-08
+856,3117,221,90,4,Delicious food and quick delivery,2025-03-27
+857,2643,750,12,2,Food arrived cold and late,2025-06-18
+858,1660,269,65,4,Great taste and excellent service,2025-06-09
+859,1246,1149,23,5,Delicious food and quick delivery,2025-04-15
+860,2450,869,15,4,Great taste and excellent service,2025-04-30
+861,4131,729,51,5,Delicious food and quick delivery,2025-01-14
+862,1342,671,96,5,Great taste and excellent service,2025-04-10
+863,3270,1469,70,3,Average experience,2025-06-14
+864,838,541,53,5,Great taste and excellent service,2025-01-27
+865,566,298,82,4,Great taste and excellent service,2025-03-13
+866,3605,778,93,3,Food was okay,2025-01-26
+867,34,384,19,4,Delicious food and quick delivery,2025-02-01
+868,2677,824,45,4,"Amazing experience, arrived on time",2025-03-08
+869,3451,907,94,4,Delicious food and quick delivery,2025-03-02
+870,2690,290,16,5,Great taste and excellent service,2025-04-20
+871,2963,225,79,4,Great taste and excellent service,2025-01-07
+872,2475,568,93,1,Food arrived cold and late,2025-01-04
+873,2916,447,99,5,Delicious food and quick delivery,2025-01-07
+874,4466,17,76,5,Delicious food and quick delivery,2025-05-02
+875,827,1085,90,3,Food was okay,2025-02-25
+876,815,1067,24,5,"Amazing experience, arrived on time",2025-05-17
+877,3251,1232,32,5,Delicious food and quick delivery,2025-01-13
+878,4539,159,26,3,"Nothing special, but fine",2025-05-01
+879,4152,1040,76,4,Delicious food and quick delivery,2025-01-21
+880,3572,632,11,2,Food arrived cold and late,2025-05-23
+881,1164,955,61,4,"Fresh food, highly recommended",2025-04-11
+882,881,872,87,3,"Nothing special, but fine",2025-01-07
+883,1791,856,24,3,Food was okay,2025-04-19
+884,2657,1060,42,4,"Fresh food, highly recommended",2025-03-28
+885,1306,588,17,2,Poor service and disappointing taste,2025-02-14
+886,2826,884,29,4,"Amazing experience, arrived on time",2025-03-05
+887,4297,1351,90,5,"Amazing experience, arrived on time",2025-02-15
+888,868,7,79,5,"Fresh food, highly recommended",2025-02-19
+889,3258,1495,81,5,Delicious food and quick delivery,2025-03-21
+890,4190,872,95,3,Average experience,2025-06-14
+891,1099,489,78,4,Great taste and excellent service,2025-01-25
+892,4246,804,32,3,Taste and delivery were acceptable,2025-04-21
+893,250,1132,92,4,"Fresh food, highly recommended",2025-06-23
+894,952,897,58,4,"Fresh food, highly recommended",2025-04-21
+895,1209,1116,87,4,Delicious food and quick delivery,2025-04-22
+896,2303,1106,46,4,Delicious food and quick delivery,2025-05-17
+897,2101,1140,63,4,"Fresh food, highly recommended",2025-01-23
+898,450,851,12,2,Not worth the price,2025-01-15
+899,185,516,18,1,Order was delayed and food was soggy,2025-03-25
+900,593,1221,38,2,Food arrived cold and late,2025-01-01
+901,3698,1398,13,5,"Amazing experience, arrived on time",2025-03-17
+902,1865,786,6,5,Great taste and excellent service,2025-06-17
+903,3595,971,32,2,Not worth the price,2025-04-23
+904,1527,861,52,4,"Amazing experience, arrived on time",2025-04-06
+905,4227,1480,59,4,Delicious food and quick delivery,2025-03-01
+906,1643,879,14,4,Delicious food and quick delivery,2025-02-25
+907,2779,1082,74,3,"Nothing special, but fine",2025-04-09
+908,4040,1442,47,5,Delicious food and quick delivery,2025-06-26
+909,4121,1194,17,3,Food was okay,2025-03-13
+910,2059,1087,39,4,Great taste and excellent service,2025-02-12
+911,4953,886,79,3,Average experience,2025-03-21
+912,4378,84,81,4,Great taste and excellent service,2025-06-19
+913,4562,1113,53,3,Average experience,2025-03-20
+914,3812,518,53,2,Food arrived cold and late,2025-04-17
+915,4805,433,52,5,Delicious food and quick delivery,2025-06-23
+916,4881,548,79,4,Great taste and excellent service,2025-04-28
+917,753,1466,88,5,Great taste and excellent service,2025-06-07
+918,2832,266,45,4,Great taste and excellent service,2025-02-04
+919,2250,965,36,3,"Nothing special, but fine",2025-03-09
+920,3131,134,10,5,Delicious food and quick delivery,2025-03-05
+921,3417,627,54,4,Delicious food and quick delivery,2025-03-04
+922,3784,1181,31,5,"Amazing experience, arrived on time",2025-01-07
+923,45,956,98,5,"Fresh food, highly recommended",2025-04-07
+924,620,1000,93,4,"Fresh food, highly recommended",2025-01-18
+925,2802,33,49,4,"Amazing experience, arrived on time",2025-04-16
+926,3261,6,18,3,Average experience,2025-01-07
+927,3996,1464,67,1,Food arrived cold and late,2025-06-22
+928,1422,652,25,2,Not worth the price,2025-02-04
+929,3625,397,21,5,Delicious food and quick delivery,2025-03-13
+930,4688,1306,82,5,"Amazing experience, arrived on time",2025-04-01
+931,4977,649,63,5,Great taste and excellent service,2025-03-16
+932,2777,722,22,3,"Nothing special, but fine",2025-05-11
+933,276,1189,92,2,Food arrived cold and late,2025-01-26
+934,1311,705,60,3,Average experience,2025-04-18
+935,4851,778,75,5,Delicious food and quick delivery,2025-01-21
+936,4919,1447,34,3,Taste and delivery were acceptable,2025-04-24
+937,1564,188,55,4,Great taste and excellent service,2025-04-21
+938,4872,998,99,5,Delicious food and quick delivery,2025-06-14
+939,2284,1210,95,5,"Fresh food, highly recommended",2025-04-07
+940,3318,1077,56,3,Food was okay,2025-03-10
+941,4935,342,86,5,"Fresh food, highly recommended",2025-04-23
+942,3104,765,12,3,Food was okay,2025-03-18
+943,357,1229,23,5,Delicious food and quick delivery,2025-06-01
+944,3665,929,83,3,Average experience,2025-03-07
+945,3245,413,87,1,Order was delayed and food was soggy,2025-06-04
+946,3383,917,11,5,"Amazing experience, arrived on time",2025-06-25
+947,892,306,31,4,"Fresh food, highly recommended",2025-01-16
+948,2573,1196,38,5,Great taste and excellent service,2025-06-23
+949,1160,176,5,4,"Fresh food, highly recommended",2025-06-20
+950,3976,378,22,4,"Amazing experience, arrived on time",2025-05-31
+951,1816,1380,94,4,Great taste and excellent service,2025-05-29
+952,3494,189,85,5,"Fresh food, highly recommended",2025-05-24
+953,3481,739,98,1,Poor service and disappointing taste,2025-01-08
+954,1633,661,75,5,Great taste and excellent service,2025-03-25
+955,4037,911,13,3,"Nothing special, but fine",2025-05-07
+956,687,713,75,3,"Nothing special, but fine",2025-05-18
+957,3686,160,23,2,Food arrived cold and late,2025-02-21
+958,2623,893,49,1,Food arrived cold and late,2025-01-28
+959,4852,656,8,3,Food was okay,2025-02-15
+960,2935,1078,28,5,"Amazing experience, arrived on time",2025-04-08
+961,4996,93,61,4,Delicious food and quick delivery,2025-06-07
+962,362,264,86,2,Not worth the price,2025-02-08
+963,1779,1037,52,4,Great taste and excellent service,2025-05-14
+964,577,263,98,5,"Amazing experience, arrived on time",2025-04-19
+965,996,1365,37,5,"Fresh food, highly recommended",2025-05-30
+966,4735,798,76,4,"Fresh food, highly recommended",2025-02-20
+967,104,515,81,4,"Fresh food, highly recommended",2025-02-18
+968,1489,466,32,4,Great taste and excellent service,2025-05-31
+969,4650,1469,67,4,Delicious food and quick delivery,2025-02-20
+970,1735,483,26,5,Great taste and excellent service,2025-04-12
+971,3763,1426,39,4,"Amazing experience, arrived on time",2025-04-12
+972,2703,215,13,5,Great taste and excellent service,2025-04-09
+973,1505,770,81,4,Great taste and excellent service,2025-02-09
+974,1156,715,42,4,"Amazing experience, arrived on time",2025-02-10
+975,3922,937,74,5,Delicious food and quick delivery,2025-01-06
+976,2721,142,22,5,"Fresh food, highly recommended",2025-02-19
+977,4370,1180,80,4,"Fresh food, highly recommended",2025-03-23
+978,2399,467,92,5,"Fresh food, highly recommended",2025-05-20
+979,731,48,16,5,Delicious food and quick delivery,2025-04-20
+980,539,1083,65,4,"Amazing experience, arrived on time",2025-02-07
+981,4667,1406,41,5,"Amazing experience, arrived on time",2025-06-06
+982,390,1179,49,2,Order was delayed and food was soggy,2025-06-19
+983,3074,624,5,5,"Fresh food, highly recommended",2025-02-15
+984,1546,56,77,5,"Fresh food, highly recommended",2025-01-20
+985,2155,143,15,3,Average experience,2025-06-30
+986,2674,29,53,2,Not worth the price,2025-04-29
+987,546,219,33,5,Great taste and excellent service,2025-05-29
+988,3025,191,59,3,"Nothing special, but fine",2025-02-28
+989,1184,461,97,1,Food arrived cold and late,2025-05-11
+990,898,1382,30,3,Food was okay,2025-01-26
+991,3302,174,81,2,Poor service and disappointing taste,2025-04-13
+992,2297,368,77,3,Food was okay,2025-03-13
+993,4400,653,50,4,"Fresh food, highly recommended",2025-06-25
+994,1083,784,57,4,"Fresh food, highly recommended",2025-06-19
+995,4599,1066,81,4,Delicious food and quick delivery,2025-05-05
+996,2835,1319,66,5,"Fresh food, highly recommended",2025-04-14
+997,4208,1041,22,1,Order was delayed and food was soggy,2025-05-31
+998,670,1416,42,5,Delicious food and quick delivery,2025-05-07
+999,4389,877,21,5,Great taste and excellent service,2025-03-25
+1000,1343,715,58,5,"Amazing experience, arrived on time",2025-02-06
+1001,3599,761,51,3,Food was okay,2025-04-03
+1002,4695,738,59,5,"Fresh food, highly recommended",2025-04-29
+1003,2289,658,91,5,Delicious food and quick delivery,2025-03-06
+1004,2477,55,24,4,"Fresh food, highly recommended",2025-05-14
+1005,2127,604,96,5,Delicious food and quick delivery,2025-01-30
+1006,3325,532,3,3,"Nothing special, but fine",2025-02-14
+1007,105,1386,94,4,"Amazing experience, arrived on time",2025-01-01
+1008,14,1254,5,3,Taste and delivery were acceptable,2025-02-06
+1009,4216,580,61,3,Average experience,2025-01-30
+1010,3827,1345,11,5,"Fresh food, highly recommended",2025-06-21
+1011,4353,206,97,5,"Amazing experience, arrived on time",2025-01-31
+1012,4990,241,60,5,"Fresh food, highly recommended",2025-06-24
+1013,189,631,17,4,"Fresh food, highly recommended",2025-04-02
+1014,2171,698,15,5,"Fresh food, highly recommended",2025-03-12
+1015,4328,114,87,4,Delicious food and quick delivery,2025-05-10
+1016,4256,998,39,4,Delicious food and quick delivery,2025-02-28
+1017,2996,427,21,3,Food was okay,2025-05-21
+1018,4609,1447,30,3,Food was okay,2025-05-30
+1019,2091,639,85,5,"Fresh food, highly recommended",2025-06-14
+1020,2412,1172,77,4,Great taste and excellent service,2025-02-26
+1021,4355,46,57,4,Delicious food and quick delivery,2025-03-14
+1022,238,166,25,4,"Fresh food, highly recommended",2025-04-29
+1023,3566,1013,20,4,"Fresh food, highly recommended",2025-03-18
+1024,2680,866,45,4,Delicious food and quick delivery,2025-03-27
+1025,2956,255,80,5,"Amazing experience, arrived on time",2025-01-27
+1026,767,643,70,5,Great taste and excellent service,2025-06-29
+1027,2364,1273,90,5,Great taste and excellent service,2025-03-08
+1028,2899,1326,27,4,"Amazing experience, arrived on time",2025-04-22
+1029,4583,605,37,5,"Amazing experience, arrived on time",2025-04-17
+1030,1222,113,56,4,Great taste and excellent service,2025-06-02
+1031,4874,196,12,3,"Nothing special, but fine",2025-06-16
+1032,1437,902,9,5,"Fresh food, highly recommended",2025-03-09
+1033,1655,777,36,5,Great taste and excellent service,2025-04-27
+1034,2958,989,2,4,Great taste and excellent service,2025-06-30
+1035,2942,980,10,3,Average experience,2025-03-08
+1036,633,1445,16,4,Delicious food and quick delivery,2025-05-02
+1037,1626,428,89,4,Great taste and excellent service,2025-04-18
+1038,4388,792,66,5,"Fresh food, highly recommended",2025-04-15
+1039,986,861,64,4,Great taste and excellent service,2025-01-15
+1040,2852,1409,12,4,"Fresh food, highly recommended",2025-03-02
+1041,1376,764,49,3,Food was okay,2025-04-25
+1042,2440,290,29,5,Delicious food and quick delivery,2025-02-20
+1043,907,293,16,5,Delicious food and quick delivery,2025-02-11
+1044,2730,773,38,2,Order was delayed and food was soggy,2025-03-25
+1045,325,1129,21,3,"Nothing special, but fine",2025-01-07
+1046,4406,993,50,3,Average experience,2025-01-06
+1047,1095,346,15,4,"Amazing experience, arrived on time",2025-02-22
+1048,4846,197,11,1,Not worth the price,2025-01-04
+1049,389,825,58,4,Great taste and excellent service,2025-02-07
+1050,3531,849,80,3,Average experience,2025-03-25
+1051,3267,471,85,5,Delicious food and quick delivery,2025-04-17
+1052,2340,1135,86,5,Great taste and excellent service,2025-04-21
+1053,2818,1025,98,4,"Amazing experience, arrived on time",2025-05-02
+1054,2112,1428,82,3,"Nothing special, but fine",2025-06-18
+1055,2366,820,17,3,Taste and delivery were acceptable,2025-02-18
+1056,4751,177,35,1,Poor service and disappointing taste,2025-06-20
+1057,4022,893,18,4,Great taste and excellent service,2025-03-09
+1058,2330,617,35,2,Order was delayed and food was soggy,2025-02-13
+1059,54,17,37,5,"Amazing experience, arrived on time",2025-02-23
+1060,1623,853,74,5,"Amazing experience, arrived on time",2025-01-17
+1061,2183,1467,63,2,Not worth the price,2025-01-17
+1062,3297,1372,41,5,Great taste and excellent service,2025-04-06
+1063,3423,336,7,4,Delicious food and quick delivery,2025-05-09
+1064,2075,301,20,1,Order was delayed and food was soggy,2025-01-27
+1065,2210,360,77,2,Poor service and disappointing taste,2025-04-19
+1066,2702,836,87,1,Food arrived cold and late,2025-04-29
+1067,3876,824,35,4,Delicious food and quick delivery,2025-02-12
+1068,1492,97,41,3,"Nothing special, but fine",2025-05-09
+1069,2746,1483,72,4,Delicious food and quick delivery,2025-06-15
+1070,32,931,1,5,Great taste and excellent service,2025-01-24
+1071,4110,804,74,4,Great taste and excellent service,2025-06-16
+1072,2293,787,1,3,Average experience,2025-04-21
+1073,479,587,6,5,Delicious food and quick delivery,2025-04-26
+1074,1012,213,33,3,Average experience,2025-03-18
+1075,3937,131,100,5,"Amazing experience, arrived on time",2025-02-13
+1076,4518,818,66,5,Delicious food and quick delivery,2025-02-26
+1077,3040,1156,65,5,Great taste and excellent service,2025-01-09
+1078,3391,762,93,4,"Amazing experience, arrived on time",2025-01-20
+1079,1267,562,42,5,"Amazing experience, arrived on time",2025-02-22
+1080,1003,747,24,2,Not worth the price,2025-02-10
+1081,3279,1186,92,4,"Fresh food, highly recommended",2025-01-01
+1082,1824,1226,80,5,Delicious food and quick delivery,2025-01-07
+1083,2939,774,16,5,"Fresh food, highly recommended",2025-05-10
+1084,199,1079,62,5,"Amazing experience, arrived on time",2025-05-03
+1085,3341,1267,74,5,"Fresh food, highly recommended",2025-04-06
+1086,1884,45,20,5,"Fresh food, highly recommended",2025-03-29
+1087,353,989,94,4,Delicious food and quick delivery,2025-03-12
+1088,4842,953,37,4,"Fresh food, highly recommended",2025-06-15
+1089,2945,1436,76,5,Delicious food and quick delivery,2025-05-04
+1090,2085,1011,53,3,Average experience,2025-01-15
+1091,3147,67,12,4,Great taste and excellent service,2025-04-12
+1092,4391,437,95,5,Delicious food and quick delivery,2025-05-17
+1093,1966,1419,36,4,"Fresh food, highly recommended",2025-03-12
+1094,46,693,36,5,Delicious food and quick delivery,2025-01-07
+1095,1429,796,29,4,"Amazing experience, arrived on time",2025-06-27
+1096,1443,568,59,5,"Amazing experience, arrived on time",2025-05-12
+1097,4331,1329,53,3,Food was okay,2025-02-18
+1098,1325,933,65,5,Great taste and excellent service,2025-02-18
+1099,890,784,71,5,Delicious food and quick delivery,2025-03-06
+1100,3309,637,13,5,Delicious food and quick delivery,2025-05-03
+1101,4752,657,95,3,"Nothing special, but fine",2025-05-20
+1102,2046,497,21,4,Great taste and excellent service,2025-03-23
+1103,281,621,79,2,Poor service and disappointing taste,2025-06-19
+1104,2298,760,69,1,Not worth the price,2025-06-14
+1105,2080,1335,45,3,Average experience,2025-05-12
+1106,720,1285,69,3,Food was okay,2025-03-06
+1107,2651,427,10,5,Delicious food and quick delivery,2025-06-09
+1108,1360,158,100,5,"Amazing experience, arrived on time",2025-03-23
+1109,2890,989,93,5,Delicious food and quick delivery,2025-02-10
+1110,4408,940,1,5,Great taste and excellent service,2025-02-25
+1111,4432,469,42,4,Delicious food and quick delivery,2025-02-08
+1112,4497,740,10,5,"Fresh food, highly recommended",2025-06-12
+1113,3785,925,49,4,"Fresh food, highly recommended",2025-06-12
+1114,3353,1338,78,3,Average experience,2025-06-05
+1115,2096,811,13,5,Delicious food and quick delivery,2025-06-04
+1116,2856,476,30,4,Delicious food and quick delivery,2025-04-02
+1117,289,358,6,4,"Amazing experience, arrived on time",2025-05-31
+1118,4201,653,36,3,"Nothing special, but fine",2025-06-23
+1119,58,196,78,4,"Fresh food, highly recommended",2025-06-01
+1120,773,697,99,2,Not worth the price,2025-06-03
+1121,1541,629,84,5,Delicious food and quick delivery,2025-06-12
+1122,2490,1413,48,4,"Amazing experience, arrived on time",2025-04-15
+1123,1381,553,41,5,"Amazing experience, arrived on time",2025-06-26
+1124,4275,638,89,4,"Amazing experience, arrived on time",2025-01-28
+1125,4709,199,8,5,"Amazing experience, arrived on time",2025-04-02
+1126,759,1324,11,2,Order was delayed and food was soggy,2025-06-10
+1127,1897,1012,51,4,"Amazing experience, arrived on time",2025-03-11
+1128,1570,519,37,5,Great taste and excellent service,2025-02-28
+1129,3420,1147,71,4,Delicious food and quick delivery,2025-06-26
+1130,315,848,5,5,"Amazing experience, arrived on time",2025-05-08
+1131,1624,608,96,5,"Fresh food, highly recommended",2025-02-20
+1132,2383,1033,88,4,"Fresh food, highly recommended",2025-02-08
+1133,4412,24,96,5,Great taste and excellent service,2025-04-10
+1134,3248,1024,92,4,"Amazing experience, arrived on time",2025-03-02
+1135,1282,875,73,5,Great taste and excellent service,2025-04-06
+1136,1652,805,87,4,"Fresh food, highly recommended",2025-02-19
+1137,818,778,10,4,Great taste and excellent service,2025-01-03
+1138,1378,440,50,5,Great taste and excellent service,2025-04-11
+1139,4596,1418,40,5,"Fresh food, highly recommended",2025-05-04
+1140,4801,1280,37,5,Delicious food and quick delivery,2025-04-06
+1141,2538,1413,7,4,Delicious food and quick delivery,2025-06-23
+1142,4309,442,52,2,Order was delayed and food was soggy,2025-06-20
+1143,1182,1119,79,4,Great taste and excellent service,2025-01-23
+1144,1999,1415,46,1,Food arrived cold and late,2025-06-27
+1145,1333,70,35,5,"Amazing experience, arrived on time",2025-06-15
+1146,2539,357,79,5,"Amazing experience, arrived on time",2025-03-19
+1147,4394,839,61,1,Order was delayed and food was soggy,2025-03-24
+1148,2986,1222,1,4,Great taste and excellent service,2025-06-28
+1149,4612,901,95,5,"Amazing experience, arrived on time",2025-06-17
+1150,3072,131,67,2,Food arrived cold and late,2025-05-06
+1151,542,1203,47,4,Delicious food and quick delivery,2025-05-02
+1152,4182,421,53,2,Order was delayed and food was soggy,2025-03-01
+1153,4384,221,10,4,"Fresh food, highly recommended",2025-01-27
+1154,3953,1459,14,4,Great taste and excellent service,2025-05-29
+1155,2213,130,35,4,"Fresh food, highly recommended",2025-06-07
+1156,3991,561,86,5,Delicious food and quick delivery,2025-05-07
+1157,3168,533,7,4,Great taste and excellent service,2025-03-15
+1158,3083,67,11,2,Food arrived cold and late,2025-05-06
+1159,1129,1497,22,5,Delicious food and quick delivery,2025-02-14
+1160,3973,709,18,3,Food was okay,2025-06-05
+1161,4892,122,17,5,Delicious food and quick delivery,2025-06-08
+1162,1556,1467,13,4,Delicious food and quick delivery,2025-06-19
+1163,3563,865,28,3,Taste and delivery were acceptable,2025-04-07
+1164,741,855,63,2,Poor service and disappointing taste,2025-05-24
+1165,3582,959,49,5,Delicious food and quick delivery,2025-03-06
+1166,4265,1228,16,3,Food was okay,2025-06-23
+1167,1122,625,13,5,Delicious food and quick delivery,2025-03-28
+1168,1658,267,22,4,"Fresh food, highly recommended",2025-01-04
+1169,4449,118,39,5,"Amazing experience, arrived on time",2025-02-01
+1170,4317,1195,79,4,Delicious food and quick delivery,2025-02-05
+1171,2989,427,76,5,"Amazing experience, arrived on time",2025-03-17
+1172,1380,1304,89,3,Taste and delivery were acceptable,2025-05-20
+1173,270,1046,94,4,"Fresh food, highly recommended",2025-01-05
+1174,1281,515,12,5,Great taste and excellent service,2025-01-16
+1175,293,250,36,3,Taste and delivery were acceptable,2025-03-19
+1176,2558,234,60,5,"Fresh food, highly recommended",2025-01-24
+1177,1230,1358,67,5,"Fresh food, highly recommended",2025-03-10
+1178,67,483,15,5,"Fresh food, highly recommended",2025-03-22
+1179,1821,942,45,5,"Fresh food, highly recommended",2025-01-05
+1180,3993,1402,35,2,Order was delayed and food was soggy,2025-01-05
+1181,2529,537,19,4,"Amazing experience, arrived on time",2025-01-13
+1182,2747,912,59,5,Great taste and excellent service,2025-01-05
+1183,1468,23,53,3,Taste and delivery were acceptable,2025-05-08
+1184,2571,984,23,5,"Fresh food, highly recommended",2025-06-10
+1185,1956,1498,71,5,Delicious food and quick delivery,2025-05-13
+1186,4841,395,8,5,"Fresh food, highly recommended",2025-01-07
+1187,3929,1017,87,4,Great taste and excellent service,2025-03-23
+1188,109,985,59,5,"Fresh food, highly recommended",2025-05-05
+1189,4224,1333,24,3,Taste and delivery were acceptable,2025-06-21
+1190,1706,576,50,5,Great taste and excellent service,2025-02-22
+1191,553,898,71,4,"Fresh food, highly recommended",2025-04-30
+1192,1890,1059,21,4,"Fresh food, highly recommended",2025-04-07
+1193,4932,1267,5,4,"Amazing experience, arrived on time",2025-04-25
+1194,1320,1089,21,4,Delicious food and quick delivery,2025-05-31
+1195,962,576,32,1,Poor service and disappointing taste,2025-01-06
+1196,4148,843,3,5,Great taste and excellent service,2025-02-10
+1197,1008,607,47,5,"Fresh food, highly recommended",2025-04-01
+1198,1950,20,15,4,Delicious food and quick delivery,2025-03-13
+1199,927,1112,81,5,"Fresh food, highly recommended",2025-06-12
+1200,394,395,58,5,Delicious food and quick delivery,2025-04-20
+1201,4173,908,84,4,"Amazing experience, arrived on time",2025-04-04
+1202,331,673,14,5,"Amazing experience, arrived on time",2025-02-10
+1203,1108,320,76,5,"Fresh food, highly recommended",2025-03-02
+1204,1870,439,44,5,"Amazing experience, arrived on time",2025-03-15
+1205,3884,139,4,4,"Amazing experience, arrived on time",2025-03-11
+1206,2042,1034,49,2,Order was delayed and food was soggy,2025-06-04
+1207,845,1332,73,4,"Amazing experience, arrived on time",2025-04-03
+1208,3401,733,67,4,"Fresh food, highly recommended",2025-06-25
+1209,4053,1340,21,1,Not worth the price,2025-03-17
+1210,2540,1040,3,5,"Amazing experience, arrived on time",2025-03-19
+1211,2209,732,8,5,Great taste and excellent service,2025-06-27
+1212,3285,474,15,5,Delicious food and quick delivery,2025-05-25
+1213,3452,1002,65,4,Delicious food and quick delivery,2025-04-20
+1214,4263,42,100,4,Great taste and excellent service,2025-01-11
+1215,1947,1215,89,5,"Fresh food, highly recommended",2025-05-27
+1216,1307,227,94,4,Great taste and excellent service,2025-06-25
+1217,2726,994,60,3,Average experience,2025-05-28
+1218,3428,783,100,5,Delicious food and quick delivery,2025-02-27
+1219,3135,403,24,5,"Amazing experience, arrived on time",2025-02-18
+1220,114,441,15,4,Great taste and excellent service,2025-02-05
+1221,2030,1410,99,4,"Fresh food, highly recommended",2025-06-22
+1222,4099,199,3,4,"Fresh food, highly recommended",2025-02-13
+1223,60,773,11,5,"Amazing experience, arrived on time",2025-02-19
+1224,80,905,35,4,"Fresh food, highly recommended",2025-03-13
+1225,4206,513,18,4,"Fresh food, highly recommended",2025-05-17
+1226,404,9,45,4,"Amazing experience, arrived on time",2025-01-13
+1227,4042,1180,13,5,"Fresh food, highly recommended",2025-06-18
+1228,870,710,80,1,Order was delayed and food was soggy,2025-02-03
+1229,1908,1493,21,5,"Amazing experience, arrived on time",2025-06-07
+1230,3565,852,12,2,Order was delayed and food was soggy,2025-06-14
+1231,1574,17,90,3,Food was okay,2025-02-08
+1232,1900,320,5,5,"Amazing experience, arrived on time",2025-06-11
+1233,4827,364,27,5,"Amazing experience, arrived on time",2025-01-25
+1234,4636,1225,40,5,"Fresh food, highly recommended",2025-04-15
+1235,130,54,80,4,"Amazing experience, arrived on time",2025-03-13
+1236,4899,622,3,5,Delicious food and quick delivery,2025-02-25
+1237,2795,272,86,4,"Amazing experience, arrived on time",2025-03-07
+1238,3322,1265,24,3,"Nothing special, but fine",2025-05-06
+1239,1010,222,91,4,Delicious food and quick delivery,2025-03-16
+1240,134,1224,21,3,Taste and delivery were acceptable,2025-05-23
+1241,4403,453,2,4,"Amazing experience, arrived on time",2025-02-24
+1242,3821,1125,45,4,"Fresh food, highly recommended",2025-04-24
+1243,3175,944,78,3,Food was okay,2025-02-26
+1244,1297,645,59,4,Delicious food and quick delivery,2025-06-02
+1245,3164,271,20,4,Delicious food and quick delivery,2025-01-06
+1246,2439,1192,27,4,"Fresh food, highly recommended",2025-01-26
+1247,485,897,15,3,Average experience,2025-03-31
+1248,2159,672,66,5,"Fresh food, highly recommended",2025-02-24
+1249,1771,116,6,5,Delicious food and quick delivery,2025-06-14
+1250,4318,334,71,3,Average experience,2025-04-30
+1251,3933,632,79,4,Great taste and excellent service,2025-03-30
+1252,1349,154,1,4,Delicious food and quick delivery,2025-01-13
+1253,2836,314,72,5,"Amazing experience, arrived on time",2025-05-22
+1254,356,1294,13,5,Delicious food and quick delivery,2025-06-30
+1255,4980,823,19,5,"Fresh food, highly recommended",2025-05-18
+1256,3340,350,40,2,Poor service and disappointing taste,2025-02-06
+1257,1496,1181,80,3,Taste and delivery were acceptable,2025-01-26
+1258,4592,914,33,5,Great taste and excellent service,2025-02-24
+1259,2768,1442,12,4,"Amazing experience, arrived on time",2025-05-18
+1260,1111,919,71,1,Poor service and disappointing taste,2025-03-01
+1261,3211,1041,53,4,"Amazing experience, arrived on time",2025-02-08
+1262,1347,732,64,4,Great taste and excellent service,2025-02-20
+1263,3618,1455,97,3,"Nothing special, but fine",2025-05-28
+1264,3447,284,28,4,"Fresh food, highly recommended",2025-03-07
+1265,1338,838,77,3,"Nothing special, but fine",2025-03-11
+1266,3645,742,75,4,Delicious food and quick delivery,2025-04-11
+1267,462,534,5,5,"Amazing experience, arrived on time",2025-04-12
+1268,3119,756,28,4,"Fresh food, highly recommended",2025-03-18
+1269,7,173,66,5,Delicious food and quick delivery,2025-04-19
+1270,1033,916,98,2,Food arrived cold and late,2025-01-03
+1271,482,384,81,5,"Fresh food, highly recommended",2025-03-17
+1272,4789,180,67,4,"Fresh food, highly recommended",2025-02-20
+1273,2462,1364,55,4,Great taste and excellent service,2025-06-13
+1274,1970,345,63,4,"Amazing experience, arrived on time",2025-04-08
+1275,4638,211,48,4,Delicious food and quick delivery,2025-02-01
+1276,3467,588,18,5,Great taste and excellent service,2025-05-10
+1277,3289,460,80,5,Delicious food and quick delivery,2025-04-17
+1278,3966,572,53,3,"Nothing special, but fine",2025-01-20
+1279,2998,515,55,4,Great taste and excellent service,2025-01-12
+1280,1490,1171,80,2,Food arrived cold and late,2025-03-09
+1281,3985,1188,72,1,Not worth the price,2025-02-02
+1282,2542,1434,4,3,Taste and delivery were acceptable,2025-03-05
+1283,3017,469,99,4,Great taste and excellent service,2025-04-03
+1284,212,876,96,5,"Fresh food, highly recommended",2025-03-04
+1285,2122,754,6,5,"Amazing experience, arrived on time",2025-01-04
+1286,2827,322,67,4,Great taste and excellent service,2025-01-07
+1287,2473,585,16,1,Food arrived cold and late,2025-05-12
+1288,4419,1436,20,5,"Amazing experience, arrived on time",2025-05-19
+1289,1881,173,15,3,Food was okay,2025-02-28
+1290,1458,272,61,4,"Fresh food, highly recommended",2025-01-30
+1291,1248,367,90,4,"Amazing experience, arrived on time",2025-05-26
+1292,4023,1362,39,3,Food was okay,2025-03-10
+1293,2309,797,11,3,Average experience,2025-02-07
+1294,243,568,6,4,Delicious food and quick delivery,2025-02-26
+1295,1595,1053,41,3,Taste and delivery were acceptable,2025-01-14
+1296,2409,262,37,5,Delicious food and quick delivery,2025-05-11
+1297,630,378,30,4,Delicious food and quick delivery,2025-04-23
+1298,1358,1405,46,5,"Amazing experience, arrived on time",2025-04-02
+1299,2549,1299,39,4,Delicious food and quick delivery,2025-02-07
+1300,3143,320,4,3,Taste and delivery were acceptable,2025-03-11
+1301,460,594,28,4,Great taste and excellent service,2025-02-17
+1302,4366,217,28,5,Great taste and excellent service,2025-01-20
+1303,1219,1467,10,4,"Fresh food, highly recommended",2025-04-24
+1304,282,1206,33,2,Order was delayed and food was soggy,2025-04-25
+1305,327,1014,7,5,Delicious food and quick delivery,2025-01-06
+1306,1802,201,76,4,Delicious food and quick delivery,2025-02-15
+1307,4531,349,21,4,"Amazing experience, arrived on time",2025-02-10
+1308,4163,104,19,3,Food was okay,2025-05-01
+1309,4955,1301,66,1,Food arrived cold and late,2025-03-29
+1310,2748,1133,90,4,Delicious food and quick delivery,2025-04-10
+1311,4260,1387,34,4,"Fresh food, highly recommended",2025-05-16
+1312,790,1223,31,4,Delicious food and quick delivery,2025-01-13
+1313,2081,1202,90,5,"Fresh food, highly recommended",2025-02-25
+1314,2049,37,52,3,"Nothing special, but fine",2025-06-19
+1315,4495,1013,42,4,Great taste and excellent service,2025-01-21
+1316,4164,1061,3,5,"Amazing experience, arrived on time",2025-06-27
+1317,1416,192,97,4,Great taste and excellent service,2025-04-01
+1318,492,19,49,5,"Amazing experience, arrived on time",2025-01-19
+1319,2153,1295,18,4,Delicious food and quick delivery,2025-01-07
+1320,2354,583,11,4,"Fresh food, highly recommended",2025-06-15
+1321,1062,1054,10,5,"Fresh food, highly recommended",2025-05-08
+1322,4941,1030,28,4,"Amazing experience, arrived on time",2025-03-07
+1323,728,1142,39,4,Great taste and excellent service,2025-05-25
+1324,1565,317,80,5,"Amazing experience, arrived on time",2025-03-21
+1325,4084,788,24,4,Delicious food and quick delivery,2025-02-09
+1326,2513,1180,22,4,Great taste and excellent service,2025-01-27
+1327,2547,339,57,5,Delicious food and quick delivery,2025-04-25
+1328,453,1097,48,5,Delicious food and quick delivery,2025-04-03
+1329,2759,438,1,4,"Fresh food, highly recommended",2025-03-26
+1330,2124,833,26,4,Great taste and excellent service,2025-04-02
+1331,2488,798,66,3,"Nothing special, but fine",2025-06-22
+1332,2149,9,40,5,"Amazing experience, arrived on time",2025-03-09
+1333,1783,947,8,5,Delicious food and quick delivery,2025-06-06
+1334,3249,375,100,3,"Nothing special, but fine",2025-04-23
+1335,3260,541,88,3,Taste and delivery were acceptable,2025-01-17
+1336,472,334,16,5,"Fresh food, highly recommended",2025-01-17
+1337,3095,477,95,4,Great taste and excellent service,2025-02-06
+1338,1563,830,60,5,"Fresh food, highly recommended",2025-05-24
+1339,2600,874,10,4,Delicious food and quick delivery,2025-04-17
+1340,1294,406,28,4,Delicious food and quick delivery,2025-06-14
+1341,4114,173,9,4,Great taste and excellent service,2025-05-23
+1342,4586,1457,47,5,"Amazing experience, arrived on time",2025-05-05
+1343,1743,1499,46,4,"Amazing experience, arrived on time",2025-05-23
+1344,108,737,85,4,"Fresh food, highly recommended",2025-01-28
+1345,4730,1061,6,4,"Amazing experience, arrived on time",2025-04-03
+1346,1567,1113,4,5,"Amazing experience, arrived on time",2025-02-20
+1347,1386,646,56,5,Great taste and excellent service,2025-01-29
+1348,4130,179,6,1,Food arrived cold and late,2025-02-05
+1349,2054,952,2,4,Great taste and excellent service,2025-03-25
+1350,4349,1304,66,3,Taste and delivery were acceptable,2025-04-02
+1351,2791,594,71,5,Great taste and excellent service,2025-06-28
+1352,2512,466,79,3,"Nothing special, but fine",2025-02-03
+1353,4041,448,80,5,Great taste and excellent service,2025-03-21
+1354,2104,612,80,4,"Amazing experience, arrived on time",2025-04-17
+1355,3939,1165,44,5,Great taste and excellent service,2025-06-27
+1356,1688,100,76,5,Great taste and excellent service,2025-05-09
+1357,3761,676,43,3,Food was okay,2025-06-05
+1358,1484,1023,72,4,Great taste and excellent service,2025-02-06
+1359,3162,928,24,3,Taste and delivery were acceptable,2025-03-08
+1360,4498,801,61,3,Average experience,2025-01-05
+1361,435,268,83,2,Poor service and disappointing taste,2025-01-20
+1362,1173,368,54,5,Delicious food and quick delivery,2025-06-09
+1363,3930,620,2,3,Taste and delivery were acceptable,2025-05-25
+1364,908,555,70,2,Order was delayed and food was soggy,2025-01-24
+1365,2226,462,61,3,Taste and delivery were acceptable,2025-02-05
+1366,2845,166,48,3,Food was okay,2025-05-19
+1367,906,475,41,2,Not worth the price,2025-04-30
+1368,4059,1048,71,5,Delicious food and quick delivery,2025-05-20
+1369,418,87,65,5,Great taste and excellent service,2025-01-02
+1370,2648,170,8,4,Delicious food and quick delivery,2025-05-10
+1371,3199,14,67,5,"Amazing experience, arrived on time",2025-04-14
+1372,2041,1454,18,1,Poor service and disappointing taste,2025-06-02
+1373,2499,230,6,4,"Fresh food, highly recommended",2025-01-04
+1374,2296,1106,70,4,"Fresh food, highly recommended",2025-03-23
+1375,961,813,24,5,"Fresh food, highly recommended",2025-01-01
+1376,4358,10,59,4,"Fresh food, highly recommended",2025-01-13
+1377,4880,91,32,4,"Fresh food, highly recommended",2025-03-06
+1378,607,647,95,4,"Fresh food, highly recommended",2025-02-08
+1379,1277,1243,76,4,Delicious food and quick delivery,2025-03-06
+1380,1334,607,72,5,Great taste and excellent service,2025-06-26
+1381,2756,838,85,3,Food was okay,2025-02-17
+1382,4024,796,84,5,"Fresh food, highly recommended",2025-06-20
+1383,3623,636,18,5,"Fresh food, highly recommended",2025-04-28
+1384,2220,1272,34,4,"Fresh food, highly recommended",2025-02-19
+1385,2326,686,36,5,"Amazing experience, arrived on time",2025-06-16
+1386,4462,191,15,4,Great taste and excellent service,2025-01-30
+1387,831,1142,8,1,Not worth the price,2025-03-23
+1388,3900,1420,93,5,"Fresh food, highly recommended",2025-04-13
+1389,3968,100,46,4,Delicious food and quick delivery,2025-06-08
+1390,963,198,91,2,Food arrived cold and late,2025-06-24
+1391,835,35,78,3,Average experience,2025-02-09
+1392,4162,52,73,5,"Amazing experience, arrived on time",2025-02-04
+1393,3782,1367,92,3,Average experience,2025-06-30
+1394,2830,255,8,5,Great taste and excellent service,2025-01-31
+1395,1991,761,70,5,Great taste and excellent service,2025-04-14
+1396,811,976,99,5,"Amazing experience, arrived on time",2025-01-27
+1397,2491,989,94,5,Delicious food and quick delivery,2025-01-22
+1398,3541,922,69,3,Taste and delivery were acceptable,2025-04-07
+1399,4910,495,36,4,"Fresh food, highly recommended",2025-05-02
+1400,1888,104,77,5,"Amazing experience, arrived on time",2025-03-01
+1401,4579,243,23,3,Average experience,2025-04-02
+1402,1226,571,42,5,"Amazing experience, arrived on time",2025-03-23
+1403,4450,1419,99,5,"Amazing experience, arrived on time",2025-02-08
+1404,3834,166,21,5,Delicious food and quick delivery,2025-05-11
+1405,382,1109,56,3,Average experience,2025-06-19
+1406,1768,224,38,3,Food was okay,2025-01-13
+1407,3651,347,33,5,"Amazing experience, arrived on time",2025-04-23
+1408,4677,316,7,3,Food was okay,2025-05-24
+1409,635,570,8,5,"Amazing experience, arrived on time",2025-05-22
+1410,79,484,14,3,"Nothing special, but fine",2025-04-28
+1411,3278,59,26,4,Great taste and excellent service,2025-04-27
+1412,4377,1303,66,5,Delicious food and quick delivery,2025-02-20
+1413,4134,908,26,5,"Amazing experience, arrived on time",2025-05-05
+1414,3303,100,43,4,Great taste and excellent service,2025-06-01
+1415,194,906,76,4,"Fresh food, highly recommended",2025-03-31
+1416,4442,209,42,4,Great taste and excellent service,2025-02-04
+1417,3592,742,63,3,Average experience,2025-03-06
+1418,2327,1167,74,5,Great taste and excellent service,2025-03-04
+1419,3063,483,33,5,"Fresh food, highly recommended",2025-01-17
+1420,669,1044,3,5,Delicious food and quick delivery,2025-03-31
+1421,1661,1423,46,3,Taste and delivery were acceptable,2025-04-12
+1422,27,515,96,1,Poor service and disappointing taste,2025-01-01
+1423,732,288,98,5,Delicious food and quick delivery,2025-05-19
+1424,3028,348,74,4,"Amazing experience, arrived on time",2025-01-20
+1425,3190,59,7,5,Delicious food and quick delivery,2025-04-27
+1426,188,209,43,3,"Nothing special, but fine",2025-01-10
+1427,4262,876,97,5,"Amazing experience, arrived on time",2025-06-11
+1428,366,867,99,4,Great taste and excellent service,2025-03-09
+1429,378,242,24,5,Delicious food and quick delivery,2025-01-21
+1430,2917,159,47,3,Taste and delivery were acceptable,2025-04-30
+1431,2336,477,89,1,Order was delayed and food was soggy,2025-03-13
+1432,1203,203,10,4,Delicious food and quick delivery,2025-04-16
+1433,523,25,13,4,"Amazing experience, arrived on time",2025-02-07
+1434,808,230,69,4,Great taste and excellent service,2025-05-18
+1435,4329,503,95,3,Average experience,2025-05-12
+1436,1081,526,53,4,"Amazing experience, arrived on time",2025-02-24
+1437,4187,272,42,4,"Amazing experience, arrived on time",2025-02-16
+1438,2716,288,76,3,Average experience,2025-02-08
+1439,4365,1454,20,4,"Amazing experience, arrived on time",2025-06-21
+1440,1772,917,92,4,Great taste and excellent service,2025-02-15
+1441,1426,1459,8,1,Poor service and disappointing taste,2025-06-25
+1442,2728,1394,38,1,Order was delayed and food was soggy,2025-03-05
+1443,4605,979,28,4,Great taste and excellent service,2025-02-23
+1444,734,1082,70,2,Order was delayed and food was soggy,2025-05-04
+1445,2715,270,25,5,"Fresh food, highly recommended",2025-05-04
+1446,1829,861,62,4,"Fresh food, highly recommended",2025-06-27
+1447,2782,847,16,1,Not worth the price,2025-01-05
+1448,3089,511,48,4,Great taste and excellent service,2025-06-26
+1449,3956,1439,30,2,Order was delayed and food was soggy,2025-02-08
+1450,4830,783,61,5,Great taste and excellent service,2025-01-07
+1451,4521,221,52,3,Food was okay,2025-03-18
+1452,3404,806,87,4,Great taste and excellent service,2025-01-25
+1453,3977,1347,39,5,Great taste and excellent service,2025-04-06
+1454,2909,1387,20,3,Food was okay,2025-01-10
+1455,1405,858,100,3,Taste and delivery were acceptable,2025-06-04
+1456,4646,1311,59,5,"Amazing experience, arrived on time",2025-06-04
+1457,3576,1053,41,4,Great taste and excellent service,2025-02-03
+1458,2584,1336,30,3,Taste and delivery were acceptable,2025-04-08
+1459,71,1028,13,3,Food was okay,2025-01-29
+1460,2277,200,42,5,Great taste and excellent service,2025-01-02
+1461,242,887,56,3,"Nothing special, but fine",2025-01-29
+1462,3920,770,89,4,Delicious food and quick delivery,2025-02-17
+1463,4889,1109,12,3,Taste and delivery were acceptable,2025-01-27
+1464,3863,241,11,4,"Amazing experience, arrived on time",2025-01-31
+1465,2372,238,93,2,Not worth the price,2025-04-27
+1466,92,988,22,1,Not worth the price,2025-02-06
+1467,2405,84,49,4,Delicious food and quick delivery,2025-04-12
+1468,2615,162,64,4,Delicious food and quick delivery,2025-03-22
+1469,2587,899,94,3,Food was okay,2025-01-31
+1470,3961,1212,70,3,"Nothing special, but fine",2025-01-19
+1471,1747,1123,18,5,Delicious food and quick delivery,2025-06-25
+1472,2515,250,55,4,Delicious food and quick delivery,2025-06-22
+1473,2377,606,15,4,"Fresh food, highly recommended",2025-01-06
+1474,3103,563,56,3,Food was okay,2025-05-21
+1475,4560,34,19,4,"Amazing experience, arrived on time",2025-05-02
+1476,2955,244,51,4,"Fresh food, highly recommended",2025-01-05
+1477,3058,1346,65,3,"Nothing special, but fine",2025-06-21
+1478,1261,741,43,4,"Fresh food, highly recommended",2025-06-15
+1479,436,1087,91,2,Poor service and disappointing taste,2025-04-21
+1480,3696,1147,75,2,Order was delayed and food was soggy,2025-03-19
+1481,1715,835,52,4,Great taste and excellent service,2025-01-18
+1482,2649,438,51,3,"Nothing special, but fine",2025-04-26
+1483,2531,1243,8,5,Great taste and excellent service,2025-02-23
+1484,1528,1291,51,3,Taste and delivery were acceptable,2025-05-04
+1485,2087,1286,71,2,Food arrived cold and late,2025-01-06
+1486,1211,1473,31,2,Food arrived cold and late,2025-06-09
+1487,4931,125,42,5,"Fresh food, highly recommended",2025-01-05
+1488,1478,96,86,5,"Amazing experience, arrived on time",2025-01-15
+1489,2380,811,63,5,Delicious food and quick delivery,2025-06-14
+1490,1084,290,22,5,"Amazing experience, arrived on time",2025-06-15
+1491,312,1379,65,5,"Amazing experience, arrived on time",2025-04-30
+1492,1425,1018,66,5,"Fresh food, highly recommended",2025-01-05
+1493,3456,403,24,4,"Fresh food, highly recommended",2025-02-17
+1494,997,573,1,5,Delicious food and quick delivery,2025-05-13
+1495,3643,425,48,1,Food arrived cold and late,2025-02-23
+1496,4287,968,71,5,Delicious food and quick delivery,2025-05-13
+1497,3657,632,35,2,Order was delayed and food was soggy,2025-02-11
+1498,680,9,64,5,Great taste and excellent service,2025-02-15
+1499,3448,977,64,4,"Amazing experience, arrived on time",2025-01-17
+1500,1997,550,2,4,"Fresh food, highly recommended",2025-06-22
+1501,4073,1225,16,5,"Amazing experience, arrived on time",2025-04-16
+1502,465,899,20,4,"Amazing experience, arrived on time",2025-01-28
+1503,4167,1165,38,5,Delicious food and quick delivery,2025-01-21
+1504,4027,745,94,3,Taste and delivery were acceptable,2025-05-09
+1505,3490,1135,25,4,Great taste and excellent service,2025-03-29
+1506,932,650,91,5,"Amazing experience, arrived on time",2025-06-12
+1507,545,38,54,4,Delicious food and quick delivery,2025-02-22
+1508,4690,142,48,4,Great taste and excellent service,2025-02-27
+1509,3535,783,66,4,"Amazing experience, arrived on time",2025-01-07
+1510,602,401,6,5,Delicious food and quick delivery,2025-01-21
+1511,613,330,51,4,Great taste and excellent service,2025-03-20
+1512,985,1075,100,3,Average experience,2025-01-17
+1513,1922,597,52,2,Not worth the price,2025-03-05
+1514,3371,1110,88,4,Great taste and excellent service,2025-06-05
+1515,2663,1180,44,3,Average experience,2025-03-12
+1516,239,336,7,5,"Fresh food, highly recommended",2025-01-21
+1517,2769,671,92,4,Delicious food and quick delivery,2025-01-17
+1518,1742,1421,60,5,"Fresh food, highly recommended",2025-05-18
+1519,1256,988,20,5,Great taste and excellent service,2025-01-18
+1520,230,1312,11,5,"Amazing experience, arrived on time",2025-06-15
+1521,2893,583,31,2,Order was delayed and food was soggy,2025-06-08
+1522,2425,674,37,5,"Amazing experience, arrived on time",2025-05-12
+1523,2352,898,15,2,Poor service and disappointing taste,2025-06-18
+1524,603,931,82,2,Food arrived cold and late,2025-02-07
+1525,1561,1268,16,2,Poor service and disappointing taste,2025-05-08
+1526,2824,96,70,5,Great taste and excellent service,2025-01-11
+1527,2735,158,97,5,Great taste and excellent service,2025-01-08
+1528,1051,744,78,3,Food was okay,2025-04-24
+1529,1957,206,62,5,Delicious food and quick delivery,2025-05-17
+1530,2390,754,100,5,"Fresh food, highly recommended",2025-03-28
+1531,583,1176,17,5,Delicious food and quick delivery,2025-01-29
+1532,4441,64,46,5,Great taste and excellent service,2025-02-24
+1533,2961,156,88,4,"Amazing experience, arrived on time",2025-02-28
+1534,3530,1110,84,4,Great taste and excellent service,2025-01-16
+1535,2140,406,11,4,"Amazing experience, arrived on time",2025-06-16
+1536,3169,1382,81,2,Poor service and disappointing taste,2025-06-22
+1537,708,229,5,5,"Fresh food, highly recommended",2025-06-16
+1538,4840,643,46,4,Great taste and excellent service,2025-03-18
+1539,4758,821,91,4,Delicious food and quick delivery,2025-03-03
+1540,1,1094,52,3,Average experience,2025-04-26
+1541,2068,1152,59,4,Delicious food and quick delivery,2025-02-15
+1542,4909,518,74,3,Average experience,2025-03-08
+1543,3210,57,3,5,Great taste and excellent service,2025-02-12
+1544,3554,1068,99,5,Great taste and excellent service,2025-05-24
+1545,2313,978,17,5,Delicious food and quick delivery,2025-01-28
+1546,272,1170,86,5,Great taste and excellent service,2025-03-19
+1547,2286,1347,22,5,Delicious food and quick delivery,2025-04-04
+1548,4444,287,30,3,Average experience,2025-04-26
+1549,4220,629,88,4,Delicious food and quick delivery,2025-05-24
+1550,4397,1404,32,4,"Fresh food, highly recommended",2025-04-26
+1551,4013,1017,95,5,Great taste and excellent service,2025-06-19
+1552,3972,457,67,4,Great taste and excellent service,2025-01-03
+1553,2205,1198,87,3,Taste and delivery were acceptable,2025-06-27
+1554,2618,739,92,1,Food arrived cold and late,2025-06-08
+1555,2816,795,23,5,Delicious food and quick delivery,2025-06-07
+1556,3349,278,34,3,Average experience,2025-06-15
+1557,2063,1343,86,2,Poor service and disappointing taste,2025-01-29
+1558,2143,1437,94,5,Great taste and excellent service,2025-03-22
+1559,1959,1087,51,5,Great taste and excellent service,2025-05-15
+1560,3789,1135,58,4,Delicious food and quick delivery,2025-01-05
+1561,307,598,7,3,Food was okay,2025-02-14
+1562,1056,1414,29,4,Delicious food and quick delivery,2025-05-24
+1563,4652,940,87,2,Not worth the price,2025-03-14
+1564,2110,401,12,2,Food arrived cold and late,2025-05-25
+1565,3003,490,13,4,"Amazing experience, arrived on time",2025-03-19
+1566,2811,953,52,5,"Fresh food, highly recommended",2025-03-28
+1567,2638,1126,6,2,Food arrived cold and late,2025-01-30
+1568,3519,353,91,5,"Amazing experience, arrived on time",2025-06-02
+1569,2368,319,42,4,Great taste and excellent service,2025-05-31
+1570,4717,607,25,1,Poor service and disappointing taste,2025-03-07
+1571,2693,202,41,3,Food was okay,2025-02-21
+1572,2300,739,62,2,Food arrived cold and late,2025-05-09
+1573,2568,1401,20,3,"Nothing special, but fine",2025-02-09
+1574,167,1189,65,3,Taste and delivery were acceptable,2025-04-21
+1575,2611,847,92,3,Average experience,2025-04-23
+1576,1090,1117,89,4,"Amazing experience, arrived on time",2025-06-29
+1577,3442,1046,14,1,Not worth the price,2025-02-03
+1578,2608,688,94,1,Not worth the price,2025-01-18
+1579,4090,1298,47,5,Great taste and excellent service,2025-02-10
+1580,1086,1096,78,5,"Amazing experience, arrived on time",2025-02-26
+1581,3436,282,52,4,Delicious food and quick delivery,2025-05-24
+1582,2008,229,99,5,"Fresh food, highly recommended",2025-04-16
+1583,3634,632,98,3,"Nothing special, but fine",2025-02-21
+1584,2017,1087,35,5,Delicious food and quick delivery,2025-04-17
+1585,1044,182,78,4,"Amazing experience, arrived on time",2025-02-06
+1586,2681,1492,84,4,"Amazing experience, arrived on time",2025-03-03
+1587,3221,1077,10,3,Food was okay,2025-03-24
+1588,2740,1033,97,3,"Nothing special, but fine",2025-03-18
+1589,4825,1152,23,5,Delicious food and quick delivery,2025-03-17
+1590,3505,1020,17,1,Not worth the price,2025-06-07
+1591,1599,514,90,5,"Amazing experience, arrived on time",2025-02-18
+1592,1657,267,73,3,Average experience,2025-05-08
+1593,1525,1454,1,4,"Amazing experience, arrived on time",2025-05-02
+1594,290,305,78,4,"Fresh food, highly recommended",2025-02-03
+1595,3378,1224,27,5,"Fresh food, highly recommended",2025-06-08
+1596,1646,1403,84,3,Average experience,2025-05-07
+1597,778,1091,77,4,Delicious food and quick delivery,2025-01-17
+1598,3043,726,96,5,Great taste and excellent service,2025-03-31
+1599,716,1154,32,3,Food was okay,2025-01-08
+1600,4942,1054,96,4,Delicious food and quick delivery,2025-02-25
+1601,1540,538,81,1,Order was delayed and food was soggy,2025-01-05
+1602,1030,1042,44,5,Delicious food and quick delivery,2025-03-03
+1603,3026,566,31,5,Delicious food and quick delivery,2025-05-15
+1604,2559,863,36,2,Not worth the price,2025-03-28
+1605,3759,380,48,5,Delicious food and quick delivery,2025-05-01
+1606,2465,960,89,2,Order was delayed and food was soggy,2025-03-31
+1607,271,1042,24,5,Delicious food and quick delivery,2025-02-02
+1608,3276,940,17,2,Order was delayed and food was soggy,2025-04-09
+1609,4871,1330,99,4,"Fresh food, highly recommended",2025-05-16
+1610,2640,1198,6,5,Delicious food and quick delivery,2025-04-19
+1611,1023,1309,50,3,Taste and delivery were acceptable,2025-06-04
+1612,4581,469,47,5,Delicious food and quick delivery,2025-01-31
+1613,1304,329,91,5,"Amazing experience, arrived on time",2025-03-16
+1614,295,589,49,4,"Fresh food, highly recommended",2025-03-06
+1615,745,1240,70,2,Food arrived cold and late,2025-02-14
+1616,1978,271,74,5,Great taste and excellent service,2025-04-22
+1617,2507,88,99,4,"Amazing experience, arrived on time",2025-05-10
+1618,4064,883,69,4,"Amazing experience, arrived on time",2025-02-24
+1619,2722,1318,71,4,Great taste and excellent service,2025-04-19
+1620,3422,1310,66,4,"Fresh food, highly recommended",2025-03-24
+1621,3850,255,84,4,"Amazing experience, arrived on time",2025-03-24
+1622,2733,1261,57,5,Great taste and excellent service,2025-03-22
+1623,3294,679,53,4,"Fresh food, highly recommended",2025-06-14
+1624,721,586,35,5,Great taste and excellent service,2025-02-15
+1625,596,1056,8,4,Great taste and excellent service,2025-01-28
+1626,3719,354,7,2,Food arrived cold and late,2025-01-16
+1627,1909,836,44,5,"Amazing experience, arrived on time",2025-01-03
+1628,4575,35,61,5,"Fresh food, highly recommended",2025-06-27
+1629,284,311,79,5,"Fresh food, highly recommended",2025-03-06
+1630,1788,1292,42,3,Food was okay,2025-01-17
+1631,2719,1085,74,4,"Fresh food, highly recommended",2025-06-19
+1632,1028,710,20,1,Food arrived cold and late,2025-04-16
+1633,679,443,84,5,"Amazing experience, arrived on time",2025-01-28
+1634,1692,55,10,5,"Fresh food, highly recommended",2025-06-10
+1635,1130,170,39,3,Average experience,2025-02-28
+1636,4002,278,100,3,Average experience,2025-04-11
+1637,1270,717,100,5,Delicious food and quick delivery,2025-03-07
+1638,240,32,32,4,"Fresh food, highly recommended",2025-06-04
+1639,4364,1391,27,4,Delicious food and quick delivery,2025-06-21
+1640,529,457,7,3,"Nothing special, but fine",2025-06-09
+1641,4045,952,52,3,Average experience,2025-06-13
+1642,2256,414,12,4,"Amazing experience, arrived on time",2025-03-07
+1643,283,1184,25,3,"Nothing special, but fine",2025-06-24
+1644,4033,96,64,3,Average experience,2025-03-06
+1645,423,961,52,4,"Amazing experience, arrived on time",2025-05-08
+1646,941,541,77,3,Taste and delivery were acceptable,2025-03-22
+1647,3586,24,79,5,"Fresh food, highly recommended",2025-05-25
+1648,2391,1036,32,4,Delicious food and quick delivery,2025-03-03
+1649,2859,23,33,1,Order was delayed and food was soggy,2025-01-20
+1650,1621,52,70,3,Taste and delivery were acceptable,2025-01-09
+1651,4003,1320,6,4,Delicious food and quick delivery,2025-02-23
+1652,3770,484,86,4,"Fresh food, highly recommended",2025-04-05
+1653,606,1176,10,5,"Amazing experience, arrived on time",2025-01-24
+1654,1355,607,78,5,Great taste and excellent service,2025-04-15
+1655,4917,580,88,4,Great taste and excellent service,2025-05-24
+1656,2454,112,72,4,"Fresh food, highly recommended",2025-06-13
+1657,3967,1204,40,3,Average experience,2025-02-17
+1658,3557,290,46,1,Order was delayed and food was soggy,2025-02-09
+1659,4713,1417,74,2,Not worth the price,2025-04-02
+1660,1210,1340,82,4,"Fresh food, highly recommended",2025-06-04
+1661,1776,622,38,1,Not worth the price,2025-01-28
+1662,4080,494,36,4,Delicious food and quick delivery,2025-06-12
+1663,4261,1185,32,1,Not worth the price,2025-03-09
+1664,1448,244,61,5,Delicious food and quick delivery,2025-03-31
+1665,2088,658,64,3,Average experience,2025-06-30
+1666,552,399,70,5,Delicious food and quick delivery,2025-03-08
+1667,8,1434,14,5,Delicious food and quick delivery,2025-04-22
+1668,1764,634,67,5,"Amazing experience, arrived on time",2025-04-14
+1669,4258,945,63,5,Great taste and excellent service,2025-04-14
+1670,2837,976,17,5,"Fresh food, highly recommended",2025-05-05
+1671,2992,259,42,3,Average experience,2025-06-12
+1672,2907,859,36,4,"Fresh food, highly recommended",2025-01-23
+1673,4344,1489,30,4,"Amazing experience, arrived on time",2025-01-12
+1674,1589,916,72,4,Delicious food and quick delivery,2025-05-22
+1675,4963,1018,65,4,"Amazing experience, arrived on time",2025-06-07
+1676,414,322,19,2,Order was delayed and food was soggy,2025-06-10
+1677,3916,400,18,1,Not worth the price,2025-03-22
+1678,3664,455,8,4,Delicious food and quick delivery,2025-05-12
+1679,755,48,24,5,Delicious food and quick delivery,2025-05-14
+1680,858,1362,92,5,Delicious food and quick delivery,2025-04-02
+1681,2161,279,14,3,Average experience,2025-04-12
+1682,1116,1083,57,5,"Fresh food, highly recommended",2025-02-16
+1683,3444,907,29,5,"Amazing experience, arrived on time",2025-06-25
+1684,4682,1036,16,5,"Fresh food, highly recommended",2025-06-25
+1685,4119,294,100,5,Great taste and excellent service,2025-02-06
+1686,4438,68,69,5,Delicious food and quick delivery,2025-05-26
+1687,69,570,69,5,Delicious food and quick delivery,2025-02-04
+1688,4221,420,67,4,Great taste and excellent service,2025-05-27
+1689,4273,1254,23,5,"Amazing experience, arrived on time",2025-01-31
+1690,4122,1318,29,3,"Nothing special, but fine",2025-06-01
+1691,3903,1215,60,5,Delicious food and quick delivery,2025-04-27
+1692,756,173,2,5,"Amazing experience, arrived on time",2025-01-01
+1693,2709,16,78,3,Average experience,2025-04-18
+1694,2447,1275,9,4,"Fresh food, highly recommended",2025-03-20
+1695,866,23,65,1,Order was delayed and food was soggy,2025-06-17
+1696,3758,1467,75,4,Great taste and excellent service,2025-06-03
+1697,695,4,90,5,Delicious food and quick delivery,2025-02-19
+1698,3526,442,41,4,Delicious food and quick delivery,2025-01-08
+1699,4960,1320,60,5,"Amazing experience, arrived on time",2025-04-16
+1700,3862,1221,31,5,"Fresh food, highly recommended",2025-04-13
+1701,4367,220,2,5,Great taste and excellent service,2025-03-25
+1702,1965,956,40,5,"Amazing experience, arrived on time",2025-03-01
+1703,2991,491,64,3,Average experience,2025-03-20
+1704,981,781,13,4,"Fresh food, highly recommended",2025-02-14
+1705,1206,169,74,3,"Nothing special, but fine",2025-01-29
+1706,419,577,36,4,Great taste and excellent service,2025-04-02
+1707,2160,76,29,1,Food arrived cold and late,2025-01-30
+1708,4696,545,4,4,Great taste and excellent service,2025-05-08
+1709,305,999,29,5,Great taste and excellent service,2025-03-29
+1710,3388,659,8,5,"Fresh food, highly recommended",2025-03-06
+1711,33,1359,23,4,"Fresh food, highly recommended",2025-05-05
+1712,3033,1426,28,3,Taste and delivery were acceptable,2025-03-03
+1713,2481,1048,51,3,Food was okay,2025-02-27
+1714,4012,272,12,2,Not worth the price,2025-05-14
+1715,676,658,47,2,Poor service and disappointing taste,2025-06-04
+1716,3943,764,29,5,"Amazing experience, arrived on time",2025-02-08
+1717,627,661,8,5,"Fresh food, highly recommended",2025-05-06
+1718,2762,940,63,5,Great taste and excellent service,2025-01-04
+1719,379,267,51,5,"Amazing experience, arrived on time",2025-05-25
+1720,4105,1167,16,2,Poor service and disappointing taste,2025-04-11
+1721,4036,927,77,4,Great taste and excellent service,2025-05-21
+1722,1864,737,32,3,Average experience,2025-02-10
+1723,2860,308,18,2,Order was delayed and food was soggy,2025-01-24
+1724,4238,722,76,3,Food was okay,2025-01-04
+1725,4527,1494,94,5,"Fresh food, highly recommended",2025-02-16
+1726,3464,1483,74,4,Delicious food and quick delivery,2025-06-08
+1727,4806,1068,67,5,Delicious food and quick delivery,2025-04-14
+1728,3152,1482,2,2,Not worth the price,2025-01-05
+1729,3362,820,20,5,Delicious food and quick delivery,2025-02-13
+1730,1253,1025,81,4,Great taste and excellent service,2025-02-08
+1731,2928,1035,44,5,Great taste and excellent service,2025-01-14
+1732,1686,143,27,4,Great taste and excellent service,2025-06-27
+1733,4509,402,25,1,Order was delayed and food was soggy,2025-04-11
+1734,4237,1345,74,4,Delicious food and quick delivery,2025-01-30
+1735,935,46,67,3,Average experience,2025-04-20
+1736,1754,201,64,3,Average experience,2025-06-30
+1737,3501,812,88,3,Food was okay,2025-01-09
+1738,2077,687,55,5,Delicious food and quick delivery,2025-03-05
+1739,1665,449,25,5,"Amazing experience, arrived on time",2025-02-19
+1740,1069,1078,19,2,Not worth the price,2025-05-09
+1741,4312,769,76,4,"Fresh food, highly recommended",2025-04-16
+1742,578,128,96,3,"Nothing special, but fine",2025-01-13
+1743,191,193,51,2,Not worth the price,2025-04-01
+1744,1777,319,62,4,"Amazing experience, arrived on time",2025-06-01
+1745,464,1345,26,5,"Amazing experience, arrived on time",2025-03-25
+1746,3178,1171,7,3,Food was okay,2025-05-31
+1747,3980,640,76,3,Taste and delivery were acceptable,2025-02-10
+1748,4517,1460,64,5,"Amazing experience, arrived on time",2025-03-02
+1749,2880,952,9,5,"Fresh food, highly recommended",2025-01-21
+1750,1507,1145,37,3,Average experience,2025-03-02
+1751,629,705,70,1,Not worth the price,2025-03-03
+1752,2060,274,58,5,"Fresh food, highly recommended",2025-02-18
+1753,2011,16,39,5,"Fresh food, highly recommended",2025-01-12
+1754,4807,1463,21,5,"Amazing experience, arrived on time",2025-03-13
+1755,318,1428,33,2,Food arrived cold and late,2025-03-08
+1756,4747,1068,40,5,"Fresh food, highly recommended",2025-05-21
+1757,2194,1050,49,4,"Amazing experience, arrived on time",2025-03-14
+1758,3675,71,27,1,Poor service and disappointing taste,2025-06-18
+1759,4244,1442,46,2,Food arrived cold and late,2025-04-09
+1760,3670,1046,45,1,Order was delayed and food was soggy,2025-04-02
+1761,2926,793,72,2,Not worth the price,2025-06-21
+1762,4058,1081,31,4,"Fresh food, highly recommended",2025-03-21
+1763,2370,1206,50,5,"Amazing experience, arrived on time",2025-01-27
+1764,3628,658,45,5,"Fresh food, highly recommended",2025-06-20
+1765,2079,1275,4,5,Delicious food and quick delivery,2025-03-05
+1766,4668,431,21,5,Delicious food and quick delivery,2025-05-21
+1767,4585,716,68,1,Food arrived cold and late,2025-06-01
+1768,420,134,44,4,"Fresh food, highly recommended",2025-01-12
+1769,4322,277,66,1,Not worth the price,2025-06-05
+1770,406,888,88,5,Delicious food and quick delivery,2025-01-07
+1771,2692,318,96,3,"Nothing special, but fine",2025-06-23
+1772,3780,1061,3,5,"Fresh food, highly recommended",2025-05-01
+1773,4138,1011,65,3,Taste and delivery were acceptable,2025-05-16
+1774,3538,687,49,5,Great taste and excellent service,2025-05-21
+1775,4782,1081,66,5,Great taste and excellent service,2025-05-24
+1776,3924,589,95,3,Food was okay,2025-02-05
+1777,1221,492,55,5,"Amazing experience, arrived on time",2025-03-15
+1778,4595,1215,12,3,Taste and delivery were acceptable,2025-06-09
+1779,2191,1133,42,2,Order was delayed and food was soggy,2025-06-08
+1780,3597,401,3,4,"Amazing experience, arrived on time",2025-05-31
+1781,2023,1425,20,4,"Amazing experience, arrived on time",2025-02-23
+1782,151,1172,95,5,Delicious food and quick delivery,2025-04-06
+1783,4601,894,24,4,Great taste and excellent service,2025-04-01
+1784,535,258,60,3,Average experience,2025-05-08
+1785,3200,740,49,4,Great taste and excellent service,2025-03-09
+1786,3790,520,50,5,Delicious food and quick delivery,2025-05-26
+1787,216,1491,83,3,Taste and delivery were acceptable,2025-06-13
+1788,3012,197,82,2,Food arrived cold and late,2025-03-14
+1789,4886,606,84,5,"Fresh food, highly recommended",2025-02-10
+1790,4856,605,89,5,"Amazing experience, arrived on time",2025-01-27
+1791,1289,314,68,5,Delicious food and quick delivery,2025-03-21
+1792,1348,285,36,3,Average experience,2025-03-10
+1793,1960,685,80,5,Delicious food and quick delivery,2025-02-08
+1794,2783,305,25,3,"Nothing special, but fine",2025-01-14
+1795,1558,530,26,5,"Amazing experience, arrived on time",2025-06-23
+1796,4112,1323,53,2,Order was delayed and food was soggy,2025-03-15
+1797,2953,1245,48,4,"Fresh food, highly recommended",2025-06-24
+1798,4513,78,31,5,"Fresh food, highly recommended",2025-01-22
+1799,4796,57,29,1,Food arrived cold and late,2025-04-04
+1800,213,85,38,3,Taste and delivery were acceptable,2025-03-11
+1801,1705,236,25,5,Great taste and excellent service,2025-06-14
+1802,3987,648,37,5,Great taste and excellent service,2025-05-16
+1803,972,176,35,4,"Amazing experience, arrived on time",2025-03-15
+1804,3389,908,22,5,"Amazing experience, arrived on time",2025-05-07
+1805,4542,1319,64,5,Delicious food and quick delivery,2025-04-13
+1806,2055,916,83,5,"Fresh food, highly recommended",2025-05-03
+1807,4169,167,51,4,"Fresh food, highly recommended",2025-06-17
+1808,1374,196,69,5,"Amazing experience, arrived on time",2025-04-16
+1809,933,1033,22,3,Taste and delivery were acceptable,2025-04-27
+1810,2800,118,93,2,Poor service and disappointing taste,2025-04-23
+1811,639,916,14,2,Not worth the price,2025-01-05
+1812,4188,17,34,4,"Amazing experience, arrived on time",2025-05-08
+1813,1925,1078,5,3,"Nothing special, but fine",2025-05-09
+1814,1799,887,96,1,Not worth the price,2025-05-27
+1815,2020,1111,54,4,"Fresh food, highly recommended",2025-05-05
+1816,4469,1359,85,5,Great taste and excellent service,2025-04-10
+1817,1005,712,78,2,Not worth the price,2025-01-20
+1818,700,1469,69,5,"Amazing experience, arrived on time",2025-05-14
+1819,4918,1135,12,3,"Nothing special, but fine",2025-03-05
+1820,2001,1043,43,4,"Amazing experience, arrived on time",2025-01-29
+1821,174,802,50,5,Great taste and excellent service,2025-04-08
+1822,3298,860,45,2,Not worth the price,2025-01-06
+1823,2610,591,55,4,Delicious food and quick delivery,2025-04-18
+1824,4491,947,22,5,"Fresh food, highly recommended",2025-05-25
+1825,455,262,51,4,Great taste and excellent service,2025-03-26
+1826,684,265,33,1,Food arrived cold and late,2025-01-02
+1827,4795,509,28,4,"Amazing experience, arrived on time",2025-06-21
+1828,1569,1005,17,2,Order was delayed and food was soggy,2025-03-27
+1829,1026,216,3,4,"Fresh food, highly recommended",2025-01-03
+1830,3899,505,31,3,Taste and delivery were acceptable,2025-05-09
+1831,600,401,20,5,Delicious food and quick delivery,2025-04-26
+1832,3542,1215,31,5,"Fresh food, highly recommended",2025-06-21
+1833,4549,345,44,3,Average experience,2025-03-03
+1834,3938,336,93,5,"Amazing experience, arrived on time",2025-04-04
+1835,1716,891,20,5,"Fresh food, highly recommended",2025-06-18
+1836,1745,958,20,4,"Amazing experience, arrived on time",2025-05-08
+1837,2148,1359,99,5,Delicious food and quick delivery,2025-05-05
+1838,2882,479,98,3,Average experience,2025-01-02
+1839,2279,1436,9,2,Order was delayed and food was soggy,2025-06-03
+1840,3704,820,18,3,"Nothing special, but fine",2025-02-21
+1841,2924,564,11,5,Delicious food and quick delivery,2025-04-28
+1842,677,237,55,5,Delicious food and quick delivery,2025-02-10
+1843,1464,529,63,2,Order was delayed and food was soggy,2025-06-27
+1844,3054,1037,73,4,Delicious food and quick delivery,2025-01-01
+1845,709,252,74,3,Average experience,2025-02-10
+1846,1031,386,21,5,"Fresh food, highly recommended",2025-02-19
+1847,2724,874,79,4,Great taste and excellent service,2025-02-02
+1848,3881,322,84,2,Not worth the price,2025-05-06
+1849,825,729,2,1,Food arrived cold and late,2025-02-08
+1850,706,973,69,4,"Fresh food, highly recommended",2025-01-17
+1851,4298,911,17,3,Taste and delivery were acceptable,2025-05-01
+1852,3212,778,88,5,Great taste and excellent service,2025-02-19
+1853,4025,868,94,5,"Fresh food, highly recommended",2025-04-15
+1854,3974,112,54,4,Great taste and excellent service,2025-03-22
+1855,2828,1,1,5,"Amazing experience, arrived on time",2025-03-25
+1856,3345,1434,51,3,"Nothing special, but fine",2025-02-06
+1857,1212,1448,47,1,Order was delayed and food was soggy,2025-02-26
+1858,4689,1456,57,1,Order was delayed and food was soggy,2025-01-15
+1859,50,974,70,4,"Fresh food, highly recommended",2025-03-02
+1860,2215,1270,99,3,Food was okay,2025-06-14
+1861,3348,496,60,5,Great taste and excellent service,2025-04-02
+1862,2592,1500,97,5,Great taste and excellent service,2025-04-09
+1863,1021,1441,35,5,Delicious food and quick delivery,2025-03-16
+1864,3284,1347,57,5,"Amazing experience, arrived on time",2025-06-05
+1865,599,553,16,4,"Fresh food, highly recommended",2025-05-12
+1866,3773,1045,36,4,Great taste and excellent service,2025-03-03
+1867,839,505,58,5,Delicious food and quick delivery,2025-06-30
+1868,4136,750,99,3,"Nothing special, but fine",2025-02-13
+1869,3819,1360,90,3,Taste and delivery were acceptable,2025-03-01
+1870,4790,644,15,5,"Amazing experience, arrived on time",2025-02-22
+1871,4196,678,71,5,Delicious food and quick delivery,2025-05-02
+1872,4778,274,92,2,Not worth the price,2025-06-16
+1873,1800,358,26,5,Delicious food and quick delivery,2025-01-22
+1874,4411,1117,33,4,"Amazing experience, arrived on time",2025-04-02
+1875,4814,327,5,5,"Fresh food, highly recommended",2025-06-30
+1876,2597,1289,60,5,"Amazing experience, arrived on time",2025-05-16
+1877,4204,1227,66,4,"Amazing experience, arrived on time",2025-01-25
+1878,4354,105,96,5,"Amazing experience, arrived on time",2025-01-27
+1879,2131,886,44,4,"Fresh food, highly recommended",2025-06-01
+1880,4970,445,100,5,Delicious food and quick delivery,2025-06-27
+1881,928,850,84,4,"Fresh food, highly recommended",2025-02-23
+1882,4817,1030,58,5,"Fresh food, highly recommended",2025-01-20
+1883,2281,1338,13,5,"Amazing experience, arrived on time",2025-06-26
+1884,3385,824,15,4,"Amazing experience, arrived on time",2025-04-27
+1885,3524,82,99,1,Poor service and disappointing taste,2025-01-07
+1886,2403,945,19,5,Great taste and excellent service,2025-02-11
+1887,3894,1378,85,2,Order was delayed and food was soggy,2025-01-07
+1888,1734,957,80,3,Food was okay,2025-02-23
+1889,4026,1481,83,4,Great taste and excellent service,2025-06-18
+1890,2322,125,93,3,Taste and delivery were acceptable,2025-03-06
+1891,1181,1444,79,5,"Amazing experience, arrived on time",2025-03-28
+1892,1952,300,71,3,Taste and delivery were acceptable,2025-06-09
+1893,4813,606,11,4,"Fresh food, highly recommended",2025-01-30
+1894,1410,631,27,5,"Fresh food, highly recommended",2025-02-21
+1895,2781,1067,9,2,Poor service and disappointing taste,2025-03-27
+1896,3392,640,23,5,"Amazing experience, arrived on time",2025-02-10
+1897,4761,1073,78,1,Poor service and disappointing taste,2025-06-18
+1898,4137,643,96,5,Delicious food and quick delivery,2025-04-14
+1899,4202,686,75,4,"Fresh food, highly recommended",2025-05-09
+1900,4213,1150,59,5,"Amazing experience, arrived on time",2025-01-12
+1901,4250,596,67,1,Poor service and disappointing taste,2025-06-15
+1902,2921,1361,92,5,Great taste and excellent service,2025-03-15
+1903,1454,3,9,4,Delicious food and quick delivery,2025-06-26
+1904,2089,1230,11,4,"Amazing experience, arrived on time",2025-06-01
+1905,4302,579,86,3,Taste and delivery were acceptable,2025-04-02
+1906,3098,206,21,2,Food arrived cold and late,2025-05-21
+1907,3145,74,15,1,Order was delayed and food was soggy,2025-04-30
+1908,1809,1400,6,2,Poor service and disappointing taste,2025-06-26
+1909,3642,940,37,4,Delicious food and quick delivery,2025-05-24
+1910,4057,465,83,5,"Fresh food, highly recommended",2025-01-08
+1911,2505,1389,63,2,Poor service and disappointing taste,2025-05-11
+1912,2392,306,2,2,Food arrived cold and late,2025-04-07
+1913,3969,683,54,2,Order was delayed and food was soggy,2025-06-29
+1914,4056,1353,65,4,Delicious food and quick delivery,2025-01-15
+1915,1503,946,84,3,Food was okay,2025-04-19
+1916,4372,291,34,2,Food arrived cold and late,2025-05-24
+1917,3185,734,68,4,"Amazing experience, arrived on time",2025-01-08
+1918,3301,1450,57,4,Great taste and excellent service,2025-03-24
+1919,2874,1448,41,3,Taste and delivery were acceptable,2025-02-25
+1920,1894,256,97,5,"Amazing experience, arrived on time",2025-01-08
+1921,964,1426,77,4,Great taste and excellent service,2025-06-03
+1922,1027,1290,83,5,Great taste and excellent service,2025-02-18
+1923,4434,1393,99,4,"Amazing experience, arrived on time",2025-05-07
+1924,1102,13,6,4,"Fresh food, highly recommended",2025-06-23
+1925,1465,301,54,5,"Fresh food, highly recommended",2025-06-11
+1926,4212,958,61,4,Great taste and excellent service,2025-01-15
+1927,1214,24,17,3,"Nothing special, but fine",2025-04-25
+1928,1250,515,1,5,Great taste and excellent service,2025-04-09
+1929,3703,25,80,5,"Amazing experience, arrived on time",2025-01-26
+1930,2489,143,43,5,"Fresh food, highly recommended",2025-05-07
+1931,231,1486,30,4,Great taste and excellent service,2025-02-09
+1932,3635,639,8,4,"Fresh food, highly recommended",2025-02-03
+1933,3936,1108,93,3,Average experience,2025-05-26
+1934,2021,1099,72,4,"Amazing experience, arrived on time",2025-06-10
+1935,2595,479,65,1,Not worth the price,2025-01-04
+1936,62,328,36,5,Delicious food and quick delivery,2025-04-29
+1937,1332,269,70,5,Delicious food and quick delivery,2025-03-26
+1938,2888,672,94,5,Delicious food and quick delivery,2025-02-23
+1939,4311,374,64,5,Great taste and excellent service,2025-05-01
+1940,3048,396,58,3,Taste and delivery were acceptable,2025-06-10
+1941,4936,1019,48,1,Order was delayed and food was soggy,2025-01-02
+1942,4035,1283,57,4,Great taste and excellent service,2025-03-17
+1943,849,434,25,4,"Amazing experience, arrived on time",2025-02-19
+1944,2387,337,67,5,Delicious food and quick delivery,2025-01-21
+1945,2930,375,71,5,"Fresh food, highly recommended",2025-03-07
+1946,3621,282,93,4,Great taste and excellent service,2025-03-19
+1947,1191,939,53,4,Delicious food and quick delivery,2025-03-28
+1948,2987,978,21,4,"Amazing experience, arrived on time",2025-01-07
+1949,3316,881,40,5,"Fresh food, highly recommended",2025-05-12
+1950,2395,662,66,5,"Fresh food, highly recommended",2025-01-06
+1951,1924,394,84,4,"Fresh food, highly recommended",2025-01-03
+1952,1687,799,85,5,Great taste and excellent service,2025-04-18
+1953,3788,774,84,3,Food was okay,2025-03-14
+1954,1367,240,67,5,Great taste and excellent service,2025-03-05
+1955,4700,1420,15,1,Poor service and disappointing taste,2025-03-27
+1956,641,422,4,5,"Fresh food, highly recommended",2025-01-21
+1957,2742,536,83,3,Average experience,2025-06-14
+1958,300,21,71,5,"Amazing experience, arrived on time",2025-06-28
+1959,2887,1260,94,5,"Fresh food, highly recommended",2025-05-02
+1960,1042,44,22,4,"Fresh food, highly recommended",2025-04-16
+1961,1193,625,8,3,Taste and delivery were acceptable,2025-01-11
+1962,204,136,37,5,Great taste and excellent service,2025-06-17
+1963,3133,1099,66,3,Taste and delivery were acceptable,2025-01-10
+1964,1043,630,23,4,"Amazing experience, arrived on time",2025-03-09
+1965,3217,1048,24,5,"Amazing experience, arrived on time",2025-02-10
+1966,3729,101,7,5,Great taste and excellent service,2025-01-03
+1967,4306,67,67,1,Order was delayed and food was soggy,2025-05-16
+1968,4895,1404,86,4,Delicious food and quick delivery,2025-02-24
+1969,4868,839,65,5,Delicious food and quick delivery,2025-04-06
+1970,3688,841,82,4,Great taste and excellent service,2025-01-07
+1971,1939,1070,91,4,"Fresh food, highly recommended",2025-02-11
+1972,3290,149,13,5,Delicious food and quick delivery,2025-06-03
+1973,2679,7,28,3,Food was okay,2025-04-18
+1974,247,1145,75,5,"Fresh food, highly recommended",2025-03-20
+1975,4627,444,46,3,Food was okay,2025-03-04
+1976,588,1072,94,5,Delicious food and quick delivery,2025-06-08
+1977,2115,1386,28,5,"Fresh food, highly recommended",2025-03-03
+1978,2180,916,26,5,"Fresh food, highly recommended",2025-05-08
+1979,4634,436,22,5,"Fresh food, highly recommended",2025-04-13
+1980,1539,697,60,4,"Fresh food, highly recommended",2025-06-20
+1981,2839,866,19,5,"Amazing experience, arrived on time",2025-05-10
+1982,3891,592,3,4,"Amazing experience, arrived on time",2025-06-19
+1983,775,1460,54,5,"Fresh food, highly recommended",2025-01-30
+1984,1242,1198,29,2,Order was delayed and food was soggy,2025-02-19
+1985,2321,1117,18,5,"Fresh food, highly recommended",2025-05-04
+1986,4882,345,6,5,Great taste and excellent service,2025-02-16
+1987,4545,1293,3,5,Delicious food and quick delivery,2025-06-02
+1988,2662,883,47,4,"Fresh food, highly recommended",2025-06-15
+1989,1932,238,28,5,"Amazing experience, arrived on time",2025-03-14
+1990,1955,1161,8,4,"Fresh food, highly recommended",2025-04-25
+1991,4360,419,60,5,Great taste and excellent service,2025-05-13
+1992,646,941,26,5,"Fresh food, highly recommended",2025-06-17
+1993,4698,510,29,5,Great taste and excellent service,2025-01-07
+1994,1531,1499,80,4,"Amazing experience, arrived on time",2025-02-27
+1995,4029,1025,20,4,"Fresh food, highly recommended",2025-02-05
+1996,4939,986,38,5,Great taste and excellent service,2025-04-16
+1997,2605,380,95,4,"Amazing experience, arrived on time",2025-02-23
+1998,1146,342,13,4,Delicious food and quick delivery,2025-03-24
+1999,3864,1392,88,4,Great taste and excellent service,2025-01-05
+2000,229,1389,25,5,Delicious food and quick delivery,2025-03-22
+2001,2775,561,24,5,"Fresh food, highly recommended",2025-06-17
+2002,621,1121,11,3,Taste and delivery were acceptable,2025-03-23
+2003,345,379,8,3,Taste and delivery were acceptable,2025-05-16
+2004,666,1311,42,3,"Nothing special, but fine",2025-02-14
+2005,255,1178,74,3,Food was okay,2025-02-10
+2006,2265,966,83,2,Food arrived cold and late,2025-01-19
+2007,1032,533,95,5,Great taste and excellent service,2025-01-01
+2008,4490,365,34,4,Delicious food and quick delivery,2025-04-27
+2009,4508,1071,84,4,Delicious food and quick delivery,2025-03-10
+2010,1144,1109,87,5,Delicious food and quick delivery,2025-01-07
+2011,118,128,67,5,Delicious food and quick delivery,2025-06-03
+2012,3492,473,24,4,"Amazing experience, arrived on time",2025-02-17
+2013,1204,648,63,2,Food arrived cold and late,2025-04-20
+2014,3926,985,23,4,Delicious food and quick delivery,2025-06-26
+2015,1927,79,56,5,Great taste and excellent service,2025-05-01
+2016,252,1130,4,5,"Fresh food, highly recommended",2025-06-24
+2017,3612,1006,60,4,"Fresh food, highly recommended",2025-05-22
+2018,2105,1253,72,5,"Amazing experience, arrived on time",2025-03-05
+2019,2471,1253,16,4,Delicious food and quick delivery,2025-03-06
+2020,1141,150,46,5,"Amazing experience, arrived on time",2025-06-30
+2021,516,747,57,5,Great taste and excellent service,2025-06-20
+2022,1662,786,38,2,Not worth the price,2025-04-27
+2023,3552,1285,43,3,Taste and delivery were acceptable,2025-04-29
+2024,4043,1485,35,4,Great taste and excellent service,2025-04-28
+2025,3056,1433,2,4,Delicious food and quick delivery,2025-03-31
+2026,3129,1031,19,5,Delicious food and quick delivery,2025-04-21
+2027,1653,1132,100,4,Great taste and excellent service,2025-05-07
+2028,1245,1365,12,5,Delicious food and quick delivery,2025-01-14
+2029,2109,1112,9,3,Taste and delivery were acceptable,2025-03-19
+2030,4920,606,6,5,"Fresh food, highly recommended",2025-05-11
+2031,4569,1444,92,5,"Fresh food, highly recommended",2025-04-08
+2032,2318,1307,73,1,Not worth the price,2025-04-24
+2033,4972,1046,45,3,Average experience,2025-05-31
+2034,4283,1022,41,2,Food arrived cold and late,2025-03-13
+2035,3047,836,10,4,Great taste and excellent service,2025-06-19
+2036,2525,375,2,5,Great taste and excellent service,2025-01-08
+2037,1330,1006,89,5,"Amazing experience, arrived on time",2025-04-16
+2038,397,1321,23,4,"Fresh food, highly recommended",2025-05-11
+2039,145,1299,87,4,"Amazing experience, arrived on time",2025-03-09
+2040,1252,330,12,5,Great taste and excellent service,2025-06-04
+2041,2829,194,16,4,Great taste and excellent service,2025-06-19
+2042,1269,891,91,5,"Amazing experience, arrived on time",2025-01-25
+2043,3672,1378,78,2,Order was delayed and food was soggy,2025-01-25
+2044,2797,479,69,2,Food arrived cold and late,2025-05-03
+2045,4623,1076,100,3,Taste and delivery were acceptable,2025-04-29
+2046,2009,657,31,5,Delicious food and quick delivery,2025-05-08
+2047,1162,1407,19,5,Delicious food and quick delivery,2025-06-10
+2048,4564,122,83,5,Delicious food and quick delivery,2025-01-14
+2049,24,965,86,4,Delicious food and quick delivery,2025-04-07
+2050,1811,1327,100,3,Average experience,2025-01-01
+2051,2503,90,18,1,Food arrived cold and late,2025-04-14
+2052,2925,1201,25,4,"Fresh food, highly recommended",2025-01-24
+2053,2556,32,52,5,Delicious food and quick delivery,2025-04-10
+2054,3678,798,97,1,Food arrived cold and late,2025-06-09
+2055,504,602,14,5,Delicious food and quick delivery,2025-01-19
+2056,1177,749,82,3,Average experience,2025-01-05
+2057,91,281,91,1,Food arrived cold and late,2025-05-11
+2058,3750,201,14,3,Taste and delivery were acceptable,2025-04-20
+2059,2428,701,100,2,Poor service and disappointing taste,2025-03-13
+2060,311,1197,57,5,"Amazing experience, arrived on time",2025-01-26
+2061,506,37,48,5,"Fresh food, highly recommended",2025-06-01
+2062,233,539,72,5,Great taste and excellent service,2025-04-13
+2063,2294,1290,79,2,Poor service and disappointing taste,2025-01-09
+2064,1498,1109,46,4,Delicious food and quick delivery,2025-03-02
+2065,256,1178,65,4,"Fresh food, highly recommended",2025-03-21
+2066,2537,531,26,3,Taste and delivery were acceptable,2025-06-23
+2067,662,457,59,4,Great taste and excellent service,2025-06-07
+2068,4346,1397,27,3,Average experience,2025-03-21
+2069,3673,126,52,3,Taste and delivery were acceptable,2025-02-15
+2070,736,439,78,5,"Fresh food, highly recommended",2025-04-15
+2071,4965,562,13,5,Great taste and excellent service,2025-03-24
+2072,4726,643,26,5,"Amazing experience, arrived on time",2025-01-29
+2073,2911,595,43,4,Great taste and excellent service,2025-01-16
+2074,3901,778,95,4,Great taste and excellent service,2025-06-09
+2075,864,1058,72,4,"Amazing experience, arrived on time",2025-01-07
+2076,3078,23,21,2,Order was delayed and food was soggy,2025-03-11
+2077,4603,986,74,5,Great taste and excellent service,2025-04-26
+2078,2999,560,69,5,"Fresh food, highly recommended",2025-03-13
+2079,762,1244,78,4,Great taste and excellent service,2025-01-03
+2080,2889,260,41,5,Delicious food and quick delivery,2025-04-25
+2081,2520,1388,76,5,Delicious food and quick delivery,2025-06-15
+2082,2443,1065,70,3,"Nothing special, but fine",2025-04-17
+2083,2032,22,15,5,"Amazing experience, arrived on time",2025-06-07
+2084,4272,479,6,2,Not worth the price,2025-03-07
+2085,1847,1376,32,1,Poor service and disappointing taste,2025-01-01
+2086,4028,260,100,5,Great taste and excellent service,2025-06-10
+2087,867,462,37,2,Order was delayed and food was soggy,2025-05-15
+2088,569,180,68,5,Great taste and excellent service,2025-01-25
+2089,571,359,84,4,"Fresh food, highly recommended",2025-04-24
+2090,2743,1480,9,4,Great taste and excellent service,2025-04-06
+2091,3604,1023,91,5,"Amazing experience, arrived on time",2025-01-28
+2092,3523,168,3,4,"Amazing experience, arrived on time",2025-06-05
+2093,4764,800,97,2,Not worth the price,2025-01-01
+2094,2577,1382,60,3,"Nothing special, but fine",2025-04-28
+2095,1659,845,54,5,Delicious food and quick delivery,2025-06-13
+2096,2065,152,16,5,"Amazing experience, arrived on time",2025-03-18
+2097,724,1270,2,3,Food was okay,2025-04-22
+2098,4732,1413,35,4,"Fresh food, highly recommended",2025-03-24
+2099,405,1444,18,4,"Amazing experience, arrived on time",2025-03-05
+2100,2417,1327,86,5,"Amazing experience, arrived on time",2025-01-05
+2101,127,192,59,5,Great taste and excellent service,2025-05-07
+2102,3029,454,59,5,"Fresh food, highly recommended",2025-05-03
+2103,2767,534,65,2,Not worth the price,2025-02-18
+2104,3235,95,44,4,Delicious food and quick delivery,2025-06-13
+2105,1769,242,81,5,Great taste and excellent service,2025-02-16
+2106,3982,496,91,1,Food arrived cold and late,2025-05-23
+2107,1066,818,14,4,Great taste and excellent service,2025-03-11
+2108,2578,141,65,5,"Amazing experience, arrived on time",2025-02-27
+2109,3142,1283,98,5,Delicious food and quick delivery,2025-06-26
+2110,2765,211,83,2,Order was delayed and food was soggy,2025-03-22
+2111,4661,1394,11,4,"Amazing experience, arrived on time",2025-02-25
+2112,3960,282,46,4,"Amazing experience, arrived on time",2025-02-12
+2113,2576,494,72,2,Food arrived cold and late,2025-03-12
+2114,2230,96,48,3,"Nothing special, but fine",2025-01-25
+2115,857,67,81,3,Taste and delivery were acceptable,2025-03-23
+2116,1411,1331,65,5,"Amazing experience, arrived on time",2025-01-15
+2117,4748,1344,61,4,"Fresh food, highly recommended",2025-05-06
+2118,1549,772,40,3,"Nothing special, but fine",2025-06-08
+2119,1356,275,16,4,Great taste and excellent service,2025-04-29
+2120,2472,725,45,2,Food arrived cold and late,2025-02-26
+2121,478,411,10,5,Great taste and excellent service,2025-06-08
+2122,1833,125,48,5,"Fresh food, highly recommended",2025-03-29
+2123,401,1489,59,4,Delicious food and quick delivery,2025-05-06
+2124,4557,91,100,5,Delicious food and quick delivery,2025-04-16
+2125,253,503,76,3,Food was okay,2025-05-29
+2126,4088,1298,41,4,"Amazing experience, arrived on time",2025-04-05
+2127,3978,333,98,2,Not worth the price,2025-03-05
+2128,449,123,4,3,"Nothing special, but fine",2025-03-21
+2129,2291,1125,71,1,Poor service and disappointing taste,2025-05-02
+2130,90,227,85,2,Order was delayed and food was soggy,2025-02-22
+2131,938,1191,27,5,Delicious food and quick delivery,2025-02-11
+2132,4386,610,20,3,Taste and delivery were acceptable,2025-06-20
+2133,4993,676,97,1,Poor service and disappointing taste,2025-05-15
+2134,950,822,61,3,Average experience,2025-06-21
+2135,82,1298,35,3,Taste and delivery were acceptable,2025-05-13
+2136,4578,1393,1,2,Poor service and disappointing taste,2025-03-20
+2137,3334,644,28,3,Taste and delivery were acceptable,2025-03-19
+2138,2655,1152,55,5,"Amazing experience, arrived on time",2025-06-30
+2139,2652,16,80,1,Food arrived cold and late,2025-01-02
+2140,2915,332,100,4,"Amazing experience, arrived on time",2025-06-19
+2141,4593,36,61,5,Great taste and excellent service,2025-05-09
+2142,4049,109,94,5,"Fresh food, highly recommended",2025-05-30
+2143,4135,146,24,4,"Fresh food, highly recommended",2025-04-24
+2144,466,494,28,3,"Nothing special, but fine",2025-04-16
+2145,431,1083,70,4,"Amazing experience, arrived on time",2025-03-10
+2146,4739,507,35,5,Delicious food and quick delivery,2025-01-04
+2147,110,634,83,4,"Fresh food, highly recommended",2025-01-02
+2148,2857,805,67,4,"Amazing experience, arrived on time",2025-03-02
+2149,2134,691,78,5,Delicious food and quick delivery,2025-01-02
+2150,1601,535,86,4,"Fresh food, highly recommended",2025-05-31
+2151,4399,584,58,3,"Nothing special, but fine",2025-01-19
+2152,2561,756,52,5,Great taste and excellent service,2025-04-01
+2153,2479,382,88,4,Great taste and excellent service,2025-04-12
+2154,4248,717,92,5,Great taste and excellent service,2025-02-25
+2155,1739,1450,52,4,"Fresh food, highly recommended",2025-05-29
+2156,3337,1476,77,3,Food was okay,2025-03-19
+2157,1899,1013,12,3,Food was okay,2025-06-05
+2158,3386,534,54,5,Delicious food and quick delivery,2025-05-26
+2159,3768,1173,43,5,"Amazing experience, arrived on time",2025-03-02
+2160,1968,315,21,5,"Amazing experience, arrived on time",2025-05-10
+2161,2126,110,19,5,Great taste and excellent service,2025-04-09
+2162,780,216,72,5,"Fresh food, highly recommended",2025-04-29
+2163,2570,811,1,3,Taste and delivery were acceptable,2025-05-14
+2164,540,416,50,4,Delicious food and quick delivery,2025-03-07
+2165,508,760,68,2,Poor service and disappointing taste,2025-04-13
+2166,2965,951,37,4,Great taste and excellent service,2025-04-23
+2167,4161,766,98,5,Great taste and excellent service,2025-05-26
+2168,4463,367,7,5,"Fresh food, highly recommended",2025-02-08
+2169,2805,243,71,4,Delicious food and quick delivery,2025-05-07
+2170,2978,677,32,3,Food was okay,2025-05-08
+2171,2686,461,72,4,"Amazing experience, arrived on time",2025-02-26
+2172,2315,1041,5,4,Delicious food and quick delivery,2025-06-25
+2173,999,1477,8,5,Great taste and excellent service,2025-01-20
+2174,1585,696,29,5,"Fresh food, highly recommended",2025-04-05
+2175,3909,646,1,3,Average experience,2025-05-17
+2176,824,651,64,4,Great taste and excellent service,2025-05-17
+2177,2400,651,86,1,Food arrived cold and late,2025-01-23
+2178,4259,1412,14,1,Poor service and disappointing taste,2025-05-01
+2179,1327,902,23,4,Delicious food and quick delivery,2025-01-08
+2180,554,1243,68,4,Delicious food and quick delivery,2025-03-20
+2181,2398,1183,36,1,Poor service and disappointing taste,2025-05-23
+2182,4714,1238,54,4,"Fresh food, highly recommended",2025-05-05
+2183,4407,153,18,3,Food was okay,2025-01-31
+2184,4630,573,4,3,Food was okay,2025-04-06
+2185,2237,1410,61,4,"Fresh food, highly recommended",2025-02-12
+2186,851,1351,50,4,"Fresh food, highly recommended",2025-06-29
+2187,4878,1007,93,5,Delicious food and quick delivery,2025-03-02
+2188,3409,1273,38,4,Delicious food and quick delivery,2025-04-20
+2189,463,222,33,5,"Fresh food, highly recommended",2025-03-02
+2190,132,343,84,4,"Amazing experience, arrived on time",2025-04-12
+2191,3841,99,36,5,"Fresh food, highly recommended",2025-04-18
+2192,3868,1228,19,4,Delicious food and quick delivery,2025-06-09
+2193,909,905,44,5,Great taste and excellent service,2025-03-23
+2194,1537,259,63,4,"Amazing experience, arrived on time",2025-03-17
+2195,1512,612,75,5,Delicious food and quick delivery,2025-01-16
+2196,2357,1355,34,4,Delicious food and quick delivery,2025-06-20
+2197,1726,1374,9,5,"Amazing experience, arrived on time",2025-05-14
+2198,1796,131,8,5,"Fresh food, highly recommended",2025-05-16
+2199,1972,1217,66,5,"Amazing experience, arrived on time",2025-03-31
+2200,4822,1021,3,2,Poor service and disappointing taste,2025-05-14
+2201,438,25,93,4,"Fresh food, highly recommended",2025-03-09
+2202,4098,913,6,4,Great taste and excellent service,2025-05-18
+2203,4443,470,46,4,"Fresh food, highly recommended",2025-01-17
+2204,2641,1022,86,3,Taste and delivery were acceptable,2025-06-30
+2205,1480,643,33,5,Delicious food and quick delivery,2025-02-10
+2206,4034,481,13,3,"Nothing special, but fine",2025-03-16
+2207,4555,567,50,4,Great taste and excellent service,2025-04-13
+2208,2335,1041,54,4,Great taste and excellent service,2025-01-15
+2209,1087,706,22,4,Delicious food and quick delivery,2025-05-15
+2210,500,1187,98,5,Great taste and excellent service,2025-03-05
+2211,3225,1062,98,5,Delicious food and quick delivery,2025-04-13
+2212,4129,862,12,4,"Amazing experience, arrived on time",2025-04-08
+2213,2136,177,55,3,Average experience,2025-01-21
+2214,4116,980,70,3,Food was okay,2025-04-10
+2215,3948,382,20,2,Poor service and disappointing taste,2025-04-28
+2216,710,1410,88,4,"Fresh food, highly recommended",2025-01-29
+2217,2139,860,31,3,Taste and delivery were acceptable,2025-06-27
+2218,4631,837,98,4,"Fresh food, highly recommended",2025-05-23
+2219,3046,482,24,4,"Amazing experience, arrived on time",2025-05-08
+2220,4774,2,46,1,Not worth the price,2025-01-10
+2221,3445,12,16,5,Great taste and excellent service,2025-03-22
+2222,2067,1296,39,5,"Fresh food, highly recommended",2025-05-10
+2223,4350,1073,19,4,Delicious food and quick delivery,2025-04-15
+2224,2841,1128,56,3,Food was okay,2025-06-12
+2225,2635,1192,100,1,Food arrived cold and late,2025-05-06
+2226,939,701,50,1,Poor service and disappointing taste,2025-04-24
+2227,595,665,52,5,Great taste and excellent service,2025-04-05
+2228,95,846,19,4,"Amazing experience, arrived on time",2025-02-21
+2229,3544,1357,47,5,Great taste and excellent service,2025-02-19
+2230,2167,825,25,4,Great taste and excellent service,2025-05-06
+2231,4142,779,1,3,Taste and delivery were acceptable,2025-06-02
+2232,3721,860,40,5,Delicious food and quick delivery,2025-01-08
+2233,4906,548,30,5,"Amazing experience, arrived on time",2025-04-10
+2234,4511,50,41,5,Great taste and excellent service,2025-06-27
+2235,1157,989,66,5,"Amazing experience, arrived on time",2025-02-27
+2236,2147,212,63,5,"Fresh food, highly recommended",2025-03-11
+2237,259,13,80,4,"Fresh food, highly recommended",2025-01-14
+2238,2704,170,87,5,"Amazing experience, arrived on time",2025-03-29
+2239,1251,541,83,5,Delicious food and quick delivery,2025-05-18
+2240,1983,1036,42,4,"Fresh food, highly recommended",2025-02-12
+2241,3804,143,33,4,Delicious food and quick delivery,2025-04-11
+2242,175,248,17,5,"Amazing experience, arrived on time",2025-03-29
+2243,3188,156,22,2,Poor service and disappointing taste,2025-04-11
+2244,4836,186,87,5,Great taste and excellent service,2025-05-13
+2245,3573,595,59,4,"Fresh food, highly recommended",2025-04-29
+2246,2919,788,68,4,Great taste and excellent service,2025-01-25
+2247,3315,1186,61,4,"Amazing experience, arrived on time",2025-06-01
+2248,3589,302,89,5,Great taste and excellent service,2025-04-30
+2249,1989,1416,65,5,"Fresh food, highly recommended",2025-02-16
+2250,3160,1019,93,5,Delicious food and quick delivery,2025-03-09
+2251,4999,579,92,5,"Amazing experience, arrived on time",2025-01-28
+2252,3813,981,45,5,Delicious food and quick delivery,2025-02-13
+2253,2557,1373,76,3,Food was okay,2025-05-21
+2254,3096,1360,40,4,"Amazing experience, arrived on time",2025-05-24
+2255,4433,790,26,3,Taste and delivery were acceptable,2025-06-04
+2256,4658,155,15,3,Food was okay,2025-05-10
+2257,4546,561,34,5,Great taste and excellent service,2025-02-26
+2258,1591,735,62,1,Poor service and disappointing taste,2025-05-10
+2259,655,656,76,5,"Fresh food, highly recommended",2025-06-15
+2260,43,8,19,5,Great taste and excellent service,2025-01-01
+2261,616,1352,38,4,Delicious food and quick delivery,2025-04-05
+2262,3856,605,65,2,Poor service and disappointing taste,2025-01-09
+2263,2773,249,40,5,"Fresh food, highly recommended",2025-05-02
+2264,268,1098,16,5,Great taste and excellent service,2025-06-24
+2265,1467,946,46,5,"Amazing experience, arrived on time",2025-05-12
+2266,2544,647,99,5,"Fresh food, highly recommended",2025-03-06
+2267,2697,504,14,5,Great taste and excellent service,2025-04-24
+2268,3459,1159,57,5,"Fresh food, highly recommended",2025-03-03
+2269,1581,994,43,1,Not worth the price,2025-04-16
+2270,287,206,48,5,"Amazing experience, arrived on time",2025-03-10
+2271,2533,1293,87,5,Delicious food and quick delivery,2025-04-30
+2272,1848,1251,82,4,Great taste and excellent service,2025-04-20
+2273,1892,427,77,4,"Fresh food, highly recommended",2025-06-28
+2274,3700,1061,91,5,Delicious food and quick delivery,2025-02-27
+2275,926,292,53,2,Poor service and disappointing taste,2025-05-17
+2276,2048,474,18,5,"Fresh food, highly recommended",2025-05-01
+2277,2200,752,46,2,Food arrived cold and late,2025-02-01
+2278,375,204,74,4,Delicious food and quick delivery,2025-06-29
+2279,1756,1145,92,4,"Fresh food, highly recommended",2025-06-28
+2280,4476,665,92,2,Poor service and disappointing taste,2025-01-26
+2281,4701,282,50,3,Food was okay,2025-04-29
+2282,524,59,28,4,Delicious food and quick delivery,2025-03-11
+2283,3809,258,18,4,Great taste and excellent service,2025-03-07
+2284,4644,153,51,3,"Nothing special, but fine",2025-03-22
+2285,2778,52,92,4,Delicious food and quick delivery,2025-04-01
+2286,3638,447,52,4,Great taste and excellent service,2025-02-09
+2287,1940,334,27,5,Delicious food and quick delivery,2025-03-23
+2288,4625,554,53,4,Great taste and excellent service,2025-06-24
+2289,2669,54,17,5,Delicious food and quick delivery,2025-05-13
+2290,3474,1000,51,4,Delicious food and quick delivery,2025-02-20
+2291,4351,1107,91,5,"Fresh food, highly recommended",2025-01-20
+2292,3352,285,86,5,Great taste and excellent service,2025-03-10
+2293,1395,514,20,5,Delicious food and quick delivery,2025-01-04
+2294,4772,172,53,5,Delicious food and quick delivery,2025-01-26
+2295,4502,1252,6,5,Great taste and excellent service,2025-05-08
+2296,2821,428,56,3,"Nothing special, but fine",2025-04-23
+2297,383,192,96,2,Food arrived cold and late,2025-04-27
+2298,3537,23,32,5,Great taste and excellent service,2025-01-09
+2299,4629,274,35,4,Delicious food and quick delivery,2025-04-10
+2300,4597,1394,20,4,"Fresh food, highly recommended",2025-05-04
+2301,1559,945,49,5,Delicious food and quick delivery,2025-06-10
+2302,730,125,76,5,Delicious food and quick delivery,2025-01-12
+2303,2304,1397,40,3,Average experience,2025-06-10
+2304,701,563,43,5,"Fresh food, highly recommended",2025-03-27
+2305,4621,980,80,5,"Amazing experience, arrived on time",2025-06-02
+2306,4705,1034,27,2,Order was delayed and food was soggy,2025-06-02
+2307,4983,1001,43,4,Delicious food and quick delivery,2025-02-24
+2308,3518,961,54,5,"Fresh food, highly recommended",2025-02-03
+2309,1608,1168,74,5,Delicious food and quick delivery,2025-05-16
+2310,2585,753,40,4,"Fresh food, highly recommended",2025-03-06
+2311,122,910,93,5,"Amazing experience, arrived on time",2025-05-14
+2312,2000,357,20,5,Delicious food and quick delivery,2025-04-13
+2313,1639,745,79,5,"Amazing experience, arrived on time",2025-02-17
+2314,1354,1441,9,4,"Amazing experience, arrived on time",2025-01-12
+2315,4800,860,78,5,"Amazing experience, arrived on time",2025-02-21
+2316,1271,707,29,5,Delicious food and quick delivery,2025-02-25
+2317,3507,116,62,3,Taste and delivery were acceptable,2025-05-07
+2318,59,427,33,5,Great taste and excellent service,2025-02-14
+2319,4060,871,83,5,Delicious food and quick delivery,2025-02-27
+2320,4946,166,71,2,Food arrived cold and late,2025-04-06
+2321,1904,682,38,5,Delicious food and quick delivery,2025-02-25
+2322,2411,41,85,5,Great taste and excellent service,2025-02-28
+2323,3244,1069,65,2,Food arrived cold and late,2025-04-29
+2324,3892,834,21,5,Delicious food and quick delivery,2025-01-02
+2325,4193,826,90,3,Average experience,2025-03-09
+2326,785,45,62,3,Average experience,2025-03-09
+2327,1208,1194,86,2,Poor service and disappointing taste,2025-01-29
+2328,3252,108,15,5,"Fresh food, highly recommended",2025-05-30
+2329,1506,46,75,5,Delicious food and quick delivery,2025-01-21
+2330,76,20,52,4,Great taste and excellent service,2025-02-18
+2331,2108,1286,49,3,Food was okay,2025-04-14
+2332,2892,1340,32,3,Food was okay,2025-05-04
+2333,1938,346,50,3,"Nothing special, but fine",2025-05-28
+2334,826,1239,52,3,Taste and delivery were acceptable,2025-03-03
+2335,4988,324,79,4,Delicious food and quick delivery,2025-04-27
+2336,1110,1406,81,5,Delicious food and quick delivery,2025-06-09
+2337,1309,1072,7,5,Delicious food and quick delivery,2025-02-18
+2338,2908,963,54,2,Not worth the price,2025-01-22
+2339,1243,896,97,3,Food was okay,2025-01-26
+2340,1364,127,85,5,Delicious food and quick delivery,2025-05-18
+2341,2598,553,82,5,"Fresh food, highly recommended",2025-04-15
+2342,3468,1456,48,3,Average experience,2025-01-13
+2343,1103,1018,31,5,Delicious food and quick delivery,2025-04-09
+2344,1728,433,100,4,Great taste and excellent service,2025-06-11
+2345,4794,1172,43,4,Great taste and excellent service,2025-02-14
+2346,2005,352,17,5,Delicious food and quick delivery,2025-06-18
+2347,4706,1196,29,4,Great taste and excellent service,2025-02-10
+2348,4989,260,66,5,"Amazing experience, arrived on time",2025-03-17
+2349,3230,1264,41,5,"Amazing experience, arrived on time",2025-03-14
+2350,483,204,5,5,"Fresh food, highly recommended",2025-05-12
+2351,1215,1177,58,1,Food arrived cold and late,2025-01-07
+2352,4902,178,28,2,Not worth the price,2025-06-22
+2353,722,1447,81,5,Great taste and excellent service,2025-06-05
+2354,1695,881,77,1,Food arrived cold and late,2025-05-10
+2355,3232,912,14,5,"Fresh food, highly recommended",2025-06-05
+2356,2905,106,95,5,Delicious food and quick delivery,2025-01-14
+2357,699,366,50,2,Order was delayed and food was soggy,2025-05-16
+2358,749,1123,52,1,Order was delayed and food was soggy,2025-05-18
+2359,1372,1092,12,4,"Fresh food, highly recommended",2025-05-10
+2360,526,581,85,5,Great taste and excellent service,2025-01-23
+2361,1736,1480,65,4,Great taste and excellent service,2025-05-29
+2362,4632,936,15,5,Delicious food and quick delivery,2025-04-12
+2363,4736,1362,17,5,"Amazing experience, arrived on time",2025-05-27
+2364,1605,1443,27,3,Taste and delivery were acceptable,2025-04-30
+2365,4831,31,74,3,Food was okay,2025-05-29
+2366,3304,34,83,4,"Amazing experience, arrived on time",2025-03-05
+2367,51,391,87,4,"Amazing experience, arrived on time",2025-04-27
+2368,4063,1180,19,3,"Nothing special, but fine",2025-02-21
+2369,4821,1402,84,4,Delicious food and quick delivery,2025-03-08
+2370,953,1230,22,4,"Fresh food, highly recommended",2025-05-16
+2371,1183,671,21,5,Delicious food and quick delivery,2025-03-31
+2372,799,674,28,5,"Amazing experience, arrived on time",2025-01-08
+2373,2878,737,37,5,Delicious food and quick delivery,2025-01-10
+2374,1819,1375,28,3,"Nothing special, but fine",2025-03-11
+2375,1815,458,59,4,"Fresh food, highly recommended",2025-02-14
+2376,3219,1205,30,2,Not worth the price,2025-05-17
+2377,3946,261,7,4,"Fresh food, highly recommended",2025-02-26
+2378,4976,1378,56,5,Delicious food and quick delivery,2025-01-12
+2379,3578,868,3,4,Delicious food and quick delivery,2025-05-19
+2380,4460,630,30,3,"Nothing special, but fine",2025-05-13
+2381,4760,1171,18,5,"Amazing experience, arrived on time",2025-04-08
+2382,3778,273,24,1,Poor service and disappointing taste,2025-02-06
+2383,1515,1148,18,5,"Amazing experience, arrived on time",2025-03-25
+2384,4693,833,80,5,Great taste and excellent service,2025-06-11
+2385,1529,326,38,4,Great taste and excellent service,2025-03-10
+2386,1315,1362,2,3,Average experience,2025-04-30
+2387,1543,737,60,5,Delicious food and quick delivery,2025-05-12
+2388,3482,390,100,4,Great taste and excellent service,2025-05-08
+2389,1976,825,47,5,"Fresh food, highly recommended",2025-01-07
+2390,1618,99,66,5,Delicious food and quick delivery,2025-06-10
+2391,2933,263,98,2,Order was delayed and food was soggy,2025-06-17
+2392,37,1297,80,4,"Fresh food, highly recommended",2025-01-13
+2393,4530,77,83,5,Delicious food and quick delivery,2025-04-15
+2394,2574,624,90,4,"Fresh food, highly recommended",2025-06-12
+2395,3655,1377,77,5,Delicious food and quick delivery,2025-02-08
+2396,2589,1063,73,4,"Fresh food, highly recommended",2025-05-16
+2397,2422,1051,2,5,Great taste and excellent service,2025-03-01
+2398,3434,699,36,5,Great taste and excellent service,2025-02-07
+2399,1413,506,24,5,"Amazing experience, arrived on time",2025-01-19
+2400,385,319,85,5,"Amazing experience, arrived on time",2025-02-20
+2401,3963,925,50,4,Delicious food and quick delivery,2025-03-03
+2402,4402,1086,48,5,"Fresh food, highly recommended",2025-06-11
+2403,1840,2,42,4,Great taste and excellent service,2025-01-15
+2404,1582,644,34,5,"Amazing experience, arrived on time",2025-01-03
+2405,4876,1058,26,5,"Amazing experience, arrived on time",2025-05-14
+2406,1830,156,75,3,"Nothing special, but fine",2025-05-27
+2407,2689,715,88,4,"Fresh food, highly recommended",2025-01-19
+2408,1298,606,73,5,"Amazing experience, arrived on time",2025-01-15
+2409,3847,236,1,3,Taste and delivery were acceptable,2025-04-13
+2410,4387,826,63,2,Order was delayed and food was soggy,2025-02-09
+2411,4787,1114,13,2,Poor service and disappointing taste,2025-05-04
+2412,2102,887,93,5,"Fresh food, highly recommended",2025-01-30
+2413,1485,1091,90,4,"Amazing experience, arrived on time",2025-03-12
+2414,2004,641,29,3,Taste and delivery were acceptable,2025-01-27
+2415,871,398,59,3,Taste and delivery were acceptable,2025-02-14
+2416,513,610,81,4,Great taste and excellent service,2025-04-05
+2417,150,608,23,4,Delicious food and quick delivery,2025-06-26
+2418,873,614,35,2,Poor service and disappointing taste,2025-06-17
+2419,355,493,44,4,Delicious food and quick delivery,2025-01-16
+2420,3755,1491,63,5,"Amazing experience, arrived on time",2025-06-21
+2421,792,1306,50,4,"Fresh food, highly recommended",2025-02-17
+2422,4481,631,89,4,"Fresh food, highly recommended",2025-05-08
+2423,4820,615,87,5,Great taste and excellent service,2025-02-14
+2424,4343,390,100,5,"Fresh food, highly recommended",2025-03-27
+2425,4602,499,14,2,Food arrived cold and late,2025-03-06
+2426,2750,926,85,4,"Amazing experience, arrived on time",2025-05-20
+2427,448,522,57,5,"Fresh food, highly recommended",2025-03-23
+2428,3069,1382,90,3,Average experience,2025-04-21
+2429,1109,596,66,5,"Amazing experience, arrived on time",2025-05-10
+2430,988,1411,79,4,"Fresh food, highly recommended",2025-04-10
+2431,2646,370,98,4,Great taste and excellent service,2025-04-28
+2432,4613,926,40,3,Taste and delivery were acceptable,2025-06-05
+2433,2621,802,30,5,Great taste and excellent service,2025-02-07
+2434,3590,144,27,3,Average experience,2025-04-01
+2435,4252,1303,38,5,Delicious food and quick delivery,2025-01-02
+2436,3023,136,77,2,Food arrived cold and late,2025-04-10
+2437,335,1300,41,3,Taste and delivery were acceptable,2025-01-05
+2438,4519,683,3,1,Order was delayed and food was soggy,2025-01-22
+2439,3416,268,93,5,Delicious food and quick delivery,2025-04-11
+2440,739,799,63,5,Great taste and excellent service,2025-01-09
+2441,1295,588,30,4,"Fresh food, highly recommended",2025-03-28
+2442,2133,1051,89,1,Food arrived cold and late,2025-01-26
+2443,4189,842,43,5,"Amazing experience, arrived on time",2025-04-18
+2444,3216,68,60,3,Average experience,2025-04-08
+2445,2337,1222,66,2,Poor service and disappointing taste,2025-03-06
+2446,4381,375,90,3,Taste and delivery were acceptable,2025-03-04
+2447,1065,1014,61,3,Taste and delivery were acceptable,2025-01-10
+2448,2199,1220,80,5,Great taste and excellent service,2025-06-12
+2449,2359,356,70,5,Delicious food and quick delivery,2025-03-01
+2450,3032,177,78,4,"Fresh food, highly recommended",2025-03-17
+2451,2566,516,50,5,Great taste and excellent service,2025-01-03
+2452,4808,353,13,5,Delicious food and quick delivery,2025-01-02
+2453,336,23,87,3,Average experience,2025-01-13
+2454,1579,998,11,3,Food was okay,2025-05-31
+2455,1642,1143,59,3,Taste and delivery were acceptable,2025-01-20
+2456,1016,1225,60,4,"Fresh food, highly recommended",2025-02-02
+2457,3872,91,4,1,Poor service and disappointing taste,2025-05-21
+2458,3393,185,93,4,Great taste and excellent service,2025-05-16
+2459,1780,1092,62,3,Taste and delivery were acceptable,2025-04-06
+2460,3760,1045,68,5,"Amazing experience, arrived on time",2025-03-28
+2461,911,538,46,4,"Fresh food, highly recommended",2025-03-05
+2462,3011,1415,56,5,"Amazing experience, arrived on time",2025-02-20
+2463,1482,1038,21,5,Delicious food and quick delivery,2025-03-17
+2464,4554,214,98,5,Great taste and excellent service,2025-04-16
+2465,944,1345,88,4,"Amazing experience, arrived on time",2025-03-16
+2466,1105,868,39,4,Delicious food and quick delivery,2025-02-15
+2467,4356,1254,87,3,Taste and delivery were acceptable,2025-03-12
+2468,20,271,9,1,Food arrived cold and late,2025-03-27
+2469,1795,1085,77,3,"Nothing special, but fine",2025-06-11
+2470,1826,1438,67,3,Average experience,2025-04-03
+2471,537,737,29,5,"Amazing experience, arrived on time",2025-02-21
+2472,4728,646,29,5,"Amazing experience, arrived on time",2025-03-12
+2473,4336,309,34,4,"Amazing experience, arrived on time",2025-06-04
+2474,764,1181,98,5,Great taste and excellent service,2025-03-25
+2475,4998,142,89,4,Delicious food and quick delivery,2025-02-15
+2476,1763,1328,86,5,"Amazing experience, arrived on time",2025-01-01
+2477,3724,1004,60,4,Great taste and excellent service,2025-02-07
+2478,3102,533,66,3,Taste and delivery were acceptable,2025-04-10
+2479,1114,1360,33,4,Great taste and excellent service,2025-06-03
+2480,2642,606,11,5,"Amazing experience, arrived on time",2025-06-18
+2481,1207,10,85,2,Not worth the price,2025-01-28
+2482,1455,868,64,4,"Fresh food, highly recommended",2025-02-18
+2483,1836,163,98,4,"Fresh food, highly recommended",2025-02-08
+2484,2187,461,52,5,Delicious food and quick delivery,2025-06-09
+2485,1438,71,5,1,Order was delayed and food was soggy,2025-04-12
+2486,2175,230,54,4,Great taste and excellent service,2025-04-22
+2487,3329,202,6,3,Average experience,2025-05-03
+2488,380,1427,45,3,Taste and delivery were acceptable,2025-02-27
+2489,3762,428,46,4,Delicious food and quick delivery,2025-02-03
+2490,1091,693,34,3,"Nothing special, but fine",2025-04-24
+2491,3509,329,89,4,Great taste and excellent service,2025-06-12
+2492,4675,694,89,3,Average experience,2025-01-20
+2493,3646,1137,16,5,"Fresh food, highly recommended",2025-05-22
+2494,2819,255,41,4,Delicious food and quick delivery,2025-06-14
+2495,2764,737,91,3,Average experience,2025-06-21
+2496,1260,1348,34,3,Food was okay,2025-01-03
+2497,2588,6,88,5,Delicious food and quick delivery,2025-02-28
+2498,1318,376,74,2,Order was delayed and food was soggy,2025-04-27
+2499,89,312,4,4,Delicious food and quick delivery,2025-05-26
+2500,1666,730,31,5,Delicious food and quick delivery,2025-02-17
+2501,3826,464,54,1,Not worth the price,2025-02-20
+2502,1511,1054,36,5,"Fresh food, highly recommended",2025-03-09
+2503,2813,1189,33,4,Delicious food and quick delivery,2025-05-22
+2504,1119,257,45,3,"Nothing special, but fine",2025-05-23
+2505,138,282,20,5,"Amazing experience, arrived on time",2025-02-10
+2506,1494,855,39,4,Great taste and excellent service,2025-03-15
+2507,3453,1395,29,2,Food arrived cold and late,2025-03-21
+2508,2847,1500,31,5,"Fresh food, highly recommended",2025-02-09
+2509,990,511,34,5,Great taste and excellent service,2025-06-03
+2510,3921,772,15,4,Delicious food and quick delivery,2025-06-27
+2511,1488,255,47,5,Great taste and excellent service,2025-06-30
+2512,339,894,10,2,Poor service and disappointing taste,2025-05-12
+2513,1820,1267,35,1,Poor service and disappointing taste,2025-04-06
+2514,2668,300,83,3,Average experience,2025-05-10
+2515,3585,878,96,5,Delicious food and quick delivery,2025-04-23
+2516,1445,920,45,3,Average experience,2025-01-17
+2517,4094,1081,48,5,"Amazing experience, arrived on time",2025-02-15
+2518,2720,1004,54,3,"Nothing special, but fine",2025-05-22
+2519,4006,767,51,4,"Amazing experience, arrived on time",2025-06-14
+2520,1329,68,3,5,Great taste and excellent service,2025-01-16
+2521,4485,1087,74,3,"Nothing special, but fine",2025-05-13
+2522,4071,747,97,3,Food was okay,2025-04-20
+2523,2793,1470,51,3,Food was okay,2025-04-25
+2524,1362,1204,97,4,"Amazing experience, arrived on time",2025-05-11
+2525,2514,497,21,4,Great taste and excellent service,2025-01-17
+2526,304,229,6,2,Not worth the price,2025-06-21
+2527,533,1036,31,3,Average experience,2025-06-26
+2528,4779,1205,83,5,"Fresh food, highly recommended",2025-01-04
+2529,1351,1309,64,4,"Amazing experience, arrived on time",2025-04-16
+2530,1113,187,89,5,"Fresh food, highly recommended",2025-05-30
+2531,3697,939,85,3,"Nothing special, but fine",2025-02-16
+2532,3569,661,60,3,"Nothing special, but fine",2025-01-28
+2533,2780,321,42,4,Great taste and excellent service,2025-04-30
+2534,3859,1388,98,2,Poor service and disappointing taste,2025-01-16
+2535,1167,731,31,3,Taste and delivery were acceptable,2025-04-17
+2536,2379,73,16,4,"Fresh food, highly recommended",2025-04-23
+2537,310,164,86,5,"Amazing experience, arrived on time",2025-03-23
+2538,4620,1274,80,2,Food arrived cold and late,2025-01-03
+2539,1444,36,9,5,Delicious food and quick delivery,2025-04-23
+2540,1072,407,40,5,Great taste and excellent service,2025-02-07
+2541,2850,523,24,4,Great taste and excellent service,2025-01-09
+2542,3653,1370,33,4,"Fresh food, highly recommended",2025-02-25
+2543,2886,1214,47,5,Delicious food and quick delivery,2025-05-02
+2544,3214,399,31,3,Food was okay,2025-01-09
+2545,686,1018,63,4,"Amazing experience, arrived on time",2025-03-07
+2546,2951,1046,6,3,Taste and delivery were acceptable,2025-03-16
+2547,1915,114,9,5,Great taste and excellent service,2025-03-10
+2548,1520,1468,23,4,"Fresh food, highly recommended",2025-04-04
+2549,3690,1273,13,4,Delicious food and quick delivery,2025-04-19
+2550,2028,223,19,5,Great taste and excellent service,2025-01-02
+2551,1730,1081,18,5,"Amazing experience, arrived on time",2025-05-08
+2552,1813,541,92,3,Food was okay,2025-05-10
+2553,2582,893,34,4,"Amazing experience, arrived on time",2025-05-20
+2554,2430,1272,19,5,Delicious food and quick delivery,2025-06-18
+2555,2211,397,43,4,"Fresh food, highly recommended",2025-04-09
+2556,2142,1403,66,2,Not worth the price,2025-02-28
+2557,1435,78,25,5,"Amazing experience, arrived on time",2025-05-20
+2558,2192,882,1,5,Delicious food and quick delivery,2025-04-20
+2559,632,1086,94,3,Food was okay,2025-05-06
+2560,4985,919,23,3,Average experience,2025-06-28
+2561,1871,1012,61,3,"Nothing special, but fine",2025-01-16
+2562,3412,203,78,5,Delicious food and quick delivery,2025-04-11
+2563,4126,674,54,5,"Amazing experience, arrived on time",2025-02-12
+2564,4857,1272,91,4,"Fresh food, highly recommended",2025-02-16
+2565,957,637,21,5,"Fresh food, highly recommended",2025-03-28
+2566,1979,794,15,1,Order was delayed and food was soggy,2025-03-28
+2567,1784,327,28,4,Great taste and excellent service,2025-04-04
+2568,2181,173,76,2,Poor service and disappointing taste,2025-05-22
+2569,297,290,27,5,Great taste and excellent service,2025-06-15
+2570,698,619,11,3,Food was okay,2025-06-28
+2571,2562,10,31,5,"Fresh food, highly recommended",2025-02-10
+2572,332,229,53,5,"Fresh food, highly recommended",2025-04-22
+2573,503,1280,89,5,Great taste and excellent service,2025-06-20
+2574,1586,1161,99,4,"Amazing experience, arrived on time",2025-06-21
+2575,1615,792,99,4,Delicious food and quick delivery,2025-01-13
+2576,2239,448,51,2,Not worth the price,2025-06-04
+2577,3954,961,77,2,Not worth the price,2025-06-11
+2578,3431,354,88,5,Delicious food and quick delivery,2025-04-14
+2579,2316,602,6,3,"Nothing special, but fine",2025-02-27
+2580,4611,641,89,4,Delicious food and quick delivery,2025-06-20
+2581,3498,651,21,2,Poor service and disappointing taste,2025-02-13
+2582,929,190,7,4,"Fresh food, highly recommended",2025-05-07
+2583,3486,348,97,2,Food arrived cold and late,2025-06-01
+2584,2198,868,72,3,Food was okay,2025-01-08
+2585,4912,1340,11,2,Food arrived cold and late,2025-06-16
+2586,548,1172,79,2,Food arrived cold and late,2025-04-03
+2587,2922,650,95,5,"Fresh food, highly recommended",2025-06-26
+2588,3848,1446,82,1,Order was delayed and food was soggy,2025-05-26
+2589,417,1345,25,5,"Fresh food, highly recommended",2025-05-06
+2590,3902,341,26,5,"Fresh food, highly recommended",2025-01-18
+2591,1674,383,59,3,Average experience,2025-06-23
+2592,4913,648,15,4,Great taste and excellent service,2025-03-24
+2593,2947,984,64,3,"Nothing special, but fine",2025-04-14
+2594,2569,1238,38,3,Food was okay,2025-02-11
+2595,410,784,14,5,Great taste and excellent service,2025-02-28
+2596,2975,210,65,4,Great taste and excellent service,2025-05-01
+2597,2612,439,89,5,"Amazing experience, arrived on time",2025-04-30
+2598,4101,1053,21,5,Delicious food and quick delivery,2025-03-04
+2599,1041,1102,52,3,Taste and delivery were acceptable,2025-04-05
+2600,3508,1149,66,5,Great taste and excellent service,2025-01-24
+2601,3844,597,93,4,"Fresh food, highly recommended",2025-05-06
+2602,2355,325,94,4,Great taste and excellent service,2025-03-05
+2603,3476,461,75,4,"Fresh food, highly recommended",2025-04-02
+2604,2267,1206,87,4,Delicious food and quick delivery,2025-03-25
+2605,579,284,79,5,"Amazing experience, arrived on time",2025-05-18
+2606,3399,40,72,5,Delicious food and quick delivery,2025-02-23
+2607,705,837,29,4,Delicious food and quick delivery,2025-04-03
+2608,1393,1393,52,5,Great taste and excellent service,2025-06-03
+2609,201,197,78,5,Great taste and excellent service,2025-03-13
+2610,3478,674,70,5,Great taste and excellent service,2025-02-21
+2611,2898,1195,51,5,Great taste and excellent service,2025-02-28
+2612,4020,1050,47,4,Delicious food and quick delivery,2025-03-02
+2613,1975,1091,87,5,Great taste and excellent service,2025-05-03
+2614,1580,955,71,2,Poor service and disappointing taste,2025-06-17
+2615,3125,285,61,3,"Nothing special, but fine",2025-02-15
+2616,1684,698,45,4,Delicious food and quick delivery,2025-06-01
+2617,1397,964,85,5,"Fresh food, highly recommended",2025-02-19
+2618,3745,969,61,3,Average experience,2025-06-12
+2619,673,1085,26,2,Food arrived cold and late,2025-06-01
+2620,1878,1436,39,4,Great taste and excellent service,2025-01-28
+2621,2414,895,4,4,"Amazing experience, arrived on time",2025-02-01
+2622,1059,654,73,5,Delicious food and quick delivery,2025-03-30
+2623,2831,1389,72,4,Delicious food and quick delivery,2025-02-22
+2624,3551,954,33,4,"Amazing experience, arrived on time",2025-01-11
+2625,3081,1347,77,5,"Fresh food, highly recommended",2025-06-25
+2626,445,853,42,5,Great taste and excellent service,2025-03-14
+2627,2270,364,33,5,"Fresh food, highly recommended",2025-05-29
+2628,4763,842,83,5,"Fresh food, highly recommended",2025-03-15
+2629,2165,88,39,4,"Amazing experience, arrived on time",2025-03-28
+2630,170,328,6,5,Great taste and excellent service,2025-02-09
+2631,1921,982,16,4,"Fresh food, highly recommended",2025-06-21
+2632,3228,671,94,4,Delicious food and quick delivery,2025-01-11
+2633,1001,548,53,4,Great taste and excellent service,2025-06-06
+2634,388,303,26,5,Delicious food and quick delivery,2025-05-28
+2635,1352,105,64,2,Food arrived cold and late,2025-04-22
+2636,4678,57,14,5,"Amazing experience, arrived on time",2025-06-28
+2637,2347,776,63,5,"Fresh food, highly recommended",2025-05-11
+2638,487,821,47,4,Delicious food and quick delivery,2025-05-05
+2639,4949,1499,97,4,Delicious food and quick delivery,2025-03-07
+2640,837,119,61,4,"Amazing experience, arrived on time",2025-03-03
+2641,1907,980,33,4,"Fresh food, highly recommended",2025-01-31
+2642,4981,142,6,1,Poor service and disappointing taste,2025-01-10
+2643,343,1438,51,3,Food was okay,2025-04-29
+2644,601,752,8,4,Delicious food and quick delivery,2025-06-24
+2645,4031,356,63,2,Order was delayed and food was soggy,2025-06-20
+2646,4032,1094,86,2,Food arrived cold and late,2025-01-08
+2647,338,446,76,5,Great taste and excellent service,2025-03-13
+2648,2563,16,77,4,"Amazing experience, arrived on time",2025-06-14
+2649,771,1255,2,5,"Amazing experience, arrived on time",2025-05-01
+2650,2586,933,71,5,Great taste and excellent service,2025-02-16
+2651,2113,1494,100,4,"Fresh food, highly recommended",2025-01-11
+2652,4279,470,77,5,"Fresh food, highly recommended",2025-03-12
+2653,832,45,24,4,Great taste and excellent service,2025-03-06
+2654,4916,912,100,4,"Fresh food, highly recommended",2025-02-05
+2655,1390,818,71,2,Order was delayed and food was soggy,2025-05-01
+2656,2997,540,85,3,Average experience,2025-01-26
+2657,3223,995,3,1,Food arrived cold and late,2025-03-19
+2658,3633,1178,7,2,Poor service and disappointing taste,2025-02-05
+2659,1074,86,35,5,"Amazing experience, arrived on time",2025-03-03
+2660,15,268,45,5,Delicious food and quick delivery,2025-06-22
+2661,971,693,39,3,Food was okay,2025-05-06
+2662,897,1253,60,3,Taste and delivery were acceptable,2025-01-29
+2663,561,1060,46,4,Great taste and excellent service,2025-02-19
+2664,4452,161,92,4,"Amazing experience, arrived on time",2025-05-04
+2665,451,973,25,4,Delicious food and quick delivery,2025-06-23
+2666,3106,2,12,3,"Nothing special, but fine",2025-06-29
+2667,4172,6,48,4,"Fresh food, highly recommended",2025-01-28
+2668,228,662,34,5,Delicious food and quick delivery,2025-03-15
+2669,4865,429,27,4,Great taste and excellent service,2025-06-26
+2670,502,1452,63,5,Delicious food and quick delivery,2025-03-18
+2671,3166,1182,70,4,Delicious food and quick delivery,2025-03-18
+2672,2667,464,49,4,Delicious food and quick delivery,2025-06-04
+2673,3355,749,78,4,"Fresh food, highly recommended",2025-03-24
+2674,4054,1266,13,5,Great taste and excellent service,2025-02-24
+2675,4755,390,53,5,"Amazing experience, arrived on time",2025-05-25
+2676,3684,437,82,1,Order was delayed and food was soggy,2025-05-06
+2677,2066,1344,95,4,Delicious food and quick delivery,2025-03-02
+2678,1879,1379,51,5,"Amazing experience, arrived on time",2025-03-11
+2679,3608,911,21,4,Delicious food and quick delivery,2025-03-20
+2680,4607,1398,24,4,Great taste and excellent service,2025-01-17
+2681,605,609,56,1,Poor service and disappointing taste,2025-04-28
+2682,1578,281,52,3,Average experience,2025-01-23
+2683,2492,369,1,4,"Fresh food, highly recommended",2025-03-30
+2684,4786,1198,3,4,Delicious food and quick delivery,2025-03-14
+2685,2111,1449,47,5,Great taste and excellent service,2025-01-04
+2686,703,1060,66,5,"Amazing experience, arrived on time",2025-05-12
+2687,4810,1022,30,2,Not worth the price,2025-04-23
+2688,348,205,77,4,Great taste and excellent service,2025-03-12
+2689,3931,1161,50,4,Great taste and excellent service,2025-06-28
+2690,4707,805,68,5,"Fresh food, highly recommended",2025-04-29
+2691,1456,969,78,5,Delicious food and quick delivery,2025-03-14
+2692,469,896,52,5,"Amazing experience, arrived on time",2025-06-08
+2693,4092,204,46,4,Delicious food and quick delivery,2025-02-27
+2694,111,686,1,5,Great taste and excellent service,2025-04-12
+2695,152,1157,37,5,Great taste and excellent service,2025-03-12
+2696,2382,266,100,1,Food arrived cold and late,2025-04-27
+2697,3039,1320,34,5,"Fresh food, highly recommended",2025-06-23
+2698,4382,124,90,4,Great taste and excellent service,2025-06-29
+2699,2461,319,95,5,"Fresh food, highly recommended",2025-05-01
+2700,3111,1360,7,1,Poor service and disappointing taste,2025-03-27
+2701,2376,268,46,2,Order was delayed and food was soggy,2025-05-05
+2702,2895,1105,61,2,Not worth the price,2025-01-05
+2703,2135,606,34,1,Food arrived cold and late,2025-03-07
+2704,1944,773,1,2,Food arrived cold and late,2025-02-21
+2705,2494,525,92,4,Great taste and excellent service,2025-03-11
+2706,2,1056,68,2,Not worth the price,2025-01-01
+2707,4290,829,35,2,Order was delayed and food was soggy,2025-01-13
+2708,4959,830,5,4,"Amazing experience, arrived on time",2025-04-05
+2709,2137,610,39,5,"Fresh food, highly recommended",2025-06-09
+2710,3737,1345,81,1,Not worth the price,2025-06-23
+2711,4078,769,18,4,"Fresh food, highly recommended",2025-01-26
+2712,3184,762,45,4,Delicious food and quick delivery,2025-01-29
+2713,1225,1032,31,4,Great taste and excellent service,2025-03-07
+2714,4716,606,86,3,Taste and delivery were acceptable,2025-05-18
+2715,652,1294,44,5,Delicious food and quick delivery,2025-02-27
+2716,1857,133,58,5,Great taste and excellent service,2025-04-24
+2717,3914,1406,14,3,Taste and delivery were acceptable,2025-01-07
+2718,3751,193,92,4,Great taste and excellent service,2025-05-20
+2719,1727,548,11,2,Poor service and disappointing taste,2025-05-21
+2720,3606,476,68,5,Great taste and excellent service,2025-05-07
+2721,234,165,21,5,Great taste and excellent service,2025-01-09
+2722,863,548,43,4,"Fresh food, highly recommended",2025-04-17
+2723,3983,1312,42,4,"Fresh food, highly recommended",2025-02-06
+2724,3426,525,53,5,"Amazing experience, arrived on time",2025-04-15
+2725,2236,1110,65,4,Great taste and excellent service,2025-01-05
+2726,4541,1286,46,4,"Fresh food, highly recommended",2025-01-23
+2727,3201,627,24,4,Great taste and excellent service,2025-03-03
+2728,3472,45,44,3,Taste and delivery were acceptable,2025-01-20
+2729,1717,339,34,5,Great taste and excellent service,2025-04-13
+2730,4217,846,52,4,"Amazing experience, arrived on time",2025-04-14
+2731,4723,1370,6,4,"Amazing experience, arrived on time",2025-03-17
+2732,3314,776,29,5,Delicious food and quick delivery,2025-01-01
+2733,4927,1435,55,4,Great taste and excellent service,2025-06-22
+2734,1471,600,77,2,Not worth the price,2025-01-18
+2735,2203,1290,68,5,"Fresh food, highly recommended",2025-04-15
+2736,301,153,88,5,"Fresh food, highly recommended",2025-04-28
+2737,75,691,11,5,Delicious food and quick delivery,2025-04-26
+2738,1202,1053,99,4,"Amazing experience, arrived on time",2025-04-07
+2739,433,1436,5,5,"Fresh food, highly recommended",2025-06-06
+2740,642,23,49,4,Delicious food and quick delivery,2025-02-11
+2741,1497,105,54,4,Delicious food and quick delivery,2025-01-05
+2742,4987,1302,20,4,Delicious food and quick delivery,2025-04-30
+2743,3726,413,81,2,Not worth the price,2025-03-30
+2744,2798,681,95,3,Taste and delivery were acceptable,2025-06-03
+2745,3756,361,74,4,Delicious food and quick delivery,2025-04-30
+2746,4792,880,40,2,Poor service and disappointing taste,2025-04-19
+2747,3644,280,68,4,"Fresh food, highly recommended",2025-01-14
+2748,3384,1385,61,5,Delicious food and quick delivery,2025-02-05
+2749,1937,111,40,5,"Fresh food, highly recommended",2025-03-25
+2750,4195,969,54,3,"Nothing special, but fine",2025-03-13
+2751,1382,160,83,5,"Fresh food, highly recommended",2025-02-04
+2752,4537,1170,87,4,"Amazing experience, arrived on time",2025-03-12
+2753,2474,581,66,3,Food was okay,2025-04-08
+2754,576,1307,38,5,"Fresh food, highly recommended",2025-03-10
+2755,413,1189,2,2,Order was delayed and food was soggy,2025-06-22
+2756,1708,301,41,5,Great taste and excellent service,2025-03-02
+2757,3479,397,72,5,"Amazing experience, arrived on time",2025-03-24
+2758,2150,707,15,5,Great taste and excellent service,2025-03-06
+2759,4743,227,27,5,Delicious food and quick delivery,2025-05-30
+2760,384,1459,81,5,Delicious food and quick delivery,2025-05-19
+2761,4446,917,15,4,Delicious food and quick delivery,2025-01-15
+2762,2467,316,81,4,Delicious food and quick delivery,2025-04-25
+2763,4683,546,38,4,"Amazing experience, arrived on time",2025-01-28
+2764,1874,654,62,4,"Fresh food, highly recommended",2025-01-18
+2765,1159,697,21,4,"Fresh food, highly recommended",2025-01-05
+2766,651,327,34,3,Food was okay,2025-03-21
+2767,567,591,88,4,Delicious food and quick delivery,2025-02-06
+2768,4489,410,56,4,"Amazing experience, arrived on time",2025-04-06
+2769,3774,1205,42,5,Great taste and excellent service,2025-03-04
+2770,2723,1477,22,2,Not worth the price,2025-03-03
+2771,1196,355,79,4,Great taste and excellent service,2025-03-24
+2772,4802,1154,36,5,Delicious food and quick delivery,2025-05-22
+2773,4783,1319,57,4,Delicious food and quick delivery,2025-01-30
+2774,4516,1162,58,2,Food arrived cold and late,2025-04-09
+2775,1421,424,33,5,Great taste and excellent service,2025-04-16
+2776,1987,275,61,3,Average experience,2025-03-03
+2777,877,590,66,5,Delicious food and quick delivery,2025-02-16
+2778,878,710,39,4,Delicious food and quick delivery,2025-01-13
+2779,3908,414,3,5,"Amazing experience, arrived on time",2025-04-24
+2780,2168,524,29,5,"Fresh food, highly recommended",2025-04-11
+2781,3560,1285,49,5,"Amazing experience, arrived on time",2025-03-27
+2782,3087,528,27,4,"Fresh food, highly recommended",2025-03-18
+2783,1679,1414,86,2,Order was delayed and food was soggy,2025-05-11
+2784,1545,1392,95,3,Average experience,2025-06-25
+2785,4076,14,46,1,Poor service and disappointing taste,2025-06-27
+2786,4415,398,77,5,Great taste and excellent service,2025-01-17
+2787,87,516,21,5,"Amazing experience, arrived on time",2025-05-13
+2788,4374,408,83,3,Food was okay,2025-06-06
+2789,2580,520,6,5,"Fresh food, highly recommended",2025-06-30
+2790,22,195,33,4,"Amazing experience, arrived on time",2025-05-01
+2791,3122,1248,35,3,Food was okay,2025-04-03
+2792,1711,302,73,5,"Amazing experience, arrived on time",2025-04-15
+2793,1077,170,84,5,Delicious food and quick delivery,2025-01-17
+2794,1876,769,59,3,"Nothing special, but fine",2025-06-27
+2795,3629,729,10,5,"Fresh food, highly recommended",2025-04-15
+2796,1213,1490,72,2,Poor service and disappointing taste,2025-01-15
+2797,3840,1414,31,3,"Nothing special, but fine",2025-06-06
+2798,984,383,98,5,Delicious food and quick delivery,2025-03-14
+2799,3351,1336,72,4,Great taste and excellent service,2025-02-16
+2800,4587,368,8,4,"Fresh food, highly recommended",2025-06-18
+2801,4301,1030,17,3,Food was okay,2025-04-13
+2802,562,1056,77,2,Food arrived cold and late,2025-01-26
+2803,819,455,41,4,"Amazing experience, arrived on time",2025-03-26
+2804,1592,1073,90,5,Delicious food and quick delivery,2025-05-06
+2805,3620,992,13,5,Delicious food and quick delivery,2025-02-26
+2806,4708,1046,20,3,"Nothing special, but fine",2025-04-15
+2807,2753,1222,44,5,Delicious food and quick delivery,2025-01-11
+2808,2329,162,45,5,"Fresh food, highly recommended",2025-06-12
+2809,1006,97,9,4,"Fresh food, highly recommended",2025-02-25
+2810,3327,282,47,3,Food was okay,2025-05-23
+2811,4097,718,4,3,Taste and delivery were acceptable,2025-02-08
+2812,2754,963,87,4,Great taste and excellent service,2025-05-24
+2813,2665,860,23,3,Average experience,2025-05-13
+2814,1050,165,17,5,Great taste and excellent service,2025-01-11
+2815,4844,1283,99,4,Delicious food and quick delivery,2025-06-26
+2816,3752,401,79,4,"Fresh food, highly recommended",2025-05-17
+2817,793,822,1,3,Food was okay,2025-04-15
+2818,3695,595,97,4,Great taste and excellent service,2025-03-07
+2819,763,213,3,5,Great taste and excellent service,2025-04-30
+2820,781,370,52,5,"Fresh food, highly recommended",2025-03-21
+2821,2583,1069,66,3,Taste and delivery were acceptable,2025-06-19
+2822,2478,1128,73,5,"Amazing experience, arrived on time",2025-03-28
+2823,4108,1427,9,4,"Amazing experience, arrived on time",2025-02-25
+2824,23,295,68,5,"Fresh food, highly recommended",2025-01-24
+2825,3027,246,94,4,"Fresh food, highly recommended",2025-03-24
+2826,983,721,27,2,Order was delayed and food was soggy,2025-02-18
+2827,4249,696,21,3,Average experience,2025-04-21
+2828,1017,1277,24,5,"Fresh food, highly recommended",2025-06-28
+2829,3424,1215,64,5,Delicious food and quick delivery,2025-04-28
+2830,4788,505,18,5,Delicious food and quick delivery,2025-03-03
+2831,2458,698,87,3,Food was okay,2025-03-30
+2832,3504,1170,20,2,Food arrived cold and late,2025-04-21
+2833,1388,1175,32,5,"Fresh food, highly recommended",2025-03-15
+2834,527,34,7,5,Delicious food and quick delivery,2025-05-08
+2835,4165,337,36,4,Great taste and excellent service,2025-06-03
+2836,1341,1488,54,1,Food arrived cold and late,2025-01-10
+2837,306,1258,73,4,Delicious food and quick delivery,2025-05-10
+2838,1093,162,66,5,"Fresh food, highly recommended",2025-04-01
+2839,2285,31,3,4,Great taste and excellent service,2025-04-03
+2840,1368,798,98,1,Not worth the price,2025-03-09
+2841,2613,620,1,3,Taste and delivery were acceptable,2025-03-09
+2842,628,928,36,3,Food was okay,2025-01-22
+2843,1573,1296,26,4,Delicious food and quick delivery,2025-05-18
+2844,1098,70,89,2,Not worth the price,2025-03-10
+2845,3601,35,29,1,Food arrived cold and late,2025-03-07
+2846,3144,423,97,5,"Fresh food, highly recommended",2025-06-30
+2847,645,1443,85,5,"Fresh food, highly recommended",2025-03-26
+2848,3336,1247,63,5,"Amazing experience, arrived on time",2025-02-06
+2849,2761,521,26,4,"Fresh food, highly recommended",2025-01-23
+2850,1477,35,6,4,Delicious food and quick delivery,2025-05-23
+2851,1112,647,64,2,Food arrived cold and late,2025-01-25
+2852,751,422,96,4,"Amazing experience, arrived on time",2025-03-26
+2853,2647,1317,72,3,Taste and delivery were acceptable,2025-05-13
+2854,490,446,85,5,"Amazing experience, arrived on time",2025-04-23
+2855,3167,1,52,5,"Fresh food, highly recommended",2025-04-03
+2856,4171,705,88,4,"Amazing experience, arrived on time",2025-06-13
+2857,2263,865,52,3,Food was okay,2025-06-22
+2858,4409,108,30,5,Delicious food and quick delivery,2025-06-28
+2859,3583,759,79,5,"Fresh food, highly recommended",2025-03-06
+2860,1850,691,48,4,Delicious food and quick delivery,2025-02-18
+2861,1697,1461,21,5,Delicious food and quick delivery,2025-03-28
+2862,1370,1148,35,3,Taste and delivery were acceptable,2025-03-01
+2863,2173,638,26,4,"Amazing experience, arrived on time",2025-02-25
+2864,326,123,35,1,Not worth the price,2025-01-31
+2865,1696,573,44,3,Food was okay,2025-01-06
+2866,2202,106,7,4,"Fresh food, highly recommended",2025-04-23
+2867,649,1438,54,5,Delicious food and quick delivery,2025-03-16
+2868,2636,695,60,3,"Nothing special, but fine",2025-06-29
+2869,2333,987,67,4,"Fresh food, highly recommended",2025-02-11
+2870,4266,1268,74,3,"Nothing special, but fine",2025-02-02
+2871,4091,1047,42,5,"Fresh food, highly recommended",2025-04-23
+2872,4429,974,60,5,"Amazing experience, arrived on time",2025-03-30
+2873,467,1169,70,1,Poor service and disappointing taste,2025-05-10
+2874,2834,1257,75,3,"Nothing special, but fine",2025-02-11
+2875,1163,781,20,5,"Amazing experience, arrived on time",2025-03-06
+2876,4065,1466,76,5,Delicious food and quick delivery,2025-02-16
+2877,4676,387,42,2,Poor service and disappointing taste,2025-03-01
+2878,611,804,77,3,Taste and delivery were acceptable,2025-05-18
+2879,4207,923,83,3,Average experience,2025-05-01
+2880,4671,1442,95,4,"Fresh food, highly recommended",2025-03-20
+2881,4721,1330,73,1,Food arrived cold and late,2025-05-26
+2882,3878,1016,7,4,Delicious food and quick delivery,2025-02-23
+2883,4719,827,66,3,Food was okay,2025-03-23
+2884,3767,1351,81,5,Delicious food and quick delivery,2025-01-18
+2885,1313,1280,76,4,"Amazing experience, arrived on time",2025-06-23
+2886,1883,944,9,5,"Fresh food, highly recommended",2025-04-03
+2887,2858,1444,19,5,Great taste and excellent service,2025-05-29
+2888,3781,79,71,5,"Fresh food, highly recommended",2025-06-22
+2889,3112,696,60,5,Great taste and excellent service,2025-01-27
+2890,1866,41,64,5,Delicious food and quick delivery,2025-01-21
+2891,3150,1039,65,5,"Amazing experience, arrived on time",2025-06-03
+2892,2875,1444,9,4,Delicious food and quick delivery,2025-03-27
+2893,2633,51,89,5,Delicious food and quick delivery,2025-03-30
+2894,2346,176,61,5,Great taste and excellent service,2025-01-16
+2895,2614,529,89,3,Taste and delivery were acceptable,2025-06-01
+2896,3414,600,77,3,Average experience,2025-02-27
+2897,1412,1213,22,5,Great taste and excellent service,2025-03-03
+2898,4267,1160,30,4,"Fresh food, highly recommended",2025-06-30
+2899,4269,775,93,5,"Amazing experience, arrived on time",2025-03-07
+2900,4445,1027,32,5,Great taste and excellent service,2025-06-23
+2901,2288,950,42,2,Poor service and disappointing taste,2025-06-04
+2902,2072,44,72,4,Delicious food and quick delivery,2025-06-04
+2903,1744,183,5,5,"Amazing experience, arrived on time",2025-01-01
+2904,1474,1466,22,4,"Amazing experience, arrived on time",2025-03-03
+2905,4380,1206,47,2,Poor service and disappointing taste,2025-01-20
+2906,2375,88,21,5,"Amazing experience, arrived on time",2025-04-27
+2907,2627,144,24,3,Food was okay,2025-01-24
+2908,3323,906,70,4,Delicious food and quick delivery,2025-03-21
+2909,2493,919,24,5,"Fresh food, highly recommended",2025-06-11
+2910,4484,372,79,5,"Fresh food, highly recommended",2025-06-09
+2911,1255,1182,37,4,Delicious food and quick delivery,2025-03-25
+2912,3549,463,85,3,Taste and delivery were acceptable,2025-05-09
+2913,1076,327,41,4,Delicious food and quick delivery,2025-04-24
+2914,882,32,44,3,Average experience,2025-01-10
+2915,1877,222,71,5,Great taste and excellent service,2025-06-24
+2916,38,353,95,5,Delicious food and quick delivery,2025-02-14
+2917,497,311,11,5,Great taste and excellent service,2025-02-19
+2918,1013,852,15,4,"Fresh food, highly recommended",2025-04-03
+2919,3720,553,33,3,Taste and delivery were acceptable,2025-03-13
+2920,1319,97,38,4,"Amazing experience, arrived on time",2025-01-05
+2921,1399,341,97,5,"Fresh food, highly recommended",2025-05-19
+2922,2606,1496,5,5,"Amazing experience, arrived on time",2025-05-14
+2923,39,763,25,5,"Amazing experience, arrived on time",2025-02-27
+2924,1079,519,43,5,Great taste and excellent service,2025-01-03
+2925,1088,74,21,5,Great taste and excellent service,2025-04-30
+2926,3711,576,59,5,"Fresh food, highly recommended",2025-01-30
+2927,1554,366,21,5,"Fresh food, highly recommended",2025-05-26
+2928,1709,354,11,3,Taste and delivery were acceptable,2025-02-01
+2929,41,776,29,5,"Amazing experience, arrived on time",2025-02-14
+2930,1631,208,40,4,"Fresh food, highly recommended",2025-04-17
+2931,4762,899,53,1,Order was delayed and food was soggy,2025-06-12
+2932,182,747,86,3,"Nothing special, but fine",2025-04-20
+2933,1483,521,37,5,Great taste and excellent service,2025-04-16
+2934,4232,114,87,5,Delicious food and quick delivery,2025-03-16
+2935,3313,438,33,4,Delicious food and quick delivery,2025-02-23
+2936,4756,600,3,4,Delicious food and quick delivery,2025-01-22
+2937,4337,728,57,5,Delicious food and quick delivery,2025-05-16
+2938,2949,1214,33,5,Great taste and excellent service,2025-06-12
+2939,3668,1042,58,3,Food was okay,2025-02-07
+2940,1798,241,67,3,"Nothing special, but fine",2025-06-01
+2941,1417,144,46,1,Order was delayed and food was soggy,2025-03-14
+2942,1510,594,84,4,Great taste and excellent service,2025-06-13
+2943,2119,419,52,4,"Fresh food, highly recommended",2025-03-30
+2944,636,1058,72,5,Delicious food and quick delivery,2025-02-16
+2945,3934,83,94,4,Great taste and excellent service,2025-05-17
+2946,2222,44,15,4,Great taste and excellent service,2025-02-05
+2947,991,303,64,4,"Amazing experience, arrived on time",2025-01-21
+2948,865,911,85,4,"Fresh food, highly recommended",2025-04-02
+2949,171,225,2,4,"Fresh food, highly recommended",2025-01-25

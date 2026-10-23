@@ -1,0 +1,1501 @@
+customer_id,age,city,signup_date,membership_type,preferred_cuisine
+1,22,Bengaluru,2025-01-13,Basic,Italian
+2,59,Chennai,2024-10-19,Basic,Fast Food
+3,52,Bengaluru,2025-06-29,Plus,Indian
+4,41,Hyderabad,2025-02-26,Basic,Chinese
+5,40,Mumbai,2024-01-10,Premium,Mexican
+6,63,Bengaluru,2024-07-26,Plus,Indian
+7,22,Chennai,2024-06-07,Plus,Chinese
+8,54,Pune,2024-11-17,Basic,Mexican
+9,28,Bengaluru,2024-05-25,Plus,Italian
+10,22,Hyderabad,2025-06-12,Premium,Mexican
+11,45,Mumbai,2024-06-12,Basic,Italian
+12,69,Bengaluru,2024-10-12,Basic,Fast Food
+13,56,Bengaluru,2024-03-08,Basic,Fast Food
+14,58,Bengaluru,2025-05-12,Basic,Fast Food
+15,56,Pune,2025-05-13,Plus,Indian
+16,59,Bengaluru,2025-03-10,Basic,Italian
+17,45,Bengaluru,2024-07-11,Plus,Indian
+18,24,Bengaluru,2024-02-02,Basic,Chinese
+19,62,Bengaluru,2025-01-23,Basic,Chinese
+20,41,Hyderabad,2024-08-22,Basic,Mexican
+21,44,Bengaluru,2025-06-25,Premium,Italian
+22,37,Hyderabad,2025-01-16,Plus,Fast Food
+23,27,Hyderabad,2024-10-21,Basic,Chinese
+24,67,Mumbai,2025-06-23,Plus,Mexican
+25,59,Bengaluru,2025-03-13,Basic,Mexican
+26,52,Mumbai,2024-09-07,Basic,Fast Food
+27,39,Hyderabad,2024-01-11,Basic,Chinese
+28,61,Bengaluru,2024-02-20,Premium,Mexican
+29,46,Mumbai,2024-08-30,Plus,Indian
+30,41,Mumbai,2024-11-03,Plus,Italian
+31,41,Bengaluru,2024-01-17,Basic,Italian
+32,30,Pune,2024-03-10,Basic,Fast Food
+33,22,Chennai,2025-01-20,Plus,Mexican
+34,47,Hyderabad,2025-02-15,Basic,Fast Food
+35,65,Pune,2024-01-17,Premium,Fast Food
+36,21,Chennai,2024-10-04,Plus,Italian
+37,63,Mumbai,2024-02-14,Basic,Mexican
+38,61,Chennai,2025-01-30,Plus,Indian
+39,32,Mumbai,2025-04-01,Premium,Italian
+40,51,Hyderabad,2025-04-20,Basic,Indian
+41,26,Bengaluru,2024-11-23,Plus,Mexican
+42,58,Chennai,2024-12-10,Premium,Fast Food
+43,55,Chennai,2025-05-21,Basic,Mexican
+44,36,Bengaluru,2024-12-01,Premium,Fast Food
+45,21,Bengaluru,2024-09-01,Basic,Chinese
+46,69,Chennai,2025-02-16,Plus,Fast Food
+47,41,Bengaluru,2024-11-19,Plus,Italian
+48,65,Bengaluru,2025-04-05,Plus,Mexican
+49,53,Mumbai,2024-10-14,Basic,Mexican
+50,59,Mumbai,2025-04-20,Plus,Mexican
+51,58,Mumbai,2024-01-25,Basic,Chinese
+52,28,Chennai,2024-01-20,Basic,Mexican
+53,37,Pune,2024-02-24,Basic,Mexican
+54,42,Hyderabad,2024-10-31,Plus,Fast Food
+55,44,Bengaluru,2025-01-22,Basic,Italian
+56,20,Bengaluru,2024-04-28,Basic,Italian
+57,46,Mumbai,2024-03-26,Premium,Italian
+58,26,Bengaluru,2025-04-15,Basic,Indian
+59,57,Hyderabad,2025-02-14,Basic,Indian
+60,54,Pune,2024-12-20,Basic,Indian
+61,66,Bengaluru,2024-09-24,Basic,Mexican
+62,57,Bengaluru,2024-08-17,Plus,Italian
+63,37,Pune,2024-01-12,Basic,Fast Food
+64,69,Hyderabad,2024-04-12,Basic,Mexican
+65,39,Bengaluru,2025-05-05,Premium,Indian
+66,35,Pune,2024-07-04,Plus,Indian
+67,65,Pune,2025-01-20,Plus,Chinese
+68,37,Hyderabad,2025-01-19,Premium,Fast Food
+69,22,Hyderabad,2024-06-18,Premium,Indian
+70,42,Bengaluru,2024-04-21,Basic,Indian
+71,60,Bengaluru,2025-01-13,Plus,Indian
+72,28,Hyderabad,2024-02-21,Plus,Italian
+73,42,Chennai,2024-09-27,Basic,Fast Food
+74,24,Mumbai,2025-04-30,Basic,Mexican
+75,54,Mumbai,2025-01-24,Basic,Italian
+76,43,Bengaluru,2025-02-22,Plus,Indian
+77,35,Hyderabad,2024-02-15,Plus,Chinese
+78,30,Bengaluru,2024-04-19,Plus,Italian
+79,47,Mumbai,2024-05-30,Basic,Chinese
+80,53,Bengaluru,2024-06-08,Basic,Mexican
+81,67,Hyderabad,2024-04-16,Basic,Fast Food
+82,41,Hyderabad,2025-06-15,Basic,Chinese
+83,26,Chennai,2024-03-31,Premium,Chinese
+84,62,Mumbai,2025-01-22,Premium,Indian
+85,51,Mumbai,2024-11-16,Premium,Mexican
+86,55,Hyderabad,2024-11-29,Premium,Italian
+87,23,Mumbai,2024-04-27,Premium,Chinese
+88,34,Pune,2024-06-17,Basic,Chinese
+89,58,Chennai,2024-11-27,Basic,Indian
+90,62,Hyderabad,2024-06-12,Basic,Italian
+91,41,Bengaluru,2025-01-14,Basic,Mexican
+92,60,Mumbai,2024-01-22,Basic,Chinese
+93,62,Hyderabad,2024-02-09,Basic,Indian
+94,38,Chennai,2025-02-02,Premium,Italian
+95,65,Bengaluru,2024-12-03,Basic,Mexican
+96,33,Pune,2024-01-24,Premium,Chinese
+97,30,Chennai,2025-05-06,Plus,Chinese
+98,54,Mumbai,2024-01-03,Plus,Indian
+99,51,Bengaluru,2025-06-06,Plus,Mexican
+100,25,Pune,2025-02-03,Basic,Fast Food
+101,62,Bengaluru,2025-06-24,Plus,Mexican
+102,28,Bengaluru,2025-06-03,Basic,Italian
+103,60,Mumbai,2024-06-20,Premium,Mexican
+104,18,Pune,2025-02-17,Basic,Chinese
+105,60,Bengaluru,2024-04-25,Basic,Indian
+106,59,Hyderabad,2024-09-14,Plus,Chinese
+107,59,Mumbai,2024-05-11,Plus,Mexican
+108,53,Mumbai,2024-09-22,Basic,Mexican
+109,42,Chennai,2025-04-22,Plus,Fast Food
+110,55,Hyderabad,2024-08-26,Basic,Fast Food
+111,32,Mumbai,2024-02-20,Plus,Chinese
+112,59,Mumbai,2024-06-26,Basic,Indian
+113,47,Mumbai,2025-03-06,Basic,Chinese
+114,42,Hyderabad,2024-10-12,Basic,Fast Food
+115,44,Bengaluru,2024-11-02,Basic,Fast Food
+116,48,Pune,2024-08-23,Basic,Indian
+117,19,Mumbai,2024-06-09,Basic,Indian
+118,25,Mumbai,2024-11-23,Basic,Italian
+119,31,Bengaluru,2024-12-12,Basic,Mexican
+120,24,Bengaluru,2025-05-06,Basic,Fast Food
+121,41,Mumbai,2024-12-03,Basic,Mexican
+122,53,Bengaluru,2025-06-28,Plus,Chinese
+123,52,Pune,2025-03-28,Premium,Indian
+124,42,Chennai,2024-02-13,Basic,Mexican
+125,63,Mumbai,2024-08-02,Premium,Italian
+126,47,Pune,2024-07-29,Basic,Fast Food
+127,22,Chennai,2024-01-02,Basic,Italian
+128,58,Chennai,2024-04-08,Plus,Italian
+129,48,Hyderabad,2025-02-20,Plus,Chinese
+130,51,Hyderabad,2024-07-11,Plus,Indian
+131,47,Chennai,2024-03-21,Basic,Fast Food
+132,47,Hyderabad,2024-06-06,Plus,Fast Food
+133,22,Pune,2024-05-30,Basic,Indian
+134,47,Hyderabad,2024-04-05,Basic,Mexican
+135,60,Bengaluru,2024-02-25,Basic,Chinese
+136,34,Chennai,2025-02-21,Premium,Italian
+137,49,Chennai,2025-03-27,Basic,Fast Food
+138,19,Bengaluru,2024-12-02,Plus,Fast Food
+139,36,Bengaluru,2025-05-17,Plus,Indian
+140,41,Mumbai,2025-04-05,Plus,Chinese
+141,70,Chennai,2024-01-18,Plus,Fast Food
+142,29,Pune,2025-06-05,Premium,Fast Food
+143,32,Bengaluru,2024-02-06,Basic,Indian
+144,39,Bengaluru,2024-01-15,Basic,Fast Food
+145,70,Mumbai,2024-08-08,Plus,Italian
+146,63,Pune,2025-02-11,Basic,Italian
+147,19,Bengaluru,2024-02-13,Basic,Indian
+148,30,Bengaluru,2024-06-09,Basic,Mexican
+149,61,Bengaluru,2024-05-23,Basic,Mexican
+150,21,Hyderabad,2024-08-05,Basic,Mexican
+151,63,Hyderabad,2025-06-23,Basic,Mexican
+152,32,Bengaluru,2024-06-30,Premium,Fast Food
+153,66,Bengaluru,2024-04-24,Basic,Fast Food
+154,33,Hyderabad,2024-03-07,Premium,Mexican
+155,41,Pune,2024-04-18,Premium,Fast Food
+156,53,Hyderabad,2024-03-13,Basic,Mexican
+157,24,Hyderabad,2024-11-09,Plus,Mexican
+158,47,Bengaluru,2024-08-18,Plus,Italian
+159,44,Bengaluru,2024-09-29,Plus,Mexican
+160,59,Chennai,2025-03-31,Basic,Indian
+161,70,Mumbai,2024-11-13,Basic,Italian
+162,53,Mumbai,2024-03-25,Basic,Italian
+163,39,Pune,2024-07-25,Plus,Fast Food
+164,39,Pune,2024-06-19,Premium,Indian
+165,40,Pune,2025-03-28,Plus,Mexican
+166,61,Pune,2024-06-16,Plus,Indian
+167,35,Bengaluru,2024-03-16,Premium,Fast Food
+168,26,Bengaluru,2025-02-06,Plus,Fast Food
+169,35,Chennai,2024-08-22,Basic,Chinese
+170,19,Hyderabad,2024-02-22,Premium,Fast Food
+171,23,Bengaluru,2025-01-12,Basic,Italian
+172,22,Mumbai,2024-04-25,Basic,Fast Food
+173,58,Hyderabad,2025-04-19,Basic,Mexican
+174,56,Hyderabad,2025-03-31,Premium,Indian
+175,54,Bengaluru,2024-07-21,Basic,Chinese
+176,42,Bengaluru,2024-10-30,Basic,Italian
+177,56,Bengaluru,2024-11-06,Basic,Chinese
+178,26,Mumbai,2024-12-23,Basic,Indian
+179,65,Hyderabad,2024-02-07,Basic,Fast Food
+180,44,Mumbai,2024-06-26,Plus,Fast Food
+181,67,Chennai,2024-04-03,Premium,Italian
+182,26,Chennai,2025-01-16,Basic,Chinese
+183,44,Chennai,2024-02-07,Basic,Indian
+184,54,Mumbai,2024-10-09,Basic,Fast Food
+185,44,Mumbai,2025-02-02,Basic,Chinese
+186,41,Bengaluru,2025-06-02,Plus,Indian
+187,26,Pune,2024-06-06,Plus,Chinese
+188,38,Bengaluru,2024-01-05,Plus,Italian
+189,30,Pune,2025-01-30,Basic,Mexican
+190,33,Bengaluru,2024-01-01,Plus,Chinese
+191,54,Bengaluru,2024-02-06,Basic,Fast Food
+192,51,Mumbai,2025-06-25,Basic,Mexican
+193,50,Bengaluru,2025-04-16,Premium,Fast Food
+194,37,Chennai,2025-01-22,Plus,Chinese
+195,68,Chennai,2025-04-02,Premium,Mexican
+196,22,Bengaluru,2024-02-11,Premium,Chinese
+197,36,Mumbai,2024-02-18,Plus,Mexican
+198,24,Mumbai,2024-06-13,Premium,Mexican
+199,35,Mumbai,2024-01-13,Basic,Chinese
+200,68,Chennai,2025-04-30,Basic,Fast Food
+201,37,Hyderabad,2024-01-31,Basic,Fast Food
+202,66,Bengaluru,2024-10-24,Basic,Fast Food
+203,44,Bengaluru,2025-04-11,Basic,Chinese
+204,55,Bengaluru,2025-02-06,Basic,Mexican
+205,42,Pune,2024-05-08,Plus,Indian
+206,32,Pune,2024-09-14,Plus,Indian
+207,58,Mumbai,2024-10-26,Plus,Fast Food
+208,69,Hyderabad,2024-08-21,Basic,Indian
+209,31,Hyderabad,2024-06-04,Plus,Fast Food
+210,59,Hyderabad,2025-03-11,Basic,Italian
+211,31,Hyderabad,2025-04-29,Basic,Chinese
+212,55,Chennai,2024-09-24,Basic,Indian
+213,59,Bengaluru,2024-01-16,Basic,Mexican
+214,41,Bengaluru,2024-09-30,Basic,Mexican
+215,57,Pune,2025-05-01,Plus,Italian
+216,32,Hyderabad,2025-06-25,Plus,Fast Food
+217,22,Pune,2024-08-07,Plus,Chinese
+218,23,Bengaluru,2024-03-23,Basic,Italian
+219,41,Hyderabad,2024-11-08,Plus,Chinese
+220,65,Bengaluru,2025-03-30,Plus,Italian
+221,24,Bengaluru,2025-05-31,Basic,Indian
+222,42,Bengaluru,2024-01-29,Plus,Italian
+223,55,Bengaluru,2024-06-07,Basic,Italian
+224,28,Pune,2024-09-18,Basic,Italian
+225,56,Chennai,2024-02-23,Basic,Italian
+226,34,Hyderabad,2025-04-29,Basic,Mexican
+227,60,Hyderabad,2024-03-02,Basic,Italian
+228,48,Chennai,2024-12-29,Basic,Chinese
+229,46,Hyderabad,2025-01-09,Basic,Chinese
+230,27,Bengaluru,2025-02-21,Premium,Mexican
+231,42,Pune,2024-05-24,Basic,Fast Food
+232,63,Mumbai,2025-03-28,Basic,Mexican
+233,19,Mumbai,2024-08-16,Basic,Mexican
+234,58,Hyderabad,2024-02-03,Premium,Fast Food
+235,44,Bengaluru,2024-07-19,Plus,Fast Food
+236,56,Pune,2024-07-10,Premium,Italian
+237,53,Chennai,2024-10-12,Basic,Indian
+238,40,Bengaluru,2024-05-24,Basic,Mexican
+239,34,Chennai,2024-09-09,Plus,Mexican
+240,51,Mumbai,2024-08-22,Basic,Chinese
+241,25,Hyderabad,2024-06-27,Plus,Fast Food
+242,48,Mumbai,2025-01-15,Premium,Fast Food
+243,23,Mumbai,2024-06-16,Basic,Chinese
+244,52,Bengaluru,2025-02-22,Premium,Italian
+245,51,Pune,2024-05-17,Plus,Indian
+246,22,Chennai,2025-04-18,Basic,Indian
+247,58,Hyderabad,2024-07-18,Basic,Chinese
+248,40,Bengaluru,2024-01-23,Basic,Chinese
+249,59,Pune,2024-03-23,Plus,Chinese
+250,20,Chennai,2025-03-17,Basic,Indian
+251,27,Bengaluru,2025-04-22,Basic,Italian
+252,44,Chennai,2024-04-25,Plus,Mexican
+253,27,Bengaluru,2024-11-25,Basic,Chinese
+254,35,Bengaluru,2024-11-10,Basic,Italian
+255,53,Hyderabad,2024-03-14,Plus,Chinese
+256,25,Chennai,2024-09-04,Basic,Mexican
+257,53,Pune,2025-01-14,Basic,Mexican
+258,23,Chennai,2025-06-13,Basic,Fast Food
+259,27,Mumbai,2025-04-08,Basic,Indian
+260,49,Hyderabad,2024-02-23,Basic,Fast Food
+261,60,Hyderabad,2024-05-09,Plus,Chinese
+262,27,Hyderabad,2024-08-26,Premium,Indian
+263,33,Hyderabad,2024-03-23,Basic,Mexican
+264,67,Pune,2024-11-08,Premium,Indian
+265,70,Chennai,2024-01-05,Plus,Indian
+266,48,Bengaluru,2024-03-03,Plus,Fast Food
+267,41,Mumbai,2024-01-26,Plus,Chinese
+268,36,Mumbai,2024-06-10,Plus,Italian
+269,50,Bengaluru,2025-02-20,Plus,Chinese
+270,49,Chennai,2024-04-06,Basic,Indian
+271,33,Pune,2025-06-23,Basic,Indian
+272,19,Mumbai,2024-05-27,Basic,Indian
+273,26,Pune,2024-01-25,Basic,Italian
+274,68,Hyderabad,2024-07-02,Plus,Italian
+275,40,Hyderabad,2025-02-13,Basic,Indian
+276,43,Chennai,2024-02-28,Basic,Chinese
+277,42,Pune,2024-02-09,Basic,Chinese
+278,59,Chennai,2025-04-09,Basic,Italian
+279,21,Mumbai,2024-07-06,Plus,Fast Food
+280,22,Chennai,2025-02-17,Plus,Mexican
+281,32,Hyderabad,2025-04-06,Basic,Fast Food
+282,43,Mumbai,2024-07-15,Basic,Indian
+283,53,Hyderabad,2024-11-02,Basic,Chinese
+284,44,Pune,2024-01-06,Basic,Mexican
+285,41,Chennai,2024-06-16,Plus,Chinese
+286,67,Hyderabad,2024-11-21,Plus,Fast Food
+287,26,Chennai,2024-04-17,Basic,Italian
+288,48,Chennai,2025-06-26,Basic,Chinese
+289,46,Chennai,2025-06-15,Premium,Fast Food
+290,43,Bengaluru,2024-05-20,Plus,Italian
+291,60,Bengaluru,2024-08-04,Basic,Fast Food
+292,32,Mumbai,2024-04-13,Basic,Italian
+293,68,Hyderabad,2024-10-02,Basic,Indian
+294,35,Mumbai,2024-03-08,Premium,Mexican
+295,46,Bengaluru,2024-08-01,Basic,Indian
+296,45,Chennai,2024-10-30,Basic,Mexican
+297,63,Bengaluru,2024-11-30,Premium,Italian
+298,41,Mumbai,2024-11-22,Plus,Mexican
+299,33,Mumbai,2024-05-01,Basic,Fast Food
+300,19,Bengaluru,2025-03-09,Basic,Italian
+301,37,Mumbai,2025-01-13,Basic,Fast Food
+302,61,Bengaluru,2025-02-15,Plus,Indian
+303,18,Bengaluru,2024-09-12,Basic,Indian
+304,65,Bengaluru,2025-05-03,Premium,Fast Food
+305,46,Chennai,2024-08-01,Premium,Italian
+306,25,Mumbai,2025-03-16,Basic,Italian
+307,34,Pune,2024-04-21,Plus,Indian
+308,47,Bengaluru,2024-05-15,Basic,Chinese
+309,34,Hyderabad,2024-10-15,Basic,Mexican
+310,23,Mumbai,2024-10-31,Plus,Fast Food
+311,53,Pune,2025-02-12,Basic,Fast Food
+312,53,Hyderabad,2024-06-11,Basic,Italian
+313,24,Bengaluru,2025-04-22,Basic,Italian
+314,32,Hyderabad,2024-06-29,Basic,Indian
+315,30,Chennai,2024-10-19,Basic,Indian
+316,52,Pune,2025-05-24,Plus,Italian
+317,56,Chennai,2024-10-22,Plus,Italian
+318,56,Mumbai,2025-01-07,Plus,Indian
+319,67,Bengaluru,2025-05-12,Plus,Italian
+320,58,Chennai,2025-06-17,Basic,Mexican
+321,34,Mumbai,2024-09-30,Plus,Fast Food
+322,23,Hyderabad,2024-08-16,Basic,Fast Food
+323,50,Chennai,2024-04-17,Basic,Chinese
+324,66,Pune,2024-10-20,Premium,Chinese
+325,69,Mumbai,2025-05-17,Basic,Fast Food
+326,30,Chennai,2024-09-23,Basic,Mexican
+327,30,Hyderabad,2024-07-09,Basic,Chinese
+328,19,Hyderabad,2024-02-28,Basic,Mexican
+329,25,Hyderabad,2024-08-01,Basic,Indian
+330,47,Chennai,2024-05-09,Basic,Italian
+331,46,Bengaluru,2025-06-18,Premium,Chinese
+332,37,Pune,2024-10-15,Basic,Fast Food
+333,34,Pune,2024-03-15,Basic,Indian
+334,61,Mumbai,2024-02-06,Basic,Fast Food
+335,42,Pune,2025-04-10,Plus,Chinese
+336,60,Mumbai,2025-05-24,Basic,Indian
+337,69,Mumbai,2025-02-21,Basic,Mexican
+338,34,Mumbai,2024-03-08,Basic,Mexican
+339,28,Hyderabad,2024-02-23,Plus,Indian
+340,68,Chennai,2024-04-18,Plus,Indian
+341,51,Bengaluru,2025-02-14,Plus,Indian
+342,33,Hyderabad,2025-02-22,Plus,Italian
+343,50,Chennai,2025-04-03,Basic,Indian
+344,45,Bengaluru,2024-02-23,Basic,Mexican
+345,65,Hyderabad,2024-03-24,Basic,Indian
+346,31,Chennai,2025-05-07,Basic,Mexican
+347,70,Bengaluru,2025-05-23,Basic,Fast Food
+348,67,Mumbai,2025-01-31,Basic,Mexican
+349,27,Mumbai,2024-02-28,Basic,Fast Food
+350,26,Bengaluru,2024-02-07,Plus,Fast Food
+351,46,Bengaluru,2024-01-31,Basic,Indian
+352,20,Chennai,2025-01-13,Plus,Chinese
+353,33,Mumbai,2025-04-07,Plus,Mexican
+354,41,Mumbai,2024-12-11,Basic,Chinese
+355,69,Bengaluru,2024-05-23,Basic,Mexican
+356,70,Mumbai,2025-02-18,Plus,Mexican
+357,26,Bengaluru,2024-02-02,Plus,Fast Food
+358,65,Chennai,2025-03-29,Basic,Chinese
+359,22,Pune,2025-05-02,Basic,Chinese
+360,57,Bengaluru,2025-01-27,Plus,Indian
+361,62,Bengaluru,2025-04-25,Plus,Chinese
+362,65,Chennai,2024-11-16,Basic,Chinese
+363,29,Hyderabad,2024-09-13,Basic,Italian
+364,65,Pune,2024-06-25,Premium,Italian
+365,24,Pune,2025-05-19,Basic,Fast Food
+366,45,Bengaluru,2025-01-16,Premium,Mexican
+367,42,Bengaluru,2024-04-14,Basic,Mexican
+368,34,Mumbai,2025-06-07,Basic,Indian
+369,19,Bengaluru,2024-02-02,Basic,Italian
+370,58,Pune,2024-11-17,Basic,Mexican
+371,35,Mumbai,2024-04-14,Premium,Chinese
+372,53,Bengaluru,2024-12-29,Basic,Italian
+373,39,Mumbai,2024-08-13,Premium,Mexican
+374,37,Bengaluru,2024-08-27,Basic,Mexican
+375,64,Chennai,2025-01-02,Premium,Fast Food
+376,23,Hyderabad,2025-02-17,Premium,Italian
+377,57,Hyderabad,2024-07-26,Plus,Chinese
+378,57,Mumbai,2025-06-29,Basic,Chinese
+379,38,Hyderabad,2024-09-29,Plus,Mexican
+380,31,Pune,2024-03-28,Basic,Italian
+381,18,Pune,2024-01-04,Premium,Italian
+382,67,Hyderabad,2024-04-20,Basic,Indian
+383,68,Bengaluru,2025-01-13,Basic,Italian
+384,30,Mumbai,2024-10-22,Basic,Chinese
+385,19,Pune,2024-07-03,Plus,Italian
+386,24,Chennai,2024-09-20,Premium,Fast Food
+387,21,Hyderabad,2025-04-03,Basic,Mexican
+388,62,Chennai,2024-11-08,Plus,Italian
+389,65,Bengaluru,2024-02-01,Premium,Fast Food
+390,26,Mumbai,2024-01-27,Basic,Fast Food
+391,57,Chennai,2024-09-20,Basic,Italian
+392,27,Mumbai,2024-08-09,Plus,Mexican
+393,37,Mumbai,2025-04-10,Plus,Chinese
+394,49,Mumbai,2024-11-14,Basic,Fast Food
+395,56,Chennai,2025-02-18,Plus,Chinese
+396,64,Chennai,2024-11-16,Basic,Chinese
+397,20,Mumbai,2024-07-07,Premium,Indian
+398,28,Mumbai,2024-12-25,Premium,Fast Food
+399,32,Hyderabad,2024-12-05,Plus,Chinese
+400,34,Pune,2025-01-28,Basic,Fast Food
+401,70,Bengaluru,2024-04-13,Basic,Indian
+402,59,Mumbai,2024-12-16,Basic,Italian
+403,34,Bengaluru,2024-06-05,Basic,Italian
+404,69,Bengaluru,2025-03-08,Plus,Italian
+405,44,Hyderabad,2025-03-12,Basic,Indian
+406,44,Bengaluru,2024-12-07,Basic,Indian
+407,40,Bengaluru,2025-06-01,Basic,Chinese
+408,25,Bengaluru,2024-10-21,Basic,Italian
+409,67,Chennai,2024-01-14,Basic,Mexican
+410,18,Mumbai,2024-11-27,Plus,Italian
+411,27,Bengaluru,2025-03-01,Plus,Chinese
+412,30,Hyderabad,2024-02-25,Basic,Chinese
+413,32,Mumbai,2024-02-27,Premium,Mexican
+414,24,Bengaluru,2024-05-29,Premium,Italian
+415,18,Bengaluru,2025-04-06,Basic,Fast Food
+416,53,Mumbai,2024-10-15,Plus,Italian
+417,69,Mumbai,2025-06-18,Basic,Italian
+418,24,Hyderabad,2025-04-22,Basic,Indian
+419,33,Mumbai,2024-10-30,Basic,Indian
+420,44,Bengaluru,2025-01-06,Basic,Fast Food
+421,67,Chennai,2024-06-30,Premium,Chinese
+422,54,Mumbai,2024-02-19,Premium,Italian
+423,58,Bengaluru,2024-08-06,Plus,Italian
+424,48,Mumbai,2024-11-19,Plus,Indian
+425,40,Hyderabad,2024-04-09,Plus,Italian
+426,28,Mumbai,2024-05-01,Premium,Chinese
+427,63,Hyderabad,2024-01-09,Basic,Indian
+428,60,Chennai,2025-02-05,Basic,Italian
+429,19,Bengaluru,2025-05-06,Plus,Italian
+430,55,Bengaluru,2025-03-28,Basic,Indian
+431,22,Mumbai,2024-07-26,Basic,Italian
+432,57,Bengaluru,2024-11-20,Basic,Mexican
+433,61,Bengaluru,2025-06-09,Plus,Chinese
+434,24,Bengaluru,2024-11-19,Basic,Fast Food
+435,40,Bengaluru,2024-06-10,Basic,Mexican
+436,24,Mumbai,2024-07-04,Basic,Mexican
+437,48,Chennai,2025-02-01,Basic,Indian
+438,67,Pune,2024-09-01,Premium,Mexican
+439,22,Bengaluru,2025-04-03,Basic,Chinese
+440,39,Hyderabad,2025-04-17,Plus,Mexican
+441,69,Chennai,2024-01-20,Plus,Fast Food
+442,33,Chennai,2025-01-30,Basic,Chinese
+443,25,Mumbai,2024-07-21,Plus,Chinese
+444,43,Pune,2024-10-11,Plus,Indian
+445,44,Mumbai,2024-05-24,Plus,Mexican
+446,53,Bengaluru,2024-07-20,Basic,Mexican
+447,34,Bengaluru,2024-06-29,Basic,Italian
+448,68,Hyderabad,2024-01-28,Premium,Indian
+449,45,Chennai,2025-03-04,Plus,Chinese
+450,33,Mumbai,2024-03-19,Premium,Italian
+451,68,Hyderabad,2024-07-24,Premium,Fast Food
+452,67,Hyderabad,2024-04-15,Basic,Indian
+453,44,Mumbai,2024-03-28,Plus,Chinese
+454,19,Mumbai,2024-07-23,Basic,Mexican
+455,49,Bengaluru,2025-05-17,Plus,Chinese
+456,47,Bengaluru,2025-05-31,Basic,Fast Food
+457,25,Hyderabad,2024-07-27,Basic,Fast Food
+458,51,Hyderabad,2024-10-03,Plus,Chinese
+459,62,Bengaluru,2025-06-23,Plus,Mexican
+460,23,Chennai,2024-05-08,Plus,Mexican
+461,56,Mumbai,2025-05-31,Basic,Mexican
+462,25,Mumbai,2024-02-27,Basic,Indian
+463,57,Hyderabad,2024-05-03,Premium,Indian
+464,40,Chennai,2024-07-04,Basic,Chinese
+465,18,Bengaluru,2024-01-21,Basic,Indian
+466,69,Hyderabad,2025-03-22,Plus,Chinese
+467,26,Chennai,2025-04-12,Basic,Mexican
+468,49,Hyderabad,2024-07-28,Plus,Italian
+469,27,Mumbai,2025-04-02,Basic,Chinese
+470,67,Bengaluru,2025-02-26,Plus,Indian
+471,57,Bengaluru,2025-03-14,Premium,Chinese
+472,60,Bengaluru,2025-03-15,Premium,Italian
+473,40,Pune,2024-11-09,Plus,Mexican
+474,42,Hyderabad,2024-03-01,Basic,Chinese
+475,51,Bengaluru,2025-05-20,Plus,Chinese
+476,59,Pune,2024-11-28,Plus,Italian
+477,62,Hyderabad,2025-05-07,Plus,Indian
+478,18,Hyderabad,2025-06-08,Plus,Chinese
+479,53,Pune,2024-04-12,Plus,Indian
+480,23,Bengaluru,2024-08-07,Plus,Italian
+481,33,Bengaluru,2024-04-15,Plus,Italian
+482,61,Hyderabad,2024-01-28,Basic,Italian
+483,31,Bengaluru,2025-06-12,Basic,Mexican
+484,60,Mumbai,2025-05-20,Plus,Chinese
+485,42,Bengaluru,2025-05-24,Basic,Fast Food
+486,30,Bengaluru,2025-04-28,Premium,Fast Food
+487,35,Bengaluru,2024-12-20,Plus,Indian
+488,46,Chennai,2024-10-12,Basic,Fast Food
+489,58,Bengaluru,2025-06-26,Plus,Indian
+490,50,Bengaluru,2024-10-29,Plus,Chinese
+491,67,Mumbai,2024-12-17,Plus,Italian
+492,63,Chennai,2024-04-25,Basic,Indian
+493,57,Chennai,2025-02-12,Premium,Chinese
+494,49,Bengaluru,2025-03-24,Basic,Indian
+495,33,Chennai,2025-01-06,Plus,Italian
+496,39,Bengaluru,2024-09-29,Basic,Fast Food
+497,24,Hyderabad,2024-04-18,Plus,Fast Food
+498,37,Bengaluru,2024-01-19,Plus,Chinese
+499,67,Pune,2024-12-09,Plus,Italian
+500,40,Pune,2025-01-08,Basic,Italian
+501,24,Bengaluru,2025-02-26,Plus,Italian
+502,52,Bengaluru,2025-06-03,Plus,Mexican
+503,69,Bengaluru,2024-09-29,Basic,Fast Food
+504,63,Hyderabad,2025-03-29,Premium,Italian
+505,32,Bengaluru,2025-01-26,Plus,Indian
+506,42,Mumbai,2024-05-31,Premium,Fast Food
+507,46,Mumbai,2025-04-07,Premium,Fast Food
+508,31,Mumbai,2024-01-30,Premium,Chinese
+509,32,Hyderabad,2024-11-23,Plus,Italian
+510,30,Pune,2025-05-29,Plus,Fast Food
+511,70,Bengaluru,2024-12-26,Basic,Italian
+512,57,Chennai,2025-05-27,Basic,Italian
+513,62,Chennai,2024-01-31,Plus,Fast Food
+514,61,Pune,2024-10-18,Basic,Fast Food
+515,68,Hyderabad,2025-03-02,Premium,Italian
+516,23,Mumbai,2024-12-17,Basic,Indian
+517,64,Bengaluru,2025-04-26,Basic,Italian
+518,21,Pune,2024-09-10,Basic,Mexican
+519,43,Hyderabad,2025-01-08,Basic,Chinese
+520,49,Hyderabad,2024-08-17,Basic,Italian
+521,36,Pune,2025-04-22,Basic,Mexican
+522,25,Chennai,2024-03-06,Plus,Indian
+523,28,Chennai,2024-05-19,Basic,Italian
+524,61,Hyderabad,2024-02-22,Basic,Mexican
+525,34,Bengaluru,2025-01-19,Basic,Chinese
+526,34,Chennai,2024-05-07,Basic,Italian
+527,66,Bengaluru,2024-06-22,Basic,Mexican
+528,25,Bengaluru,2025-04-02,Plus,Indian
+529,66,Mumbai,2024-07-16,Plus,Mexican
+530,66,Hyderabad,2024-03-20,Basic,Chinese
+531,49,Chennai,2024-01-12,Plus,Chinese
+532,26,Chennai,2024-05-04,Basic,Mexican
+533,26,Chennai,2025-05-15,Basic,Indian
+534,33,Hyderabad,2024-10-27,Premium,Indian
+535,48,Pune,2025-06-28,Basic,Italian
+536,26,Pune,2024-04-27,Premium,Fast Food
+537,42,Chennai,2024-07-11,Basic,Indian
+538,24,Chennai,2024-03-30,Basic,Mexican
+539,46,Chennai,2024-08-05,Basic,Indian
+540,19,Hyderabad,2024-11-04,Basic,Italian
+541,55,Hyderabad,2025-03-18,Premium,Italian
+542,20,Hyderabad,2024-07-20,Basic,Italian
+543,28,Hyderabad,2025-02-26,Premium,Indian
+544,27,Chennai,2024-12-08,Premium,Mexican
+545,62,Chennai,2024-06-08,Plus,Chinese
+546,20,Chennai,2025-05-13,Basic,Mexican
+547,40,Bengaluru,2024-08-25,Basic,Mexican
+548,49,Bengaluru,2024-03-23,Basic,Italian
+549,45,Mumbai,2025-06-10,Plus,Chinese
+550,54,Chennai,2025-05-14,Basic,Mexican
+551,60,Bengaluru,2024-01-28,Premium,Fast Food
+552,38,Hyderabad,2025-05-08,Plus,Fast Food
+553,61,Mumbai,2025-06-02,Basic,Fast Food
+554,34,Bengaluru,2025-03-29,Plus,Chinese
+555,70,Mumbai,2024-05-19,Basic,Italian
+556,44,Pune,2024-12-11,Premium,Chinese
+557,57,Hyderabad,2024-10-21,Basic,Fast Food
+558,64,Mumbai,2024-12-05,Premium,Fast Food
+559,60,Bengaluru,2024-12-03,Plus,Fast Food
+560,63,Pune,2024-12-15,Premium,Indian
+561,46,Chennai,2024-10-08,Basic,Chinese
+562,20,Pune,2025-01-12,Plus,Mexican
+563,44,Hyderabad,2024-10-15,Basic,Mexican
+564,27,Bengaluru,2024-01-10,Plus,Chinese
+565,65,Bengaluru,2024-01-20,Basic,Indian
+566,30,Mumbai,2025-06-08,Basic,Indian
+567,30,Hyderabad,2025-05-12,Basic,Mexican
+568,31,Bengaluru,2024-11-16,Basic,Italian
+569,52,Mumbai,2024-04-05,Basic,Italian
+570,48,Mumbai,2025-03-03,Plus,Fast Food
+571,68,Hyderabad,2024-03-19,Basic,Indian
+572,40,Hyderabad,2024-07-25,Plus,Mexican
+573,32,Bengaluru,2024-06-29,Basic,Chinese
+574,20,Mumbai,2024-01-07,Plus,Fast Food
+575,18,Chennai,2025-03-17,Plus,Fast Food
+576,37,Mumbai,2024-10-05,Basic,Italian
+577,67,Chennai,2024-06-21,Plus,Chinese
+578,45,Hyderabad,2024-10-04,Premium,Chinese
+579,65,Bengaluru,2024-01-01,Plus,Indian
+580,23,Bengaluru,2024-08-27,Basic,Fast Food
+581,22,Mumbai,2024-10-11,Basic,Indian
+582,62,Hyderabad,2024-07-04,Plus,Italian
+583,23,Hyderabad,2025-03-30,Basic,Italian
+584,20,Pune,2024-05-16,Plus,Mexican
+585,39,Pune,2024-03-16,Basic,Fast Food
+586,67,Mumbai,2024-10-15,Plus,Italian
+587,54,Bengaluru,2025-04-30,Basic,Mexican
+588,23,Hyderabad,2024-07-24,Basic,Italian
+589,62,Mumbai,2024-01-26,Premium,Italian
+590,62,Chennai,2025-06-14,Premium,Indian
+591,60,Bengaluru,2024-08-31,Premium,Chinese
+592,65,Mumbai,2024-04-04,Premium,Italian
+593,30,Hyderabad,2024-12-02,Basic,Indian
+594,69,Hyderabad,2024-06-23,Basic,Chinese
+595,34,Pune,2025-05-27,Basic,Italian
+596,60,Hyderabad,2024-06-09,Basic,Italian
+597,48,Chennai,2024-10-27,Basic,Fast Food
+598,59,Chennai,2024-10-24,Premium,Fast Food
+599,51,Chennai,2024-05-12,Basic,Mexican
+600,52,Bengaluru,2024-09-30,Basic,Indian
+601,50,Mumbai,2024-02-29,Basic,Italian
+602,59,Mumbai,2024-12-18,Basic,Mexican
+603,57,Chennai,2025-02-18,Basic,Italian
+604,25,Chennai,2025-06-03,Plus,Italian
+605,61,Mumbai,2024-06-27,Basic,Italian
+606,46,Bengaluru,2024-06-05,Plus,Italian
+607,35,Hyderabad,2024-10-27,Premium,Italian
+608,45,Hyderabad,2025-01-13,Plus,Indian
+609,69,Mumbai,2025-06-26,Plus,Italian
+610,63,Bengaluru,2024-01-14,Basic,Chinese
+611,62,Mumbai,2024-05-10,Basic,Mexican
+612,42,Chennai,2024-05-23,Basic,Fast Food
+613,59,Hyderabad,2024-05-19,Premium,Italian
+614,38,Bengaluru,2024-09-10,Plus,Chinese
+615,54,Hyderabad,2025-04-22,Basic,Fast Food
+616,51,Hyderabad,2024-01-17,Basic,Mexican
+617,31,Bengaluru,2025-03-22,Plus,Italian
+618,32,Bengaluru,2024-12-03,Plus,Indian
+619,21,Bengaluru,2024-12-02,Plus,Indian
+620,25,Chennai,2025-01-06,Premium,Chinese
+621,40,Bengaluru,2024-03-04,Plus,Chinese
+622,43,Pune,2025-02-12,Plus,Mexican
+623,26,Chennai,2024-05-15,Basic,Italian
+624,40,Mumbai,2024-10-09,Basic,Fast Food
+625,50,Pune,2025-01-05,Premium,Italian
+626,30,Bengaluru,2024-11-26,Plus,Fast Food
+627,35,Hyderabad,2024-06-25,Basic,Italian
+628,37,Mumbai,2024-08-04,Plus,Chinese
+629,44,Hyderabad,2024-09-17,Basic,Mexican
+630,37,Chennai,2024-01-23,Plus,Italian
+631,57,Chennai,2025-02-01,Basic,Chinese
+632,35,Bengaluru,2024-02-24,Plus,Italian
+633,40,Hyderabad,2024-09-07,Basic,Mexican
+634,38,Pune,2024-12-24,Basic,Chinese
+635,27,Pune,2024-02-13,Basic,Mexican
+636,54,Bengaluru,2025-06-28,Plus,Fast Food
+637,30,Mumbai,2024-07-25,Basic,Italian
+638,33,Chennai,2024-01-09,Basic,Chinese
+639,60,Pune,2024-12-26,Plus,Italian
+640,68,Bengaluru,2024-10-31,Basic,Fast Food
+641,53,Pune,2024-12-16,Basic,Indian
+642,66,Mumbai,2025-02-14,Basic,Fast Food
+643,63,Bengaluru,2024-09-17,Premium,Italian
+644,43,Bengaluru,2025-03-28,Basic,Fast Food
+645,58,Mumbai,2024-07-21,Basic,Mexican
+646,35,Bengaluru,2024-10-25,Basic,Mexican
+647,42,Hyderabad,2024-03-27,Basic,Fast Food
+648,46,Pune,2024-12-05,Basic,Indian
+649,68,Hyderabad,2024-05-23,Basic,Italian
+650,62,Chennai,2025-01-16,Basic,Indian
+651,43,Chennai,2025-03-14,Basic,Chinese
+652,52,Bengaluru,2025-04-14,Premium,Indian
+653,28,Pune,2025-05-23,Basic,Mexican
+654,60,Chennai,2024-03-07,Basic,Mexican
+655,47,Bengaluru,2024-03-16,Premium,Mexican
+656,46,Chennai,2025-05-21,Premium,Indian
+657,58,Pune,2024-07-27,Plus,Chinese
+658,51,Bengaluru,2024-01-15,Basic,Mexican
+659,21,Mumbai,2024-06-05,Basic,Fast Food
+660,33,Mumbai,2025-04-02,Basic,Fast Food
+661,27,Mumbai,2024-07-13,Basic,Indian
+662,56,Pune,2024-02-11,Basic,Italian
+663,19,Mumbai,2025-01-29,Plus,Indian
+664,28,Pune,2024-04-16,Basic,Fast Food
+665,49,Bengaluru,2024-07-11,Plus,Indian
+666,54,Mumbai,2024-01-03,Basic,Fast Food
+667,44,Hyderabad,2024-11-25,Basic,Indian
+668,63,Hyderabad,2024-08-31,Plus,Indian
+669,66,Pune,2025-04-19,Premium,Fast Food
+670,25,Pune,2024-07-01,Basic,Italian
+671,68,Mumbai,2024-04-21,Plus,Italian
+672,50,Hyderabad,2024-03-31,Basic,Mexican
+673,51,Chennai,2024-04-19,Basic,Chinese
+674,23,Chennai,2024-09-03,Plus,Mexican
+675,50,Chennai,2024-02-17,Basic,Italian
+676,56,Chennai,2024-08-08,Basic,Chinese
+677,48,Bengaluru,2025-04-12,Basic,Chinese
+678,22,Bengaluru,2025-02-23,Basic,Indian
+679,45,Mumbai,2024-12-14,Basic,Chinese
+680,67,Chennai,2025-05-03,Basic,Italian
+681,56,Pune,2025-03-02,Premium,Indian
+682,25,Hyderabad,2024-12-22,Plus,Indian
+683,68,Bengaluru,2025-04-17,Basic,Mexican
+684,68,Bengaluru,2024-03-09,Basic,Italian
+685,26,Bengaluru,2025-03-23,Plus,Indian
+686,60,Pune,2024-06-10,Basic,Mexican
+687,39,Bengaluru,2025-02-04,Basic,Mexican
+688,49,Hyderabad,2025-05-14,Plus,Indian
+689,41,Pune,2024-09-28,Basic,Chinese
+690,59,Pune,2024-02-18,Basic,Chinese
+691,70,Bengaluru,2024-07-21,Basic,Mexican
+692,60,Bengaluru,2024-08-10,Basic,Indian
+693,67,Bengaluru,2025-05-27,Basic,Fast Food
+694,68,Bengaluru,2025-05-30,Premium,Chinese
+695,22,Bengaluru,2024-11-06,Basic,Indian
+696,31,Hyderabad,2025-06-04,Plus,Fast Food
+697,56,Pune,2024-08-26,Plus,Indian
+698,49,Hyderabad,2024-08-12,Basic,Indian
+699,20,Hyderabad,2025-04-02,Basic,Fast Food
+700,23,Bengaluru,2024-12-31,Basic,Italian
+701,45,Mumbai,2024-10-12,Plus,Italian
+702,50,Hyderabad,2024-09-06,Basic,Mexican
+703,26,Mumbai,2025-01-20,Plus,Mexican
+704,27,Pune,2025-02-16,Premium,Mexican
+705,24,Chennai,2024-09-25,Plus,Indian
+706,47,Bengaluru,2024-01-18,Premium,Italian
+707,18,Bengaluru,2024-02-25,Plus,Chinese
+708,48,Chennai,2024-03-19,Premium,Fast Food
+709,43,Pune,2024-09-09,Plus,Italian
+710,42,Chennai,2024-12-01,Plus,Indian
+711,54,Mumbai,2025-03-15,Plus,Fast Food
+712,45,Hyderabad,2024-05-07,Premium,Chinese
+713,56,Bengaluru,2025-03-06,Basic,Chinese
+714,58,Chennai,2024-12-30,Plus,Fast Food
+715,66,Hyderabad,2024-01-29,Basic,Mexican
+716,60,Mumbai,2024-07-11,Premium,Fast Food
+717,45,Chennai,2024-06-14,Basic,Mexican
+718,44,Bengaluru,2025-04-29,Plus,Fast Food
+719,30,Mumbai,2025-05-18,Plus,Indian
+720,49,Bengaluru,2025-03-24,Premium,Italian
+721,25,Pune,2024-10-15,Basic,Chinese
+722,67,Bengaluru,2024-09-26,Plus,Chinese
+723,62,Bengaluru,2024-06-19,Plus,Chinese
+724,24,Hyderabad,2025-02-26,Premium,Chinese
+725,59,Hyderabad,2024-02-17,Premium,Italian
+726,24,Hyderabad,2024-05-28,Plus,Fast Food
+727,56,Chennai,2024-03-14,Plus,Mexican
+728,22,Pune,2024-09-27,Basic,Chinese
+729,43,Hyderabad,2024-06-12,Premium,Italian
+730,52,Hyderabad,2024-04-18,Basic,Italian
+731,56,Chennai,2024-07-24,Plus,Chinese
+732,40,Bengaluru,2025-04-15,Plus,Italian
+733,66,Hyderabad,2024-11-01,Basic,Mexican
+734,59,Bengaluru,2025-05-14,Basic,Chinese
+735,29,Hyderabad,2025-05-08,Basic,Italian
+736,53,Bengaluru,2024-07-10,Premium,Mexican
+737,56,Pune,2025-04-24,Basic,Italian
+738,35,Hyderabad,2025-05-12,Basic,Chinese
+739,57,Pune,2025-06-08,Plus,Italian
+740,65,Hyderabad,2024-07-10,Basic,Mexican
+741,61,Bengaluru,2024-05-04,Premium,Chinese
+742,58,Mumbai,2024-11-15,Basic,Italian
+743,51,Hyderabad,2025-05-24,Basic,Mexican
+744,32,Mumbai,2025-05-07,Basic,Chinese
+745,60,Chennai,2024-11-08,Basic,Chinese
+746,37,Hyderabad,2024-03-22,Basic,Fast Food
+747,46,Mumbai,2024-08-19,Plus,Chinese
+748,34,Hyderabad,2025-01-25,Basic,Italian
+749,34,Chennai,2024-11-02,Basic,Indian
+750,26,Mumbai,2024-07-07,Basic,Fast Food
+751,68,Mumbai,2024-07-06,Basic,Italian
+752,25,Pune,2024-02-02,Premium,Mexican
+753,22,Chennai,2024-06-06,Basic,Mexican
+754,67,Chennai,2025-01-01,Premium,Chinese
+755,47,Mumbai,2024-05-11,Basic,Chinese
+756,41,Hyderabad,2025-06-27,Basic,Mexican
+757,57,Mumbai,2024-02-15,Basic,Fast Food
+758,38,Chennai,2024-11-18,Basic,Indian
+759,24,Bengaluru,2024-09-28,Plus,Fast Food
+760,56,Mumbai,2025-03-31,Basic,Fast Food
+761,27,Bengaluru,2025-04-30,Basic,Indian
+762,47,Bengaluru,2024-10-24,Plus,Indian
+763,68,Hyderabad,2024-12-10,Plus,Mexican
+764,67,Mumbai,2025-01-17,Premium,Fast Food
+765,37,Pune,2024-10-11,Premium,Chinese
+766,59,Bengaluru,2024-04-11,Plus,Mexican
+767,50,Bengaluru,2024-08-22,Plus,Fast Food
+768,43,Pune,2024-05-12,Plus,Chinese
+769,25,Bengaluru,2024-09-11,Basic,Chinese
+770,37,Bengaluru,2024-12-02,Plus,Fast Food
+771,52,Chennai,2024-04-24,Basic,Chinese
+772,70,Hyderabad,2025-03-26,Plus,Italian
+773,18,Pune,2024-07-25,Premium,Italian
+774,56,Mumbai,2024-04-18,Basic,Italian
+775,62,Mumbai,2025-01-25,Plus,Chinese
+776,68,Bengaluru,2025-01-26,Premium,Mexican
+777,40,Chennai,2025-03-27,Basic,Mexican
+778,24,Hyderabad,2025-02-19,Basic,Chinese
+779,32,Bengaluru,2025-06-26,Premium,Italian
+780,63,Bengaluru,2024-11-10,Premium,Indian
+781,64,Chennai,2024-06-05,Basic,Chinese
+782,51,Bengaluru,2025-04-17,Basic,Fast Food
+783,24,Hyderabad,2024-05-24,Plus,Italian
+784,24,Mumbai,2024-06-08,Basic,Mexican
+785,43,Bengaluru,2025-03-29,Basic,Fast Food
+786,49,Hyderabad,2025-04-27,Basic,Mexican
+787,19,Mumbai,2024-07-04,Basic,Mexican
+788,54,Mumbai,2025-02-02,Plus,Mexican
+789,46,Mumbai,2025-05-19,Plus,Italian
+790,18,Chennai,2025-03-12,Plus,Mexican
+791,23,Mumbai,2024-01-03,Plus,Chinese
+792,42,Bengaluru,2024-12-29,Basic,Fast Food
+793,56,Chennai,2024-04-02,Basic,Indian
+794,61,Bengaluru,2025-04-07,Basic,Fast Food
+795,40,Hyderabad,2024-02-06,Basic,Fast Food
+796,33,Chennai,2025-06-27,Basic,Indian
+797,69,Bengaluru,2024-04-06,Basic,Mexican
+798,42,Mumbai,2024-08-17,Basic,Fast Food
+799,34,Chennai,2024-05-08,Basic,Italian
+800,41,Bengaluru,2025-03-21,Plus,Chinese
+801,18,Bengaluru,2024-08-03,Plus,Fast Food
+802,34,Chennai,2025-02-11,Premium,Italian
+803,45,Chennai,2024-02-06,Plus,Indian
+804,66,Chennai,2024-09-04,Plus,Chinese
+805,57,Bengaluru,2025-05-13,Basic,Mexican
+806,59,Mumbai,2025-05-22,Plus,Italian
+807,46,Pune,2024-04-24,Basic,Chinese
+808,23,Hyderabad,2024-08-03,Basic,Mexican
+809,38,Hyderabad,2024-08-11,Basic,Indian
+810,70,Mumbai,2024-11-05,Basic,Chinese
+811,20,Pune,2024-10-20,Basic,Italian
+812,64,Hyderabad,2024-02-27,Plus,Indian
+813,54,Pune,2025-02-21,Plus,Chinese
+814,33,Pune,2024-05-03,Plus,Fast Food
+815,59,Mumbai,2024-06-21,Plus,Fast Food
+816,62,Hyderabad,2025-04-04,Basic,Fast Food
+817,20,Bengaluru,2025-01-12,Basic,Chinese
+818,23,Bengaluru,2024-08-04,Plus,Indian
+819,53,Hyderabad,2025-05-14,Basic,Fast Food
+820,70,Hyderabad,2024-08-03,Basic,Chinese
+821,19,Chennai,2024-11-05,Basic,Mexican
+822,53,Hyderabad,2024-05-14,Premium,Indian
+823,25,Hyderabad,2024-04-10,Plus,Mexican
+824,52,Mumbai,2024-09-25,Basic,Italian
+825,51,Bengaluru,2024-11-03,Plus,Fast Food
+826,22,Bengaluru,2025-03-16,Basic,Indian
+827,54,Mumbai,2024-08-01,Basic,Italian
+828,65,Mumbai,2025-05-04,Basic,Fast Food
+829,63,Pune,2024-11-28,Basic,Chinese
+830,19,Mumbai,2024-02-08,Plus,Mexican
+831,31,Pune,2025-02-08,Basic,Indian
+832,30,Chennai,2024-11-10,Plus,Mexican
+833,42,Chennai,2024-07-31,Basic,Chinese
+834,25,Bengaluru,2024-09-12,Plus,Italian
+835,63,Hyderabad,2024-06-14,Plus,Fast Food
+836,59,Pune,2024-12-02,Plus,Mexican
+837,60,Chennai,2024-11-06,Plus,Italian
+838,28,Hyderabad,2024-09-01,Premium,Indian
+839,18,Chennai,2024-06-05,Basic,Chinese
+840,66,Bengaluru,2024-08-06,Plus,Fast Food
+841,33,Bengaluru,2024-09-29,Plus,Chinese
+842,52,Bengaluru,2024-09-15,Basic,Mexican
+843,66,Pune,2024-06-18,Basic,Italian
+844,19,Chennai,2024-11-14,Basic,Chinese
+845,18,Mumbai,2024-05-03,Basic,Mexican
+846,18,Mumbai,2024-10-01,Basic,Chinese
+847,26,Bengaluru,2024-03-07,Basic,Chinese
+848,20,Bengaluru,2024-09-15,Plus,Italian
+849,61,Mumbai,2025-03-04,Basic,Mexican
+850,50,Bengaluru,2025-01-14,Plus,Fast Food
+851,69,Pune,2025-02-11,Basic,Mexican
+852,60,Bengaluru,2024-02-06,Plus,Mexican
+853,69,Mumbai,2024-07-05,Basic,Mexican
+854,30,Mumbai,2024-12-23,Basic,Chinese
+855,33,Bengaluru,2025-03-13,Basic,Chinese
+856,63,Bengaluru,2024-11-14,Plus,Italian
+857,30,Pune,2025-04-11,Basic,Mexican
+858,21,Bengaluru,2024-05-29,Premium,Mexican
+859,53,Chennai,2024-03-24,Basic,Indian
+860,60,Chennai,2024-02-17,Plus,Mexican
+861,69,Bengaluru,2024-11-14,Basic,Chinese
+862,67,Mumbai,2024-12-29,Plus,Fast Food
+863,24,Mumbai,2024-06-05,Basic,Mexican
+864,58,Chennai,2025-03-04,Basic,Fast Food
+865,62,Mumbai,2025-02-08,Basic,Mexican
+866,55,Bengaluru,2024-07-15,Basic,Italian
+867,61,Bengaluru,2024-05-10,Basic,Indian
+868,62,Hyderabad,2025-02-10,Premium,Chinese
+869,41,Pune,2025-01-02,Basic,Fast Food
+870,20,Bengaluru,2024-04-03,Basic,Chinese
+871,42,Bengaluru,2024-05-19,Premium,Indian
+872,28,Hyderabad,2024-09-22,Basic,Chinese
+873,24,Mumbai,2024-10-06,Basic,Italian
+874,24,Bengaluru,2024-03-31,Plus,Mexican
+875,54,Chennai,2025-06-02,Premium,Fast Food
+876,44,Mumbai,2024-07-31,Plus,Fast Food
+877,46,Chennai,2024-07-27,Basic,Italian
+878,57,Bengaluru,2024-02-03,Premium,Italian
+879,47,Bengaluru,2025-04-24,Basic,Fast Food
+880,51,Chennai,2024-05-08,Premium,Indian
+881,22,Hyderabad,2025-06-23,Plus,Italian
+882,63,Mumbai,2024-09-28,Premium,Italian
+883,41,Hyderabad,2025-04-23,Basic,Mexican
+884,26,Mumbai,2024-04-07,Basic,Fast Food
+885,61,Pune,2024-03-31,Plus,Mexican
+886,56,Chennai,2025-03-14,Basic,Mexican
+887,20,Chennai,2025-03-24,Basic,Mexican
+888,28,Pune,2024-10-24,Premium,Italian
+889,18,Bengaluru,2024-01-18,Plus,Chinese
+890,32,Mumbai,2025-05-31,Basic,Chinese
+891,23,Mumbai,2024-08-03,Basic,Mexican
+892,55,Bengaluru,2025-05-26,Basic,Mexican
+893,45,Hyderabad,2025-04-21,Basic,Chinese
+894,69,Bengaluru,2025-04-10,Basic,Fast Food
+895,57,Bengaluru,2025-01-11,Plus,Fast Food
+896,50,Hyderabad,2025-01-03,Plus,Mexican
+897,44,Chennai,2024-10-18,Basic,Chinese
+898,20,Mumbai,2024-01-14,Basic,Fast Food
+899,21,Pune,2024-07-31,Plus,Chinese
+900,50,Mumbai,2025-02-03,Plus,Italian
+901,18,Bengaluru,2025-03-20,Premium,Fast Food
+902,20,Bengaluru,2024-11-02,Basic,Italian
+903,29,Bengaluru,2025-01-23,Plus,Chinese
+904,64,Bengaluru,2024-01-12,Basic,Indian
+905,42,Pune,2024-09-13,Basic,Chinese
+906,55,Chennai,2024-10-04,Premium,Mexican
+907,39,Bengaluru,2025-05-03,Basic,Mexican
+908,27,Mumbai,2024-06-19,Basic,Chinese
+909,37,Chennai,2024-05-05,Basic,Indian
+910,22,Bengaluru,2024-07-11,Basic,Mexican
+911,58,Bengaluru,2024-04-03,Basic,Indian
+912,27,Hyderabad,2024-11-01,Plus,Indian
+913,37,Mumbai,2024-12-17,Basic,Italian
+914,69,Bengaluru,2025-03-14,Basic,Italian
+915,49,Pune,2025-06-15,Premium,Chinese
+916,42,Mumbai,2024-02-10,Basic,Chinese
+917,46,Mumbai,2024-05-15,Premium,Chinese
+918,59,Bengaluru,2024-06-13,Basic,Chinese
+919,31,Bengaluru,2024-05-16,Plus,Indian
+920,51,Mumbai,2025-03-28,Basic,Indian
+921,64,Chennai,2024-03-17,Plus,Chinese
+922,48,Hyderabad,2024-01-17,Basic,Indian
+923,41,Mumbai,2025-04-15,Premium,Chinese
+924,25,Bengaluru,2025-06-09,Basic,Italian
+925,31,Mumbai,2024-05-03,Plus,Indian
+926,68,Pune,2024-07-01,Basic,Mexican
+927,46,Mumbai,2024-10-02,Basic,Mexican
+928,33,Chennai,2024-10-14,Basic,Italian
+929,40,Mumbai,2024-08-09,Basic,Mexican
+930,48,Hyderabad,2024-01-07,Basic,Fast Food
+931,46,Mumbai,2024-08-19,Plus,Indian
+932,55,Mumbai,2024-10-31,Basic,Indian
+933,31,Mumbai,2024-10-07,Basic,Chinese
+934,52,Chennai,2025-05-19,Basic,Mexican
+935,41,Bengaluru,2025-03-17,Basic,Fast Food
+936,67,Bengaluru,2024-05-17,Basic,Fast Food
+937,26,Hyderabad,2024-07-13,Plus,Italian
+938,25,Hyderabad,2024-12-31,Basic,Italian
+939,42,Hyderabad,2024-08-12,Premium,Italian
+940,44,Chennai,2024-08-22,Basic,Indian
+941,54,Mumbai,2024-04-01,Basic,Italian
+942,39,Pune,2024-05-19,Premium,Italian
+943,66,Bengaluru,2025-02-09,Basic,Chinese
+944,43,Mumbai,2025-04-06,Basic,Mexican
+945,24,Mumbai,2025-03-05,Premium,Fast Food
+946,24,Hyderabad,2024-06-17,Premium,Chinese
+947,69,Bengaluru,2024-03-15,Plus,Fast Food
+948,25,Mumbai,2024-03-28,Basic,Indian
+949,68,Pune,2024-08-03,Plus,Fast Food
+950,32,Mumbai,2024-10-10,Premium,Mexican
+951,22,Pune,2025-05-03,Premium,Chinese
+952,34,Pune,2025-05-06,Basic,Mexican
+953,50,Chennai,2024-01-02,Basic,Chinese
+954,40,Hyderabad,2025-01-22,Basic,Mexican
+955,59,Hyderabad,2024-06-12,Basic,Indian
+956,50,Pune,2024-04-18,Plus,Chinese
+957,39,Bengaluru,2024-10-30,Basic,Chinese
+958,51,Chennai,2024-01-19,Basic,Indian
+959,69,Mumbai,2024-07-01,Basic,Chinese
+960,39,Chennai,2024-10-29,Basic,Mexican
+961,26,Mumbai,2024-05-28,Basic,Mexican
+962,39,Chennai,2024-11-20,Basic,Italian
+963,62,Pune,2024-09-08,Basic,Indian
+964,29,Pune,2025-03-13,Premium,Chinese
+965,68,Chennai,2024-04-09,Basic,Fast Food
+966,49,Mumbai,2024-02-01,Basic,Chinese
+967,49,Chennai,2024-10-16,Basic,Indian
+968,34,Hyderabad,2024-05-20,Basic,Italian
+969,66,Hyderabad,2025-01-21,Basic,Indian
+970,19,Mumbai,2024-02-21,Basic,Chinese
+971,33,Bengaluru,2024-11-10,Basic,Fast Food
+972,40,Bengaluru,2025-06-25,Basic,Chinese
+973,43,Mumbai,2024-02-20,Plus,Mexican
+974,43,Hyderabad,2024-06-14,Basic,Italian
+975,25,Hyderabad,2025-04-06,Basic,Chinese
+976,29,Bengaluru,2024-10-18,Plus,Mexican
+977,23,Chennai,2024-04-05,Basic,Italian
+978,48,Mumbai,2024-04-26,Basic,Chinese
+979,36,Bengaluru,2025-02-22,Basic,Chinese
+980,47,Chennai,2025-04-15,Basic,Fast Food
+981,49,Pune,2024-07-16,Basic,Indian
+982,55,Bengaluru,2024-09-16,Premium,Fast Food
+983,46,Mumbai,2025-03-04,Premium,Italian
+984,52,Bengaluru,2024-04-06,Premium,Fast Food
+985,49,Mumbai,2024-04-22,Basic,Chinese
+986,52,Mumbai,2025-02-27,Basic,Italian
+987,50,Pune,2024-04-12,Basic,Mexican
+988,34,Bengaluru,2025-02-25,Basic,Chinese
+989,31,Hyderabad,2024-09-28,Basic,Chinese
+990,59,Mumbai,2025-06-25,Basic,Italian
+991,36,Bengaluru,2024-01-19,Basic,Mexican
+992,47,Bengaluru,2025-06-01,Basic,Chinese
+993,28,Bengaluru,2024-05-03,Basic,Mexican
+994,40,Pune,2024-01-20,Plus,Mexican
+995,46,Mumbai,2025-01-31,Basic,Indian
+996,51,Hyderabad,2024-10-18,Premium,Fast Food
+997,45,Mumbai,2025-04-03,Basic,Indian
+998,37,Hyderabad,2024-02-29,Basic,Mexican
+999,68,Hyderabad,2024-02-14,Basic,Italian
+1000,45,Chennai,2024-11-06,Basic,Mexican
+1001,60,Hyderabad,2025-04-27,Basic,Mexican
+1002,57,Bengaluru,2024-08-09,Basic,Mexican
+1003,47,Pune,2025-03-12,Plus,Mexican
+1004,64,Mumbai,2025-05-10,Basic,Fast Food
+1005,24,Chennai,2025-04-20,Basic,Mexican
+1006,66,Hyderabad,2024-10-05,Premium,Fast Food
+1007,63,Bengaluru,2025-01-17,Basic,Italian
+1008,44,Pune,2024-10-14,Plus,Chinese
+1009,56,Pune,2025-01-03,Basic,Chinese
+1010,45,Pune,2024-11-06,Basic,Mexican
+1011,32,Chennai,2024-10-14,Basic,Italian
+1012,60,Bengaluru,2024-08-26,Basic,Indian
+1013,31,Bengaluru,2024-12-23,Plus,Chinese
+1014,34,Bengaluru,2025-02-14,Basic,Fast Food
+1015,45,Bengaluru,2025-05-17,Basic,Mexican
+1016,62,Bengaluru,2024-12-01,Basic,Mexican
+1017,38,Pune,2024-02-24,Premium,Indian
+1018,44,Bengaluru,2024-11-17,Plus,Indian
+1019,20,Bengaluru,2024-06-21,Premium,Chinese
+1020,24,Mumbai,2024-01-15,Plus,Fast Food
+1021,20,Hyderabad,2024-02-09,Plus,Italian
+1022,21,Mumbai,2024-11-19,Basic,Mexican
+1023,64,Hyderabad,2025-05-31,Premium,Italian
+1024,62,Pune,2024-10-03,Basic,Italian
+1025,61,Hyderabad,2024-08-31,Basic,Mexican
+1026,20,Hyderabad,2024-02-18,Plus,Fast Food
+1027,22,Mumbai,2025-01-04,Basic,Italian
+1028,32,Chennai,2024-01-31,Basic,Italian
+1029,47,Chennai,2025-04-05,Basic,Fast Food
+1030,35,Hyderabad,2025-03-22,Basic,Chinese
+1031,43,Bengaluru,2025-06-26,Plus,Fast Food
+1032,27,Mumbai,2024-06-04,Basic,Italian
+1033,56,Bengaluru,2024-03-29,Plus,Fast Food
+1034,34,Bengaluru,2025-03-13,Basic,Italian
+1035,21,Bengaluru,2024-04-29,Plus,Mexican
+1036,57,Mumbai,2025-04-30,Basic,Chinese
+1037,65,Chennai,2024-03-25,Premium,Mexican
+1038,18,Mumbai,2024-01-27,Basic,Chinese
+1039,41,Mumbai,2024-04-29,Basic,Mexican
+1040,61,Bengaluru,2025-02-16,Basic,Mexican
+1041,55,Mumbai,2024-07-13,Basic,Italian
+1042,63,Chennai,2024-12-24,Basic,Italian
+1043,40,Bengaluru,2024-12-20,Plus,Chinese
+1044,37,Mumbai,2024-10-30,Premium,Mexican
+1045,55,Pune,2024-10-08,Plus,Italian
+1046,26,Chennai,2024-02-25,Basic,Italian
+1047,30,Hyderabad,2024-05-22,Basic,Indian
+1048,49,Chennai,2024-10-15,Plus,Indian
+1049,53,Hyderabad,2024-03-14,Plus,Indian
+1050,24,Hyderabad,2024-09-17,Basic,Fast Food
+1051,44,Hyderabad,2024-03-04,Premium,Fast Food
+1052,37,Hyderabad,2025-03-06,Basic,Indian
+1053,44,Bengaluru,2024-02-26,Plus,Indian
+1054,68,Mumbai,2024-02-20,Premium,Mexican
+1055,22,Mumbai,2024-12-14,Plus,Italian
+1056,70,Mumbai,2024-04-30,Basic,Chinese
+1057,41,Bengaluru,2024-07-11,Plus,Mexican
+1058,58,Chennai,2024-06-20,Basic,Chinese
+1059,40,Chennai,2024-04-28,Plus,Indian
+1060,34,Bengaluru,2025-02-20,Basic,Chinese
+1061,58,Bengaluru,2025-01-13,Plus,Fast Food
+1062,54,Chennai,2024-05-10,Premium,Mexican
+1063,25,Mumbai,2025-01-10,Basic,Indian
+1064,55,Bengaluru,2025-01-25,Basic,Italian
+1065,57,Mumbai,2024-10-21,Plus,Fast Food
+1066,38,Hyderabad,2024-11-12,Basic,Fast Food
+1067,67,Mumbai,2025-05-26,Basic,Mexican
+1068,51,Hyderabad,2024-09-05,Basic,Indian
+1069,35,Hyderabad,2024-07-29,Basic,Chinese
+1070,18,Hyderabad,2024-10-21,Plus,Chinese
+1071,53,Pune,2025-04-02,Plus,Indian
+1072,29,Hyderabad,2025-01-23,Basic,Indian
+1073,58,Hyderabad,2024-02-11,Basic,Chinese
+1074,45,Hyderabad,2024-09-08,Basic,Italian
+1075,42,Mumbai,2025-02-08,Basic,Chinese
+1076,26,Bengaluru,2024-05-02,Plus,Italian
+1077,55,Hyderabad,2025-06-24,Basic,Chinese
+1078,26,Hyderabad,2025-03-18,Basic,Indian
+1079,40,Pune,2025-04-08,Premium,Fast Food
+1080,62,Hyderabad,2024-02-14,Basic,Italian
+1081,66,Hyderabad,2024-11-13,Plus,Chinese
+1082,70,Pune,2024-10-15,Basic,Fast Food
+1083,68,Chennai,2024-12-08,Basic,Fast Food
+1084,47,Bengaluru,2025-04-10,Basic,Fast Food
+1085,28,Bengaluru,2024-07-12,Plus,Indian
+1086,62,Bengaluru,2024-10-19,Plus,Mexican
+1087,60,Bengaluru,2025-01-06,Basic,Fast Food
+1088,70,Chennai,2025-02-15,Basic,Fast Food
+1089,52,Mumbai,2025-02-25,Basic,Chinese
+1090,25,Mumbai,2024-07-03,Plus,Fast Food
+1091,44,Bengaluru,2025-06-30,Plus,Italian
+1092,41,Hyderabad,2024-01-06,Plus,Italian
+1093,62,Bengaluru,2024-09-26,Premium,Italian
+1094,38,Pune,2024-11-28,Basic,Mexican
+1095,35,Bengaluru,2024-02-03,Plus,Indian
+1096,22,Hyderabad,2024-09-03,Plus,Italian
+1097,62,Chennai,2024-11-21,Basic,Fast Food
+1098,58,Hyderabad,2024-11-28,Premium,Italian
+1099,20,Chennai,2024-03-06,Basic,Chinese
+1100,40,Mumbai,2024-05-31,Plus,Indian
+1101,43,Bengaluru,2024-05-13,Plus,Italian
+1102,42,Pune,2024-12-16,Premium,Mexican
+1103,66,Hyderabad,2024-06-28,Basic,Italian
+1104,25,Mumbai,2024-11-08,Basic,Fast Food
+1105,34,Mumbai,2025-02-03,Plus,Mexican
+1106,27,Pune,2025-03-12,Plus,Italian
+1107,30,Bengaluru,2024-04-10,Basic,Indian
+1108,66,Chennai,2025-05-09,Plus,Italian
+1109,67,Bengaluru,2024-03-31,Basic,Indian
+1110,20,Bengaluru,2024-01-12,Plus,Mexican
+1111,51,Hyderabad,2024-01-25,Premium,Indian
+1112,30,Pune,2024-04-19,Basic,Fast Food
+1113,28,Pune,2025-04-22,Basic,Chinese
+1114,33,Hyderabad,2024-04-23,Premium,Italian
+1115,28,Hyderabad,2025-01-14,Plus,Indian
+1116,43,Mumbai,2024-08-16,Premium,Chinese
+1117,70,Pune,2024-01-22,Basic,Fast Food
+1118,49,Bengaluru,2024-08-30,Premium,Chinese
+1119,56,Hyderabad,2024-01-16,Basic,Italian
+1120,44,Mumbai,2024-09-17,Basic,Fast Food
+1121,18,Chennai,2024-11-01,Basic,Mexican
+1122,22,Chennai,2024-10-12,Plus,Indian
+1123,32,Pune,2024-06-03,Premium,Chinese
+1124,30,Pune,2025-02-23,Plus,Chinese
+1125,62,Pune,2024-11-22,Plus,Chinese
+1126,62,Mumbai,2024-05-19,Basic,Chinese
+1127,63,Bengaluru,2024-08-25,Basic,Italian
+1128,51,Chennai,2024-02-29,Basic,Chinese
+1129,47,Hyderabad,2025-05-20,Basic,Chinese
+1130,52,Hyderabad,2025-02-15,Basic,Italian
+1131,39,Hyderabad,2024-06-06,Premium,Chinese
+1132,53,Hyderabad,2025-01-04,Plus,Chinese
+1133,60,Chennai,2025-01-06,Plus,Italian
+1134,58,Mumbai,2024-11-29,Basic,Fast Food
+1135,50,Chennai,2025-04-25,Basic,Italian
+1136,21,Chennai,2025-06-06,Basic,Italian
+1137,56,Bengaluru,2025-06-16,Basic,Fast Food
+1138,37,Bengaluru,2025-06-20,Basic,Mexican
+1139,57,Mumbai,2025-05-23,Basic,Chinese
+1140,46,Chennai,2025-02-08,Basic,Chinese
+1141,64,Bengaluru,2024-02-01,Plus,Italian
+1142,35,Mumbai,2024-09-11,Basic,Italian
+1143,67,Hyderabad,2024-05-14,Basic,Indian
+1144,62,Bengaluru,2024-04-30,Basic,Indian
+1145,35,Chennai,2025-03-30,Basic,Chinese
+1146,43,Bengaluru,2025-03-20,Basic,Fast Food
+1147,46,Hyderabad,2024-10-12,Basic,Mexican
+1148,58,Bengaluru,2025-02-06,Plus,Fast Food
+1149,54,Bengaluru,2024-03-11,Basic,Indian
+1150,63,Bengaluru,2024-05-01,Premium,Italian
+1151,37,Hyderabad,2025-04-15,Basic,Italian
+1152,44,Bengaluru,2024-09-03,Basic,Italian
+1153,40,Mumbai,2024-10-26,Basic,Italian
+1154,66,Bengaluru,2024-09-10,Basic,Chinese
+1155,34,Hyderabad,2024-04-20,Basic,Indian
+1156,49,Chennai,2025-03-28,Premium,Fast Food
+1157,24,Chennai,2025-02-18,Basic,Fast Food
+1158,63,Bengaluru,2025-01-09,Plus,Indian
+1159,38,Mumbai,2024-07-12,Basic,Italian
+1160,36,Pune,2024-12-17,Basic,Italian
+1161,48,Bengaluru,2025-06-05,Basic,Mexican
+1162,44,Bengaluru,2024-12-21,Basic,Fast Food
+1163,62,Pune,2024-09-27,Basic,Italian
+1164,46,Hyderabad,2024-05-27,Premium,Mexican
+1165,45,Bengaluru,2024-10-12,Plus,Fast Food
+1166,23,Bengaluru,2024-07-22,Premium,Fast Food
+1167,19,Hyderabad,2024-11-30,Basic,Chinese
+1168,39,Mumbai,2024-01-25,Plus,Fast Food
+1169,70,Hyderabad,2024-04-14,Plus,Italian
+1170,66,Pune,2025-03-06,Plus,Indian
+1171,51,Hyderabad,2024-07-27,Premium,Mexican
+1172,51,Chennai,2024-08-24,Plus,Fast Food
+1173,38,Hyderabad,2024-10-24,Premium,Chinese
+1174,27,Chennai,2024-08-27,Plus,Italian
+1175,18,Bengaluru,2025-02-18,Basic,Chinese
+1176,35,Bengaluru,2024-05-14,Plus,Indian
+1177,34,Chennai,2025-02-18,Basic,Fast Food
+1178,28,Mumbai,2024-04-24,Premium,Indian
+1179,31,Bengaluru,2024-07-21,Plus,Italian
+1180,19,Chennai,2024-11-17,Basic,Indian
+1181,50,Hyderabad,2025-04-29,Basic,Mexican
+1182,67,Hyderabad,2024-05-07,Basic,Fast Food
+1183,54,Mumbai,2024-11-17,Basic,Mexican
+1184,41,Mumbai,2024-02-05,Basic,Mexican
+1185,40,Mumbai,2024-02-11,Plus,Fast Food
+1186,34,Bengaluru,2025-02-23,Plus,Fast Food
+1187,25,Hyderabad,2025-01-28,Plus,Fast Food
+1188,49,Hyderabad,2024-07-24,Basic,Chinese
+1189,48,Bengaluru,2024-12-06,Basic,Italian
+1190,18,Bengaluru,2024-07-26,Basic,Fast Food
+1191,40,Bengaluru,2024-05-31,Premium,Chinese
+1192,32,Chennai,2024-08-23,Basic,Mexican
+1193,27,Chennai,2024-06-19,Basic,Indian
+1194,55,Bengaluru,2025-03-21,Basic,Fast Food
+1195,45,Mumbai,2024-08-13,Plus,Mexican
+1196,51,Pune,2024-06-24,Basic,Mexican
+1197,55,Bengaluru,2024-10-20,Plus,Fast Food
+1198,70,Pune,2025-02-18,Plus,Chinese
+1199,60,Bengaluru,2024-05-29,Plus,Italian
+1200,50,Pune,2025-05-28,Basic,Fast Food
+1201,64,Pune,2024-09-10,Basic,Indian
+1202,43,Bengaluru,2024-12-27,Basic,Fast Food
+1203,70,Mumbai,2025-06-07,Basic,Chinese
+1204,58,Pune,2024-08-24,Plus,Italian
+1205,52,Pune,2024-04-19,Basic,Italian
+1206,65,Pune,2025-02-13,Basic,Mexican
+1207,45,Hyderabad,2024-01-04,Basic,Fast Food
+1208,56,Bengaluru,2024-09-07,Plus,Chinese
+1209,33,Mumbai,2025-06-20,Basic,Indian
+1210,69,Hyderabad,2024-08-14,Plus,Italian
+1211,51,Hyderabad,2025-01-09,Basic,Mexican
+1212,59,Chennai,2024-10-14,Premium,Mexican
+1213,42,Hyderabad,2024-04-27,Plus,Mexican
+1214,63,Bengaluru,2024-06-22,Basic,Chinese
+1215,21,Mumbai,2024-10-13,Basic,Fast Food
+1216,24,Bengaluru,2024-02-27,Basic,Indian
+1217,44,Mumbai,2024-08-14,Basic,Indian
+1218,56,Mumbai,2024-08-14,Basic,Indian
+1219,60,Hyderabad,2025-04-01,Premium,Fast Food
+1220,41,Hyderabad,2024-03-08,Plus,Indian
+1221,52,Chennai,2025-04-05,Basic,Mexican
+1222,47,Pune,2024-08-12,Plus,Fast Food
+1223,68,Mumbai,2024-12-22,Basic,Mexican
+1224,52,Chennai,2024-10-31,Premium,Fast Food
+1225,40,Bengaluru,2024-06-12,Basic,Indian
+1226,69,Bengaluru,2025-05-24,Plus,Italian
+1227,23,Hyderabad,2024-05-02,Plus,Italian
+1228,70,Pune,2024-01-20,Basic,Mexican
+1229,26,Mumbai,2025-02-14,Basic,Mexican
+1230,33,Bengaluru,2024-12-05,Basic,Italian
+1231,61,Mumbai,2025-05-02,Premium,Chinese
+1232,56,Chennai,2024-09-07,Basic,Indian
+1233,69,Mumbai,2024-01-10,Plus,Italian
+1234,57,Bengaluru,2024-01-12,Plus,Chinese
+1235,51,Hyderabad,2024-08-24,Plus,Italian
+1236,36,Pune,2024-05-16,Basic,Mexican
+1237,18,Bengaluru,2025-05-19,Basic,Italian
+1238,24,Mumbai,2024-03-05,Plus,Italian
+1239,33,Pune,2025-04-26,Basic,Indian
+1240,20,Bengaluru,2024-04-28,Premium,Mexican
+1241,44,Bengaluru,2024-03-06,Basic,Italian
+1242,59,Mumbai,2024-05-30,Basic,Indian
+1243,69,Chennai,2024-03-19,Plus,Chinese
+1244,43,Bengaluru,2024-08-07,Basic,Mexican
+1245,64,Hyderabad,2024-06-29,Basic,Fast Food
+1246,70,Mumbai,2024-10-16,Basic,Italian
+1247,63,Chennai,2024-10-20,Basic,Fast Food
+1248,42,Chennai,2024-01-01,Plus,Indian
+1249,35,Mumbai,2024-03-09,Basic,Chinese
+1250,69,Hyderabad,2024-03-29,Basic,Fast Food
+1251,30,Mumbai,2024-04-16,Basic,Indian
+1252,39,Chennai,2024-02-21,Premium,Mexican
+1253,21,Pune,2024-06-21,Basic,Chinese
+1254,60,Hyderabad,2024-10-27,Premium,Chinese
+1255,52,Bengaluru,2024-06-17,Premium,Italian
+1256,22,Pune,2024-06-29,Basic,Chinese
+1257,29,Hyderabad,2024-09-13,Plus,Fast Food
+1258,47,Bengaluru,2024-10-26,Plus,Fast Food
+1259,46,Bengaluru,2024-06-30,Basic,Italian
+1260,60,Mumbai,2024-05-01,Basic,Italian
+1261,32,Bengaluru,2024-08-11,Plus,Indian
+1262,67,Chennai,2024-01-14,Plus,Chinese
+1263,41,Bengaluru,2024-09-26,Plus,Indian
+1264,61,Chennai,2025-05-29,Premium,Fast Food
+1265,30,Chennai,2024-08-05,Basic,Chinese
+1266,19,Hyderabad,2024-02-29,Plus,Chinese
+1267,20,Bengaluru,2025-01-21,Premium,Fast Food
+1268,37,Bengaluru,2024-03-10,Basic,Mexican
+1269,68,Hyderabad,2024-04-15,Basic,Mexican
+1270,20,Chennai,2024-03-21,Basic,Indian
+1271,37,Hyderabad,2025-04-28,Premium,Italian
+1272,23,Bengaluru,2025-06-20,Basic,Italian
+1273,67,Bengaluru,2024-11-07,Plus,Chinese
+1274,53,Bengaluru,2024-12-03,Basic,Mexican
+1275,58,Chennai,2024-12-19,Basic,Fast Food
+1276,55,Chennai,2024-11-29,Plus,Chinese
+1277,52,Mumbai,2024-10-24,Basic,Chinese
+1278,59,Chennai,2025-06-23,Premium,Chinese
+1279,18,Hyderabad,2025-02-05,Basic,Fast Food
+1280,63,Hyderabad,2024-02-18,Premium,Indian
+1281,57,Bengaluru,2024-08-02,Basic,Fast Food
+1282,57,Hyderabad,2025-06-17,Premium,Mexican
+1283,38,Chennai,2024-08-08,Plus,Italian
+1284,60,Chennai,2024-04-21,Basic,Italian
+1285,38,Bengaluru,2025-04-20,Basic,Fast Food
+1286,20,Mumbai,2024-12-06,Basic,Mexican
+1287,66,Pune,2024-11-03,Plus,Chinese
+1288,30,Bengaluru,2024-08-17,Plus,Indian
+1289,23,Hyderabad,2024-03-09,Basic,Mexican
+1290,50,Mumbai,2024-07-29,Basic,Indian
+1291,30,Chennai,2024-08-27,Plus,Indian
+1292,63,Mumbai,2025-05-24,Basic,Fast Food
+1293,41,Hyderabad,2024-06-17,Plus,Italian
+1294,18,Pune,2024-03-22,Basic,Mexican
+1295,68,Pune,2024-08-21,Plus,Chinese
+1296,45,Bengaluru,2025-06-29,Premium,Indian
+1297,31,Chennai,2024-09-20,Basic,Indian
+1298,53,Hyderabad,2024-07-26,Basic,Chinese
+1299,46,Bengaluru,2024-12-30,Basic,Indian
+1300,19,Chennai,2024-12-20,Plus,Italian
+1301,58,Pune,2024-06-12,Basic,Chinese
+1302,39,Bengaluru,2025-06-13,Premium,Italian
+1303,55,Chennai,2024-11-20,Plus,Italian
+1304,65,Mumbai,2024-02-01,Basic,Chinese
+1305,50,Chennai,2024-08-10,Plus,Italian
+1306,53,Hyderabad,2025-05-19,Basic,Indian
+1307,31,Pune,2024-08-03,Plus,Chinese
+1308,30,Hyderabad,2024-11-06,Basic,Fast Food
+1309,39,Bengaluru,2024-12-01,Plus,Fast Food
+1310,63,Bengaluru,2025-01-20,Premium,Italian
+1311,45,Pune,2025-04-22,Plus,Fast Food
+1312,36,Bengaluru,2024-03-22,Premium,Italian
+1313,59,Hyderabad,2024-10-09,Basic,Indian
+1314,63,Bengaluru,2024-10-18,Plus,Fast Food
+1315,65,Chennai,2024-03-24,Plus,Italian
+1316,33,Pune,2025-01-03,Plus,Mexican
+1317,55,Hyderabad,2024-03-05,Basic,Mexican
+1318,49,Pune,2024-09-06,Basic,Chinese
+1319,41,Bengaluru,2024-06-29,Plus,Mexican
+1320,39,Hyderabad,2024-03-25,Basic,Italian
+1321,24,Mumbai,2025-03-25,Plus,Chinese
+1322,32,Chennai,2024-05-13,Plus,Chinese
+1323,47,Bengaluru,2024-05-19,Premium,Mexican
+1324,64,Mumbai,2025-04-12,Basic,Chinese
+1325,63,Chennai,2025-04-24,Premium,Indian
+1326,27,Hyderabad,2024-01-19,Basic,Fast Food
+1327,54,Pune,2024-05-31,Basic,Chinese
+1328,22,Bengaluru,2025-01-22,Plus,Mexican
+1329,53,Chennai,2025-03-01,Basic,Mexican
+1330,36,Bengaluru,2025-06-30,Basic,Fast Food
+1331,41,Chennai,2024-10-30,Basic,Mexican
+1332,56,Bengaluru,2024-01-05,Basic,Mexican
+1333,40,Mumbai,2025-04-22,Plus,Fast Food
+1334,60,Bengaluru,2024-03-29,Basic,Fast Food
+1335,46,Mumbai,2024-03-07,Basic,Indian
+1336,70,Bengaluru,2025-01-03,Plus,Mexican
+1337,51,Chennai,2024-11-26,Basic,Indian
+1338,33,Chennai,2024-02-02,Plus,Fast Food
+1339,59,Mumbai,2024-04-02,Premium,Indian
+1340,39,Hyderabad,2024-11-18,Plus,Chinese
+1341,46,Chennai,2024-05-19,Premium,Indian
+1342,25,Mumbai,2025-01-09,Basic,Mexican
+1343,24,Hyderabad,2024-08-13,Plus,Indian
+1344,48,Bengaluru,2024-11-17,Basic,Indian
+1345,27,Pune,2024-09-16,Basic,Italian
+1346,70,Chennai,2024-07-18,Plus,Fast Food
+1347,63,Bengaluru,2024-07-06,Basic,Italian
+1348,55,Hyderabad,2025-01-16,Premium,Italian
+1349,56,Bengaluru,2024-10-08,Plus,Mexican
+1350,49,Bengaluru,2024-11-21,Premium,Italian
+1351,21,Mumbai,2024-11-11,Basic,Chinese
+1352,38,Bengaluru,2024-04-23,Basic,Italian
+1353,44,Mumbai,2025-05-14,Plus,Indian
+1354,66,Pune,2024-11-04,Basic,Chinese
+1355,29,Hyderabad,2025-01-27,Basic,Mexican
+1356,44,Mumbai,2025-04-27,Plus,Chinese
+1357,36,Mumbai,2025-05-20,Premium,Indian
+1358,25,Pune,2024-12-30,Plus,Indian
+1359,23,Chennai,2025-03-06,Basic,Fast Food
+1360,37,Bengaluru,2024-09-15,Basic,Chinese
+1361,22,Hyderabad,2025-02-07,Plus,Indian
+1362,21,Hyderabad,2024-06-24,Basic,Mexican
+1363,36,Bengaluru,2024-02-16,Basic,Italian
+1364,28,Hyderabad,2025-05-15,Basic,Italian
+1365,47,Bengaluru,2024-05-13,Basic,Fast Food
+1366,18,Pune,2024-12-25,Basic,Chinese
+1367,33,Bengaluru,2024-01-07,Basic,Italian
+1368,42,Bengaluru,2024-03-26,Plus,Mexican
+1369,69,Bengaluru,2025-06-23,Basic,Mexican
+1370,51,Bengaluru,2025-03-31,Plus,Chinese
+1371,64,Bengaluru,2024-05-01,Basic,Mexican
+1372,36,Bengaluru,2024-03-12,Premium,Mexican
+1373,41,Bengaluru,2025-03-21,Basic,Indian
+1374,40,Bengaluru,2025-06-25,Basic,Indian
+1375,65,Chennai,2024-04-02,Basic,Mexican
+1376,68,Chennai,2024-12-29,Basic,Indian
+1377,69,Chennai,2024-06-04,Basic,Fast Food
+1378,57,Chennai,2025-02-11,Plus,Indian
+1379,44,Bengaluru,2024-08-16,Premium,Fast Food
+1380,46,Bengaluru,2024-03-09,Basic,Mexican
+1381,69,Bengaluru,2024-06-26,Basic,Italian
+1382,33,Mumbai,2024-10-21,Plus,Chinese
+1383,36,Pune,2025-03-12,Plus,Chinese
+1384,65,Pune,2024-01-12,Basic,Mexican
+1385,38,Hyderabad,2025-06-07,Plus,Mexican
+1386,30,Hyderabad,2024-12-21,Basic,Chinese
+1387,47,Chennai,2025-04-23,Plus,Italian
+1388,35,Mumbai,2025-05-23,Basic,Fast Food
+1389,65,Mumbai,2024-03-25,Basic,Chinese
+1390,66,Mumbai,2024-02-21,Basic,Mexican
+1391,34,Pune,2025-02-28,Plus,Indian
+1392,46,Chennai,2024-04-12,Basic,Fast Food
+1393,70,Mumbai,2024-03-21,Plus,Indian
+1394,57,Mumbai,2024-09-13,Plus,Chinese
+1395,29,Chennai,2025-05-14,Plus,Italian
+1396,49,Pune,2025-03-11,Basic,Chinese
+1397,50,Bengaluru,2024-10-10,Basic,Indian
+1398,52,Pune,2024-04-17,Basic,Mexican
+1399,19,Mumbai,2024-07-03,Plus,Indian
+1400,33,Bengaluru,2025-01-11,Premium,Fast Food
+1401,63,Hyderabad,2024-03-26,Basic,Indian
+1402,30,Bengaluru,2024-10-13,Premium,Chinese
+1403,33,Mumbai,2024-01-07,Basic,Fast Food
+1404,35,Mumbai,2024-06-26,Basic,Indian
+1405,27,Hyderabad,2024-05-15,Basic,Indian
+1406,26,Mumbai,2025-01-07,Plus,Mexican
+1407,36,Bengaluru,2025-05-14,Basic,Indian
+1408,64,Bengaluru,2024-03-21,Basic,Fast Food
+1409,18,Chennai,2025-03-12,Plus,Italian
+1410,33,Bengaluru,2024-12-24,Basic,Fast Food
+1411,21,Chennai,2025-06-14,Basic,Chinese
+1412,47,Bengaluru,2025-05-13,Basic,Indian
+1413,31,Chennai,2024-02-25,Basic,Fast Food
+1414,59,Chennai,2025-02-10,Basic,Mexican
+1415,49,Mumbai,2024-11-19,Basic,Fast Food
+1416,59,Bengaluru,2024-03-02,Plus,Chinese
+1417,51,Pune,2024-05-20,Basic,Italian
+1418,41,Chennai,2025-05-22,Plus,Italian
+1419,63,Chennai,2024-10-23,Basic,Italian
+1420,43,Hyderabad,2024-07-04,Basic,Chinese
+1421,68,Chennai,2024-06-24,Basic,Chinese
+1422,70,Bengaluru,2025-04-03,Basic,Mexican
+1423,49,Hyderabad,2024-06-04,Basic,Indian
+1424,53,Bengaluru,2024-03-27,Basic,Chinese
+1425,31,Chennai,2024-11-09,Premium,Chinese
+1426,61,Hyderabad,2025-06-26,Plus,Indian
+1427,53,Chennai,2024-04-10,Basic,Indian
+1428,65,Mumbai,2024-05-19,Plus,Italian
+1429,32,Bengaluru,2024-09-13,Plus,Indian
+1430,59,Pune,2024-04-19,Plus,Chinese
+1431,42,Mumbai,2024-12-21,Basic,Italian
+1432,27,Pune,2024-05-18,Basic,Fast Food
+1433,27,Mumbai,2024-03-11,Basic,Indian
+1434,47,Bengaluru,2024-05-22,Basic,Italian
+1435,34,Hyderabad,2025-05-24,Basic,Indian
+1436,23,Bengaluru,2025-05-26,Premium,Italian
+1437,40,Mumbai,2024-10-03,Premium,Italian
+1438,52,Hyderabad,2024-08-07,Basic,Mexican
+1439,34,Bengaluru,2025-03-24,Basic,Italian
+1440,68,Pune,2024-04-16,Basic,Fast Food
+1441,59,Bengaluru,2024-12-23,Basic,Indian
+1442,45,Hyderabad,2025-01-06,Plus,Indian
+1443,67,Mumbai,2025-01-23,Basic,Indian
+1444,40,Bengaluru,2024-04-29,Plus,Chinese
+1445,25,Hyderabad,2025-01-26,Premium,Indian
+1446,19,Mumbai,2024-11-30,Plus,Indian
+1447,67,Bengaluru,2025-04-23,Plus,Chinese
+1448,68,Hyderabad,2024-04-05,Basic,Fast Food
+1449,57,Bengaluru,2024-12-01,Basic,Fast Food
+1450,23,Mumbai,2025-03-29,Basic,Indian
+1451,33,Bengaluru,2024-06-01,Plus,Fast Food
+1452,20,Pune,2025-02-10,Basic,Chinese
+1453,20,Pune,2024-02-24,Plus,Italian
+1454,31,Bengaluru,2025-01-27,Basic,Chinese
+1455,48,Chennai,2024-11-27,Basic,Italian
+1456,21,Hyderabad,2024-04-15,Basic,Mexican
+1457,70,Mumbai,2024-02-06,Premium,Mexican
+1458,42,Chennai,2025-02-11,Basic,Italian
+1459,31,Bengaluru,2024-05-11,Basic,Mexican
+1460,45,Bengaluru,2024-09-29,Basic,Mexican
+1461,59,Pune,2024-02-03,Plus,Indian
+1462,34,Chennai,2025-06-11,Premium,Chinese
+1463,20,Mumbai,2024-10-27,Basic,Indian
+1464,20,Hyderabad,2025-05-24,Premium,Mexican
+1465,63,Pune,2024-03-28,Basic,Italian
+1466,23,Bengaluru,2024-04-22,Plus,Mexican
+1467,51,Bengaluru,2024-11-29,Basic,Italian
+1468,38,Pune,2024-11-26,Basic,Chinese
+1469,59,Pune,2025-03-08,Plus,Indian
+1470,21,Chennai,2025-05-22,Basic,Fast Food
+1471,65,Chennai,2025-03-25,Basic,Chinese
+1472,55,Chennai,2024-03-17,Plus,Indian
+1473,41,Chennai,2024-06-18,Premium,Chinese
+1474,28,Bengaluru,2025-05-14,Basic,Fast Food
+1475,69,Pune,2024-10-27,Plus,Chinese
+1476,34,Bengaluru,2025-04-19,Plus,Fast Food
+1477,43,Mumbai,2024-11-03,Basic,Italian
+1478,38,Bengaluru,2024-01-28,Premium,Fast Food
+1479,30,Bengaluru,2024-09-15,Basic,Mexican
+1480,40,Hyderabad,2025-03-27,Plus,Indian
+1481,26,Chennai,2024-12-24,Basic,Italian
+1482,18,Hyderabad,2024-03-13,Basic,Italian
+1483,33,Bengaluru,2024-04-24,Basic,Chinese
+1484,23,Pune,2025-04-12,Basic,Italian
+1485,39,Mumbai,2025-06-19,Premium,Indian
+1486,63,Mumbai,2025-02-15,Premium,Mexican
+1487,26,Bengaluru,2024-02-23,Basic,Fast Food
+1488,18,Chennai,2024-12-04,Basic,Indian
+1489,23,Chennai,2025-03-29,Basic,Italian
+1490,44,Hyderabad,2024-12-16,Basic,Mexican
+1491,32,Chennai,2024-11-20,Basic,Indian
+1492,43,Bengaluru,2024-09-12,Premium,Chinese
+1493,19,Chennai,2024-05-13,Plus,Chinese
+1494,35,Bengaluru,2024-06-02,Basic,Indian
+1495,39,Chennai,2025-02-11,Basic,Fast Food
+1496,40,Bengaluru,2024-02-08,Plus,Italian
+1497,47,Bengaluru,2024-02-16,Basic,Mexican
+1498,59,Hyderabad,2024-08-04,Basic,Italian
+1499,42,Chennai,2025-02-27,Basic,Fast Food
+1500,62,Chennai,2024-12-25,Basic,Fast Food
