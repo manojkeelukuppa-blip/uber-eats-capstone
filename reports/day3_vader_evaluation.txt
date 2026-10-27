@@ -1,0 +1,15 @@
+DAY 3 — VADER SENTIMENT EVALUATION
+=============================================
+Reference labels: rating-derived sentiment
+Accuracy: 0.8342
+Macro F1-score: 0.6665
+
+              precision    recall  f1-score   support
+
+    negative       0.71      0.71      0.71       406
+     neutral       0.53      0.26      0.35       502
+    positive       0.89      1.00      0.94      2041
+
+    accuracy                           0.83      2949
+   macro avg       0.71      0.66      0.67      2949
+weighted avg       0.80      0.83      0.81      2949

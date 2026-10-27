@@ -1,0 +1,22 @@
+DAY 3 — NEGATIVE REVIEW THEMES
+=============================================
+Total reviews: 2949
+Negative reviews: 406
+
+Complaint theme counts:
+complaint_theme
+Late or delayed delivery          219
+Price and value                    95
+Service and overall experience     92
+
+Sample negative reviews by theme:
+
+Late or delayed delivery:
+- Food arrived cold and late
+- Order was delayed and food was soggy
+
+Price and value:
+- Not worth the price
+
+Service and overall experience:
+- Poor service and disappointing taste
