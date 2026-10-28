@@ -1,0 +1,17 @@
+Hourly Demand Forecasting Summary
+========================================
+ARIMA order: (1, 0, 1)
+Training observations: 3474
+Testing observations: 869
+Training end: 2025-05-25 18:00:00
+Testing start: 2025-05-25 19:00:00
+
+               Model      MAE     RMSE  WAPE_percent  MAPE_nonzero_percent
+        ARIMA(1,0,1) 0.801828 1.022351     70.811818             30.595922
+             Prophet 0.805634 1.022192     71.147988             31.194516
+Seasonal Naive (24h) 0.996548 1.321679     88.008130             55.088300
+
+Best model by MAE: ARIMA(1,0,1)
+
+MAPE is calculated only for hours with nonzero actual demand; zero-demand hours are excluded.
+WAPE uses all test hours and is reported as an additional metric.

@@ -1,0 +1,2 @@
+test,series,adf_statistic,p_value,used_lags,observations_used,conclusion_at_5_percent,critical_value_1%,critical_value_5%,critical_value_10%
+Augmented Dickey-Fuller,original hourly order_count,-65.5492751526325,0.0,0,4342,Reject the unit-root null hypothesis at the 5% level. The series appears stationary under this test.,-3.4318569484508696,-2.8622058860549227,-2.5671244557662125
