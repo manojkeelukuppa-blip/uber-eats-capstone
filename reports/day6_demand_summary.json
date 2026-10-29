@@ -1,0 +1,11 @@
+{
+  "hourly_observations": 4343,
+  "average_orders_per_hour": 1.151,
+  "maximum_orders_in_an_hour": 6,
+  "historical_data_start": "2025-01-01 01:00:00",
+  "historical_data_end": "2025-06-30 23:00:00",
+  "forecast_start": "2025-07-01 00:00:00",
+  "forecast_end": "2025-07-01 23:00:00",
+  "average_arima_forecast": 1.151,
+  "forecast_is_historical_not_live": true
+}

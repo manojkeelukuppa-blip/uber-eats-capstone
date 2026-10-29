@@ -1,0 +1,8 @@
+{
+  "records_with_delivery_features": 4538,
+  "valid_delivery_time_records": 4538,
+  "mean_delivery_time_minutes": 50.68,
+  "median_delivery_time_minutes": 49.0,
+  "minimum_delivery_time_minutes": 11.0,
+  "maximum_delivery_time_minutes": 137.0
+}

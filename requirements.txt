@@ -8,3 +8,5 @@ jupyter
 nltk
 vaderSentiment
 statsmodels
+tabulate
+prophet

@@ -1,0 +1,3 @@
+kmeans_cluster,customers,average_orders,average_order_value,average_spending,cluster_name
+0,629,5.014308426073132,188.4791630333542,939.7095548489667,Frequent High-Spending Customers
+1,871,2.1194029850746268,171.5486098354382,381.9371641791045,Occasional Lower-Spending Customers
